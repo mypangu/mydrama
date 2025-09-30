@@ -1,0 +1,3216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+  <title>Meow - Stream Anywhere</title>
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="manifest" href="/manifest.json">
+  <meta name="theme-color" content="#ff4b2b">
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <style>
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --primary: #ff4b2b;
+  --primary-dark: #e63946;
+  --secondary: #ff6b47;
+  --bg-primary: #0a0a0a;
+  --bg-secondary: #141414;
+  --bg-card: #1a1a1a;
+  --text-primary: #ffffff;
+  --text-secondary: #b3b3b3;
+  --text-muted: #8a8a8a;
+  --border: #333333;
+  --success: #00d4aa;
+  --warning: #ffa726;
+}
+
+body {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  line-height: 1.6;
+  overflow-x: hidden;
+}
+
+/* Header */
+.header {
+  position: sticky;
+  top: 0;
+  background: rgba(10, 10, 10, 0.95);
+  backdrop-filter: blur(20px);
+  border-bottom: 1px solid var(--border);
+  z-index: 100;
+  padding: 0.75rem 1rem;
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  max-width: 1400px;
+  margin: 0 auto;
+  flex-wrap: nowrap; 
+  overflow: hidden;
+}
+
+/* Mobile Menu Button */
+.mobile-menu-btn {
+  display: block;
+  background: none;
+  border: none;
+  color: var(--text-primary);
+  font-size: 1.5rem;
+  cursor: pointer;
+  padding: 0.5rem;
+  border-radius: 8px;
+  transition: background 0.3s ease;
+}
+
+.mobile-menu-btn:hover {
+  background: var(--bg-card);
+}
+
+.logo {
+  font-size: 1.5rem;
+  font-weight: 700;
+  background: linear-gradient(135deg, var(--primary), var(--secondary));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  flex-shrink: 0;
+  text-decoration: none;
+  min-width: fit-content;
+}
+
+/* Desktop Navigation */
+.desktop-nav {
+  display: none;
+  gap: 1rem;
+  flex: 1;
+  margin-left: 1rem;
+  overflow: hidden; 
+}
+
+.nav-item {
+  color: var(--text-secondary);
+  text-decoration: none;
+  font-weight: 500;
+  padding: 1rem 0.75rem; 
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  white-space: nowrap;
+  font-size: 0.9rem; 
+  flex-shrink: 0; 
+}
+
+.nav-item:hover {
+  color: var(--text-primary);
+  background: var(--bg-card);
+}
+
+.nav-item.active {
+  color: var(--primary);
+  background: rgba(255, 75, 43, 0.1);
+}
+
+.search-container {
+  position: relative;
+  max-width: 300px;
+  min-width: 200px;
+  flex-shrink: 1;
+}
+
+.search-input {
+  width: 100%;
+  padding: 0.75rem 1rem 0.75rem 2.5rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 50px;
+  color: var(--text-primary);
+  font-size: 0.9rem;
+  transition: all 0.3s ease;
+}
+
+.search-input:focus {
+  outline: none;
+  border-color: var(--primary);
+  box-shadow: 0 0 0 3px rgba(255, 75, 43, 0.1);
+}
+
+.search-icon {
+  position: absolute;
+  left: 1rem;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--text-muted);
+  font-size: 1rem;
+}
+
+.clear-search {
+  position: absolute;
+  right: 1rem;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  color: var(--text-muted);
+  cursor: pointer;
+  font-size: 1rem;
+  padding: 0.25rem;
+  border-radius: 50%;
+  transition: all 0.3s ease;
+  display: none;
+}
+
+.clear-search:hover {
+  color: var(--text-primary);
+  background: var(--bg-secondary);
+}
+
+.clear-search.visible {
+  display: block;
+}
+
+/* Medium screens - Compact navigation */
+@media (max-width: 1390px) and (min-width: 769px) {
+  .desktop-nav {
+    gap: 0.5rem;
+    margin-left: 0.5rem;
+  }
+  
+  .nav-item {
+    padding: 0.4rem 0.6rem;
+    font-size: 0.85rem;
+  }
+  
+  .search-container {
+    max-width: 200px;
+    min-width: 150px;
+  }
+  
+  .logo {
+    font-size: 1.3rem;
+  }
+}
+
+/* Small desktop screens - Very compact navigation */
+@media (max-width: 1024px) and (min-width: 769px) {
+  .header-content {
+    gap: 0.5rem;
+  }
+  
+  .desktop-nav {
+    gap: 0.25rem;
+    margin-left: 0.25rem;
+  }
+  
+  .nav-item {
+    padding: 0.3rem 0.5rem;
+    font-size: 0.8rem;
+  }
+  
+  .search-container {
+    max-width: 180px;
+    min-width: 120px;
+  }
+  
+  .search-input {
+    padding: 0.6rem 0.8rem 0.6rem 2rem;
+    font-size: 0.85rem;
+  }
+}
+
+/* Mobile Menu Overlay */
+.mobile-menu-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.8);
+  z-index: 200;
+  display: none;
+}
+
+.mobile-menu {
+  position: fixed;
+  top: 0;
+  left: -100%;
+  width: 280px;
+  height: 100vh;
+  background: var(--bg-secondary);
+  z-index: 300;
+  transition: left 0.3s ease;
+  padding: 1rem;
+  overflow-y: auto;
+}
+
+.mobile-menu.open {
+  left: 0;
+}
+
+.mobile-menu-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.mobile-menu-close {
+  background: none;
+  border: none;
+  color: var(--text-primary);
+  font-size: 1.5rem;
+  cursor: pointer;
+  padding: 0.5rem;
+  border-radius: 50%;
+  transition: background 0.3s ease;
+}
+
+.mobile-menu-close:hover {
+  background: var(--bg-card);
+}
+
+.mobile-nav {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.mobile-nav-item {
+  color: var(--text-secondary);
+  text-decoration: none;
+  font-weight: 500;
+  padding: 1rem;
+  border-radius: 12px;
+  transition: all 0.3s ease;
+  border: 1px solid transparent;
+}
+
+.mobile-nav-item:hover {
+  color: var(--text-primary);
+  background: var(--bg-card);
+  border-color: var(--border);
+}
+
+.mobile-nav-item.active {
+  color: var(--primary);
+  background: rgba(255, 75, 43, 0.1);
+  border-color: var(--primary);
+}
+
+.telegram-link {
+  color: #0088cc !important;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+/* Search Results Header */
+.search-results-header {
+  padding: 1rem 1rem 0;
+  max-width: 1400px;
+  margin: 0 auto;
+  display: none;
+}
+
+.search-results-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: 0.5rem;
+}
+
+.search-results-count {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+/* Main Content */
+.main-content {
+  padding: 1.5rem 1rem;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+/* Continue Watching */
+.continue-section {
+  padding: 1.5rem 1rem 0;
+  max-width: 1400px;
+  margin: 0 auto;
+  display: none;
+}
+
+.continue-wrapper {
+  position: relative;
+  overflow: hidden;
+}
+
+.continue-scroll {
+  display: flex;
+  gap: 1rem;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  padding-bottom: 1rem;
+}
+
+.continue-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+.continue-card {
+  flex-shrink: 0;
+  width: 140px;
+  background: var(--bg-card);
+  border-radius: 12px;
+  overflow: hidden;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border: 1px solid transparent;
+}
+
+.continue-card:hover {
+  transform: translateY(-4px);
+  border-color: var(--primary);
+  box-shadow: 0 12px 30px rgba(255, 75, 43, 0.25);
+}
+
+.continue-thumbnail-wrapper {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 3/4;
+  overflow: hidden;
+}
+
+.continue-thumbnail {
+  width: 100%;
+  height: 100%;
+  object-fit: fit;
+}
+
+.remove-btn {
+  position: absolute;
+  top: 4px;
+  right: 4px;
+  background: rgba(0, 0, 0, 0.8);
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 24px;
+  height: 24px;
+  font-size: 14px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+}
+
+.remove-btn:hover {
+  background: var(--primary);
+  transform: scale(1.1);
+}
+
+.continue-title,
+.continue-episode {
+  padding: 0.5rem;
+  font-size: 0.85rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.continue-title {
+  color: var(--text-primary);
+  font-weight: 500;
+}
+
+.continue-episode {
+  color: var(--text-secondary);
+  padding-top: 0;
+}
+
+.progress-bar {
+  height: 3px;
+  background: var(--border);
+  margin: 0 0.5rem 0.5rem;
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  background: var(--primary);
+  border-radius: 2px;
+  transition: width 0.3s ease;
+}
+
+/* Section */
+.section {
+  margin-bottom: 2rem;
+}
+
+.section-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+.section-title {
+  font-size: 1rem;
+  font-weight: 600;
+  font-family: "Georgia", serif;
+  color: var(--text-primary);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.section-icon {
+  font-size: 0.1rem;
+  opacity: 0;
+}
+
+.view-all-btn {
+  background: none;
+  border: 1px solid var(--border);
+  color: var(--text-secondary);
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.view-all-btn:hover {
+  background: var(--bg-card);
+  border-color: var(--primary);
+  color: var(--text-primary);
+}
+
+.view-all-btn.active {
+  background: var(--primary);
+  border-color: var(--primary);
+  color: white;
+}
+
+.section-grid {
+  display: none;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.section-grid.active {
+  display: grid;
+}
+
+/* Section visibility states */
+.section.hidden-for-view-all {
+  display: none !important;
+}
+
+.section.view-all-active {
+  margin-top: 0;
+}
+
+.section.view-all-active .section-header {
+  position: sticky;
+  top: 70px;
+  background: var(--bg-primary);
+  z-index: 50;
+  padding: 1rem 0;
+  margin-bottom: 1rem;
+}
+
+/* Back to sections button */
+.back-to-sections {
+  display: none;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  color: var(--text-primary);
+  padding: 0.75rem 1rem;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.back-to-sections:hover {
+  background: var(--primary);
+  border-color: var(--primary);
+  color: white;
+}
+
+.back-to-sections.visible {
+  display: flex;
+}
+
+/* Horizontal Scroll */
+.shows-wrapper {
+  position: relative;
+  overflow: hidden;
+}
+
+.shows-scroll {
+  display: flex;
+  gap: 1rem;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  padding-bottom: 1rem;
+}
+
+.shows-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+.show-card {
+  flex-shrink: 0;
+  width: 140px;
+  background: var(--bg-card);
+  border-radius: 12px;
+  overflow: hidden;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border: 1px solid transparent;
+  position: relative;
+}
+
+.show-card:hover {
+  transform: translateY(-4px);
+  border-color: var(--primary);
+  box-shadow: 0 12px 30px rgba(255, 75, 43, 0.25);
+}
+
+.show-image {
+  width: 100%;
+  height: 200px;
+  object-fit: fit;
+  transition: transform 0.3s ease;
+}
+
+.show-card:hover .show-image {
+  transform: scale(1.05);
+}
+
+.show-info {
+  padding: 0.75rem;
+}
+
+.show-title {
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--text-primary);
+  margin-bottom: 0.25rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.show-episodes {
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+}
+
+/* Search Results Grid */
+.search-results-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+/* Player Overlay */
+.player-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.98);
+  backdrop-filter: blur(10px);
+  z-index: 1000;
+  display: none;
+  flex-direction: column;
+}
+
+.player-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem;
+  background: rgba(20, 20, 20, 0.9);
+  border-bottom: 1px solid var(--border);
+}
+
+.player-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  flex: 1;
+  margin-right: 1rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.close-btn {
+  background: none;
+  border: none;
+  color: var(--text-primary);
+  font-size: 1.5rem;
+  cursor: pointer;
+  padding: 0.5rem;
+  border-radius: 50%;
+  transition: background 0.3s ease;
+}
+
+.close-btn:hover {
+  background: var(--bg-card);
+}
+
+.player-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.video-container {
+  position: relative;
+  background: #000;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.video-player {
+  width: 100%;
+  height: 100%;
+  max-height: 70vh;
+  object-fit: contain;
+}
+
+.player-controls {
+  background: var(--bg-secondary);
+  padding: 1rem;
+  border-top: 1px solid var(--border);
+}
+
+.controls-row {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.control-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  flex: 1;
+  min-width: 120px;
+}
+
+.control-label {
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+  font-weight: 500;
+}
+
+.control-select {
+  padding: 0.75rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  color: var(--text-primary);
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: border-color 0.3s ease;
+}
+
+.control-select:focus {
+  outline: none;
+  border-color: var(--primary);
+}
+
+.auto-play-toggle {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  cursor: pointer;
+  user-select: none;
+}
+
+.toggle-switch {
+  position: relative;
+  width: 44px;
+  height: 24px;
+  background: var(--border);
+  border-radius: 12px;
+  transition: background 0.3s ease;
+}
+
+.toggle-switch.active {
+  background: var(--primary);
+}
+
+.toggle-knob {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 20px;
+  height: 20px;
+  background: white;
+  border-radius: 50%;
+  transition: transform 0.3s ease;
+}
+
+.toggle-switch.active .toggle-knob {
+  transform: translateX(20px);
+}
+
+/* Loading States */
+.loading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  gap: 1rem;
+}
+
+.spinner {
+  width: 40px;
+  height: 40px;
+  border: 3px solid var(--border);
+  border-top: 3px solid var(--primary);
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.loading-text {
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+}
+
+/* Lazy Loading Skeleton */
+.skeleton {
+  background: linear-gradient(90deg, var(--bg-card) 25%, var(--bg-secondary) 50%, var(--bg-card) 75%);
+  background-size: 200% 100%;
+  animation: loading 1.5s infinite;
+}
+
+@keyframes loading {
+  0% {
+    background-position: 200% 0;
+  }
+  100% {
+    background-position: -200% 0;
+  }
+}
+
+.skeleton-card {
+  flex-shrink: 0;
+  width: 140px;
+  height: 280px;
+  border-radius: 12px;
+  background: var(--bg-card);
+  overflow: hidden;
+}
+
+.skeleton-image {
+  width: 100%;
+  height: 200px;
+  background: linear-gradient(90deg, var(--bg-card) 25%, var(--bg-secondary) 50%, var(--bg-card) 75%);
+  background-size: 200% 100%;
+  animation: loading 1.5s infinite;
+}
+
+.skeleton-text {
+  margin: 0.75rem;
+  height: 12px;
+  background: linear-gradient(90deg, var(--bg-card) 25%, var(--bg-secondary) 50%, var(--bg-card) 75%);
+  background-size: 200% 100%;
+  animation: loading 1.5s infinite;
+  border-radius: 6px;
+}
+
+.skeleton-text.short {
+  width: 60%;
+  margin-top: 0.5rem;
+  height: 10px;
+}
+
+/* Empty States */
+.empty-state {
+  text-align: center;
+  padding: 3rem 1rem;
+  color: var(--text-secondary);
+}
+
+.empty-icon {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  opacity: 0.5;
+}
+
+/* Toast */
+#toast {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--bg-card);
+  color: var(--text-primary);
+  padding: 12px 20px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  display: none;
+  font-size: 14px;
+  z-index: 9999;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+/* Netflix-style numbered cards - NUMBERS INSIDE CARDS */
+.show-card.numbered {
+  position: relative;
+  overflow: hidden; /* Changed to hidden to keep numbers inside */
+  /* Remove external margins since numbers stay inside */
+}
+
+.show-card.numbered::before {
+  content: attr(data-rank);
+  position: absolute;
+  bottom: 70px; /* Moved inside the card */
+  left: 10px;  /* Moved inside the card */
+  font-size: 3rem; /* Smaller size to fit inside */
+  font-weight: 900;
+  color: transparent;
+  -webkit-text-stroke: 2px var(--primary);
+  text-stroke: 2px var(--primary);
+  z-index: 3; /* Above image and info */
+  line-height: 1;
+  pointer-events: none;
+  font-family: 'Inter', sans-serif;
+}
+
+.show-card.numbered .show-image {
+  position: relative;
+  z-index: 1;
+}
+
+.show-card.numbered .show-info {
+  position: relative;
+  z-index: 2;
+  background: rgba(0, 0, 0, 0.8); /* Semi-transparent background */
+  backdrop-filter: blur(5px);
+}
+
+/* Hover effect for numbered cards */
+.show-card.numbered:hover::before {
+  -webkit-text-stroke: 2px var(--secondary);
+  text-stroke: 2px var(--secondary);
+  transform: scale(1.1);
+  transition: all 0.3s ease;
+}
+
+/* Alternative solid number style */
+.show-card.numbered.solid-number::before {
+  color: rgba(255, 75, 43, 0.9); /* Semi-transparent */
+  -webkit-text-stroke: none;
+  text-stroke: none;
+  font-size: 2.5rem;
+  bottom: 70px;
+  left: 15px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); /* Add shadow for readability */
+}
+
+.show-card.numbered.solid-number:hover::before {
+  color: rgba(255, 107, 71, 0.9);
+  transform: scale(1.2);
+}
+
+/* Alternative: Number in top-right corner */
+.show-card.numbered.top-right::before {
+  top: 10px;
+  right: 10px;
+  left: auto;
+  bottom: auto;
+  background: var(--primary);
+  color: white;
+  padding: 5px 10px;
+  border-radius: 50%;
+  font-size: 1rem;
+  font-weight: 700;
+  -webkit-text-stroke: none;
+  text-stroke: none;
+  min-width: 25px;
+  text-align: center;
+}
+
+.show-card.numbered.top-right:hover::before {
+  background: var(--secondary);
+  transform: scale(1.1);
+}
+
+/* Alternative: Number badge style */
+.show-card.numbered.badge::before {
+  top: 10px;
+  left: 10px;
+  bottom: auto;
+  background: linear-gradient(135deg, var(--primary), var(--secondary));
+  color: white;
+  padding: 4px 8px;
+  border-radius: 12px;
+  font-size: 0.9rem;
+  font-weight: 700;
+  -webkit-text-stroke: none;
+  text-stroke: none;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+.show-card.numbered.badge:hover::before {
+  transform: scale(1.1);
+  box-shadow: 0 4px 12px rgba(255, 75, 43, 0.4);
+}
+
+/* Custom colors for top ranks - ONLY for Top 10 and Top Rated sections */
+.section.top-tier .show-card.numbered[data-rank="1"]::before {
+  -webkit-text-stroke: 2px #ffd700 !important;
+  text-stroke: 2px #ffd700 !important;
+}
+
+.section.top-tier .show-card.numbered[data-rank="2"]::before {
+  -webkit-text-stroke: 2px #c0c0c0 !important;
+  text-stroke: 2px #c0c0c0 !important;
+}
+
+.section.top-tier .show-card.numbered[data-rank="3"]::before {
+  -webkit-text-stroke: 2px #cd7f32 !important;
+  text-stroke: 2px #cd7f32 !important;
+}
+
+/* Solid number versions with custom colors - ONLY for top tier sections */
+.section.top-tier .show-card.numbered.solid-number[data-rank="1"]::before {
+  color: #ffd700 !important;
+  -webkit-text-stroke: none !important;
+  text-stroke: none !important;
+}
+
+.section.top-tier .show-card.numbered.solid-number[data-rank="2"]::before {
+  color: #c0c0c0 !important;
+  -webkit-text-stroke: none !important;
+  text-stroke: none !important;
+}
+
+.section.top-tier .show-card.numbered.solid-number[data-rank="3"]::before {
+  color: #cd7f32 !important;
+  -webkit-text-stroke: none !important;
+  text-stroke: none !important;
+}
+
+/* Badge versions with custom colors - ONLY for top tier sections */
+.section.top-tier .show-card.numbered.badge[data-rank="1"]::before {
+  background: linear-gradient(135deg, #ffd700, #ffed4e) !important;
+}
+
+.section.top-tier .show-card.numbered.badge[data-rank="2"]::before {
+  background: linear-gradient(135deg, #c0c0c0, #e8e8e8) !important;
+}
+
+.section.top-tier .show-card.numbered.badge[data-rank="3"]::before {
+  background: linear-gradient(135deg, #cd7f32, #daa55a) !important;
+}
+
+/* Top-right versions with custom colors - ONLY for top tier sections */
+.section.top-tier .show-card.numbered.top-right[data-rank="1"]::before {
+  background: #ffd700 !important;
+  color: #000 !important;
+}
+
+.section.top-tier .show-card.numbered.top-right[data-rank="2"]::before {
+  background: #c0c0c0 !important;
+  color: #000 !important;
+}
+
+.section.top-tier .show-card.numbered.top-right[data-rank="3"]::before {
+  background: #cd7f32 !important;
+  color: #fff !important;
+}
+
+/* Hover effects for top ranks - ONLY for top tier sections */
+.section.top-tier .show-card.numbered[data-rank="1"]:hover::before,
+.section.top-tier .show-card.numbered[data-rank="2"]:hover::before,
+.section.top-tier .show-card.numbered[data-rank="3"]:hover::before {
+  transform: scale(1.2) !important;
+}
+
+/* Mobile adjustments */
+@media (max-width: 768px) {
+  .show-card.numbered::before {
+    font-size: 2.5rem;
+    bottom: 70px;
+    left: 8px;
+    -webkit-text-stroke: 1.5px var(--primary);
+    text-stroke: 1.5px var(--primary);
+  }
+
+  .show-card.numbered.solid-number::before {
+    font-size: 2rem;
+    bottom: 70px;
+    left: 12px;
+  }
+
+  .show-card.numbered.top-right::before {
+    top: 8px;
+    right: 8px;
+    font-size: 0.9rem;
+    padding: 4px 8px;
+    min-width: 22px;
+  }
+
+  .show-card.numbered.badge::before {
+    top: 8px;
+    left: 8px;
+    font-size: 0.8rem;
+    padding: 3px 6px;
+  }
+}
+
+/* Ensure numbers don't interfere with title */
+.show-card.numbered .show-title {
+  padding-right: 0; /* Reset if needed */
+}
+
+/* Optional: Add slight overlay to make numbers more visible */
+.show-card.numbered::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 60px;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.3));
+  z-index: 1;
+  pointer-events: none;
+}
+
+/* Replace the existing mobile responsive section with this improved version */
+
+/* Mobile Responsive - Updated */
+@media (max-width: 768px) {
+  .mobile-menu-btn {
+    display: block;
+  }
+
+  .desktop-nav {
+    display: none;
+  }
+
+  .header-content {
+    gap: 0.75rem;
+  }
+
+  .logo {
+    font-size: 1.25rem;
+  }
+
+  .search-container {
+    flex: 1;
+    max-width: none;
+    min-width: auto;
+  }
+
+  .search-input {
+    font-size: 16px; /* Prevents zoom on iOS */
+  }
+
+  .controls-row {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .control-group {
+    min-width: auto;
+  }
+
+  .video-player {
+    max-height: 50vh;
+  }
+
+  /* FIXED: Horizontal scroll cards remain the same size */
+  .show-card {
+    width: 120px;
+  }
+
+  .show-image {
+    height: 170px;
+  }
+
+  .continue-card {
+    width: 120px;
+  }
+
+  .main-content {
+    padding: 1rem;
+  }
+
+  .continue-section {
+    padding: 1rem 1rem 0;
+  }
+
+  .search-results-header {
+    padding: 1rem;
+  }
+
+  /* FIXED: Grid cards should be responsive and fit screen */
+  .section-grid {
+    grid-template-columns: repeat(3, 1fr) !important;
+    gap: 0.75rem; /* Increased gap for better spacing */
+    padding: 0 0.5rem;
+  }
+
+  /* FIXED: Grid cards should adapt to available space */
+  .section-grid .show-card {
+    width: 100%; /* Let grid control the width */
+    min-width: 0; /* Allow shrinking below content size */
+  }
+
+  .section-grid .show-image {
+    height: auto; /* Maintain aspect ratio */
+    aspect-ratio: 3/4; /* Consistent aspect ratio */
+  }
+
+  .search-results-grid {
+    grid-template-columns: repeat(3, 1fr) !important;
+    gap: 0.75rem;
+    padding: 0 0.5rem;
+  }
+
+  /* FIXED: Search grid cards should also be responsive */
+  .search-results-grid .show-card {
+    width: 100%;
+    min-width: 0;
+  }
+
+  .search-results-grid .show-image {
+    height: auto;
+    aspect-ratio: 3/4;
+  }
+
+  .view-all-btn {
+    padding: 0.4rem 0.8rem;
+    font-size: 0.8rem;
+  }
+
+  .section-header {
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+  
+  .section.view-all-active .section-header {
+    top: 60px;
+    padding: 0.75rem 0;
+  }
+  
+  .back-to-sections {
+    padding: 0.6rem 0.8rem;
+    font-size: 0.85rem;
+    margin-bottom: 0.75rem;
+  }
+
+  /* FIXED: Numbered cards positioning for mobile grid */
+  .section-grid .show-card.numbered::before {
+    font-size: 2rem; /* Smaller size for grid view */
+    bottom: 60px;
+    left: 6px;
+  }
+
+  .section-grid .show-card.numbered.solid-number::before {
+    font-size: 1.5rem;
+    bottom: 60px;
+    left: 8px;
+  }
+}
+
+/* Additional fix for very small screens */
+@media (max-width: 480px) {
+  .section-grid {
+    grid-template-columns: repeat(2, 1fr) !important; /* 2 columns on very small screens */
+    gap: 0.5rem;
+  }
+
+  .search-results-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 0.5rem;
+  }
+}
+
+/* FIXED: Ensure grid cards don't overflow */
+.section-grid .show-card,
+.search-results-grid .show-card {
+  max-width: 100%;
+  overflow: hidden;
+}
+
+.section-grid .show-info,
+.search-results-grid .show-info {
+  padding: 0.5rem; /* Reduce padding on smaller cards */
+}
+
+.section-grid .show-title,
+.search-results-grid .show-title {
+  font-size: 0.8rem; /* Slightly smaller text */
+  line-height: 1.2;
+}
+
+.section-grid .show-episodes,
+.search-results-grid .show-episodes {
+  font-size: 0.7rem;
+}
+
+@media (min-width: 769px) {
+  .mobile-menu-btn {
+    display: none;
+  }
+  .desktop-nav {
+    display: flex;
+  }
+}
+
+@media (min-width: 769px) {
+  .mobile-menu-overlay,
+  .mobile-menu {
+    display: none !important;
+  }
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.show-card {
+  animation: fadeIn 0.5s ease forwards;
+}
+
+/* Utility Classes */
+.hidden {
+  display: none !important;
+}
+
+.visible {
+  display: block !important;
+}
+
+.show-card {
+  position: relative; /* Make sure this exists */
+}
+
+.show-card .share-btn {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  background: rgba(0, 0, 0, 0.8);
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 32px;
+  height: 32px;
+  font-size: 14px;
+  cursor: pointer;
+  opacity: 0;
+  visibility: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 5;
+  transition: all 0.3s ease;
+  backdrop-filter: blur(5px);
+}
+
+.show-card:hover .share-btn {
+  opacity: 1;
+  visibility: visible;
+}
+
+.show-card .share-btn:hover {
+  background: var(--primary);
+  transform: scale(1.1);
+}
+
+/* Mobile adjustments */
+@media (max-width: 768px) {
+  .show-card .share-btn {
+    opacity: 1; /* Always visible on mobile */
+    visibility: visible;
+    width: 28px;
+    height: 28px;
+    font-size: 12px;
+    top: 6px;
+    right: 6px;
+  }
+}
+</style>
+</head>
+<body>
+  <!-- Header -->
+  <header class="header">
+    <div class="header-content">
+      <!-- Mobile Menu Button -->
+      <button class="mobile-menu-btn" id="mobileMenuBtn">☰</button>
+      
+      <!-- Logo -->
+      <a href="#" class="logo">🐱e⭕w</a>
+      
+      <!-- Desktop Navigation -->
+      <nav class="desktop-nav">
+        <a href="index.html" class="nav-item" data-lang="tamil">Tamil</a>
+        <a href="telugu.html" class="nav-item" data-lang="telugu">Telugu</a>
+        <a href="malayalam.html" class="nav-item" data-lang="malayalam">Malayalam</a>
+        <a href="kannada.html" class="nav-item" data-lang="kannada">Kannada</a>
+        <a href="bengali.html" class="nav-item" data-lang="bengali">Bengali</a>
+        <a href="hindi.html" class="nav-item" data-lang="hindi">Hindi</a>
+        <a href="english.html" class="nav-item active" data-lang="english">English</a>
+        <a href="tamilaudio.html" class="nav-item" data-lang="tamilaudio">Kukufm (Tamil)</a>
+      </nav>
+      
+      <!-- Search Container -->
+      <div class="search-container">
+        <div class="search-icon">🔍</div>
+        <input 
+          type="search" 
+          class="search-input" 
+          placeholder="Search shows, episodes..." 
+          id="searchInput"
+          autocomplete="off"
+        >
+        <button class="clear-search" id="clearSearch">×</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Mobile Menu Overlay -->
+  <div class="mobile-menu-overlay" id="mobileMenuOverlay"></div>
+  
+  <!-- Mobile Menu -->
+  <div class="mobile-menu" id="mobileMenu">
+    <div class="mobile-menu-header">
+      <span class="logo">🐱e⭕w</span>
+      <button class="mobile-menu-close" id="mobileMenuClose">×</button>
+    </div>
+    <nav class="mobile-nav">
+      <a href="index.html" class="mobile-nav-item" data-lang="tamil">🏠 Tamil (Home)</a>
+      <a href="telugu.html" class="mobile-nav-item" data-lang="telugu">Telugu</a>
+      <a href="malayalam.html" class="mobile-nav-item" data-lang="malayalam">Malayalam</a>
+      <a href="kannada.html" class="mobile-nav-item" data-lang="kannada">Kannada</a>
+      <a href="bengali.html" class="mobile-nav-item" data-lang="bengali">Bengali</a>
+      <a href="hindi.html" class="mobile-nav-item" data-lang="hindi">Hindi</a>
+      <a href="english.html" class="mobile-nav-item active" data-lang="english">English</a>
+      <a href="tamilaudio.html" class="mobile-nav-item" data-lang="tamilaudio">Kukufm (Tamil)</a>
+      <a href="https://t.me/panguplay_chat" target="_blank" class="mobile-nav-item telegram-link"><i class="fab fa-telegram-plane"></i>Join Us</a>
+    </nav>
+  </div>
+
+  <!-- Continue Watching Section -->
+  <section id="continueSection" class="continue-section">
+    <h2 class="section-title">
+      <span class="section-icon">▶️</span>
+      Continue Watching
+    </h2>
+    <div class="continue-wrapper">
+      <div id="continueGrid" class="continue-scroll"></div>
+    </div>
+  </section>
+
+  <!-- Search Results Header -->
+  <div id="searchResultsHeader" class="search-results-header">
+    <h2 id="searchResultsTitle" class="search-results-title"></h2>
+    <p id="searchResultsCount" class="search-results-count"></p>
+    <div id="searchResultsGrid" class="search-results-grid"></div>
+  </div>
+
+  <!-- Main Content -->
+  <main class="main-content" id="mainContent">
+    <!-- Back to sections button -->
+    <button class="back-to-sections" id="backToSections" onclick="exitViewAllMode()">
+	  <span>←</span>
+      <span>Back to All Sections</span>
+    </button>  
+    <div class="loading" id="loadingState">
+      <div class="spinner"></div>
+      <div class="loading-text">Loading English shows...</div>
+    </div>
+    <div id="sectionsContainer"></div>
+    <div class="empty-state hidden" id="emptyState">
+      <div class="empty-icon">📺</div>
+      <p>No shows found</p>
+    </div>
+  </main>
+
+  <!-- Player Overlay -->
+  <div class="player-overlay" id="playerOverlay">
+    <header class="player-header">
+      <h3 class="player-title" id="playerTitle">Loading...</h3>
+      <button class="close-btn" onclick="closePlayer()" aria-label="Close player">×</button>
+    </header>
+    
+    <div class="player-content">
+      <div class="video-container">
+        <video 
+          id="videoPlayer" 
+          class="video-player" 
+          controls 
+          preload="metadata"
+          playsinline
+        ></video>
+      </div>
+      
+      <div class="player-controls">
+        <div class="controls-row">
+          <div class="control-group">
+            <label class="control-label">Episode</label>
+            <select id="episodeSelect" class="control-select"></select>
+          </div>
+          <div class="control-group">
+            <label class="control-label">Quality</label>
+            <select id="qualitySelect" class="control-select">
+              <option value="video_1080p">1080p HD</option>
+              <option value="video_720p" selected>720p HD</option>
+              <option value="video_480p">480p SD</option>
+              <option value="video_360p">360p SD</option>
+              <option value="video_240p">240p SD</option>
+            </select>
+          </div>
+        </div>
+        <div class="controls-row">
+          <div class="auto-play-toggle" onclick="toggleAutoPlay()">
+            <div class="toggle-switch" id="autoPlayToggle">
+              <div class="toggle-knob"></div>
+            </div>
+            <span>Auto-play next episode</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast Message -->
+  <div id="toast"></div>
+
+  <!-- Service Worker Registration -->
+  <script src="/sw-register.js"></script>
+
+  <script>
+// Global variables
+let allShows = [];
+let sectionsData = [];
+let currentShow = null;
+let currentEpisodes = [];
+let hls = null;
+let autoPlayEnabled = true;
+let watchHistory = {};
+let searchTimeout = null;
+let currentLanguage = 'english';
+let isSearchMode = false;
+let lazyLoadObserver = null;
+let loadedSections = new Set();
+
+// Master data structure for different languages - will be loaded dynamically
+let masterData = {};
+
+// DOM elements
+const showsGrid = document.getElementById('showsGrid');
+const continueGrid = document.getElementById('continueGrid');
+const continueSection = document.getElementById('continueSection');
+const playerOverlay = document.getElementById('playerOverlay');
+const videoPlayer = document.getElementById('videoPlayer');
+const episodeSelect = document.getElementById('episodeSelect');
+const qualitySelect = document.getElementById('qualitySelect');
+const playerTitle = document.getElementById('playerTitle');
+const searchInput = document.getElementById('searchInput');
+const clearSearch = document.getElementById('clearSearch');
+const loadingState = document.getElementById('loadingState');
+const emptyState = document.getElementById('emptyState');
+const autoPlayToggle = document.getElementById('autoPlayToggle');
+const mobileMenuBtn = document.getElementById('mobileMenuBtn');
+const mobileMenu = document.getElementById('mobileMenu');
+const mobileMenuOverlay = document.getElementById('mobileMenuOverlay');
+const mobileMenuClose = document.getElementById('mobileMenuClose');
+const sectionsContainer = document.getElementById('sectionsContainer');
+const mainContent = document.getElementById('mainContent');
+const searchResultsHeader = document.getElementById('searchResultsHeader');
+const searchResultsTitle = document.getElementById('searchResultsTitle');
+const searchResultsCount = document.getElementById('searchResultsCount');
+const searchResultsGrid = document.getElementById('searchResultsGrid');
+
+document.addEventListener('DOMContentLoaded', () => {
+  currentLanguage = getCurrentLanguage();
+  loadWatchHistory();
+  setupEventListeners();
+  setupMobileMenu();
+  updateActiveNavigation();
+  handleUrlSearch();
+  setupLazyLoading();
+  initializeShareButtons();
+  loadShows();
+});
+
+// Get current page language
+function getCurrentLanguage() {
+  const path = window.location.pathname;
+  const filename = path.split('/').pop() || 'english.html';
+  
+  if (filename === 'english.html') return 'english';
+  return filename.replace('.html', '');
+}
+
+// Handle URL search parameter
+function handleUrlSearch() {
+  const urlParams = new URLSearchParams(window.location.search);
+  const searchQuery = urlParams.get('s');
+  
+  if (searchQuery) {
+    searchInput.value = searchQuery;
+    clearSearch.classList.add('visible');
+  }
+}
+
+// Update URL with search parameter
+function updateUrlSearch(query) {
+  const url = new URL(window.location);
+  if (query) {
+    url.searchParams.set('s', query);
+  } else {
+    url.searchParams.delete('s');
+  }
+  window.history.replaceState({}, '', url);
+}
+
+// Setup mobile menu
+function setupMobileMenu() {
+  mobileMenuBtn.addEventListener('click', openMobileMenu);
+  mobileMenuClose.addEventListener('click', closeMobileMenu);
+  mobileMenuOverlay.addEventListener('click', closeMobileMenu);
+}
+
+function openMobileMenu() {
+  mobileMenu.classList.add('open');
+  mobileMenuOverlay.style.display = 'block';
+  document.body.style.overflow = 'hidden';
+}
+
+function closeMobileMenu() {
+  mobileMenu.classList.remove('open');
+  mobileMenuOverlay.style.display = 'none';
+  document.body.style.overflow = '';
+}
+
+// Update active navigation
+function updateActiveNavigation() {
+  document.querySelectorAll('.nav-item, .mobile-nav-item').forEach(item => {
+    item.classList.remove('active');
+    if (item.dataset.lang === currentLanguage) {
+      item.classList.add('active');
+    }
+  });
+}
+
+// Load watch history (language-specific)
+function loadWatchHistory() {
+  try {
+    const key = `kukufm_watch_history_${currentLanguage}`;
+    const raw = localStorage.getItem(key);
+    if (!raw) {
+      watchHistory = {};
+      return;
+    }
+
+    const data = JSON.parse(raw);
+    const normalized = {};
+
+    Object.keys(data).forEach(showId => {
+      const entry = data[showId];
+
+      // New format
+      if (entry.lastEpisode) {
+        const lastEp = entry.lastEpisode;
+        normalized[showId] = {
+          episode: lastEp.index,
+          currentTime: lastEp.currentTime,
+          progress: lastEp.duration > 0 ? lastEp.currentTime / lastEp.duration : 0,
+          updated: lastEp.updated || 0
+        };
+      }
+      // Old format
+      else {
+        normalized[showId] = {
+          ...entry,
+          updated: entry.updated || 0
+        };
+      }
+    });
+
+    watchHistory = normalized;
+  } catch (e) {
+    console.warn("Failed to load watch history:", e);
+    watchHistory = {};
+  }
+}
+
+// Save watch history (language-specific)
+function saveWatchHistory() {
+  try {
+    const key = `kukufm_watch_history_${currentLanguage}`;
+    localStorage.setItem(key, JSON.stringify(watchHistory));
+  } catch (e) {
+    console.warn('Failed to save watch history:', e);
+  }
+}
+
+// Setup lazy loading
+function setupLazyLoading() {
+  if ('IntersectionObserver' in window) {
+    lazyLoadObserver = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          const sectionIndex = parseInt(entry.target.dataset.sectionIndex);
+          loadSectionData(sectionIndex);
+          lazyLoadObserver.unobserve(entry.target);
+        }
+      });
+    }, {
+      rootMargin: '200px 0px',
+      threshold: 0.1
+    });
+  }
+}
+
+// Setup event listeners
+function setupEventListeners() {
+  // Search functionality
+searchInput.addEventListener('input', (e) => {
+  const query = e.target.value;
+  
+  // Show/hide clear button
+  clearSearch.classList.toggle('visible', query.length > 0);
+  
+  // Update URL
+  updateUrlSearch(query);
+  
+  clearTimeout(searchTimeout);
+  searchTimeout = setTimeout(() => {
+    handleSearch(query);
+  }, 300);
+});
+
+clearSearch.addEventListener('click', () => {
+  searchInput.value = '';
+  clearSearch.classList.remove('visible');
+  updateUrlSearch('');
+  //handleSearch('');
+  isSearchMode = false;
+  searchResultsHeader.style.display = 'none';
+  mainContent.style.display = 'block';
+
+	// Only show continue watching if it has content
+	const watchingShows = Object.entries(watchHistory).filter(([_, data]) => 
+		data.progress > 0 && data.progress < 0.95
+	);
+  
+	if (watchingShows.length > 0) {
+		continueSection.style.display = 'block';
+	} else {
+		continueSection.style.display = 'none';
+	}
+});
+
+  // Player controls
+  episodeSelect.addEventListener('change', (e) => {
+    const episodeIndex = parseInt(e.target.value);
+    loadEpisode(episodeIndex);
+  });
+
+  qualitySelect.addEventListener('change', (e) => {
+    const currentIndex = parseInt(episodeSelect.value) || 0;
+    loadEpisode(currentIndex, e.target.value, true);
+  });
+
+  // Video ended event
+  videoPlayer.addEventListener('ended', handleVideoEnded);
+  
+  // Save progress periodically
+  videoPlayer.addEventListener('timeupdate', saveProgress);
+
+  // Close player on escape key
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') {
+      if (playerOverlay.style.display === 'flex') {
+        closePlayer();
+      } else if (mobileMenu.classList.contains('open')) {
+        closeMobileMenu();
+      }
+    }
+  });
+
+  // Handle back button
+  window.addEventListener('popstate', (e) => {
+    if (playerOverlay.style.display === 'flex') {
+      closePlayer();
+      history.pushState(null, null, window.location.href);
+    }
+  });
+
+  // Touch/Swipe handling for episode navigation
+  setupTouchControls();
+  
+  // Keyboard shortcuts
+  setupKeyboardControls();
+}
+
+// Setup touch controls for mobile
+function setupTouchControls() {
+  let touchStartX = 0;
+  let touchEndX = 0;
+  let touchStartTime = 0;
+  let isSwipeActive = false;
+
+  videoPlayer.addEventListener('touchstart', (e) => {
+    if (e.target.closest('.player-controls')) {
+      isSwipeActive = false;
+      return;
+    }
+    
+    if (e.touches.length !== 1) {
+      isSwipeActive = false;
+      return;
+    }
+    
+    const touch = e.changedTouches[0];
+    touchStartX = touch.clientX;
+    touchStartTime = Date.now();
+    isSwipeActive = true;
+  }, { passive: true });
+
+  videoPlayer.addEventListener('touchend', (e) => {
+    if (!isSwipeActive) return;
+    isSwipeActive = false;
+    
+    const touch = e.changedTouches[0];
+    touchEndX = touch.clientX;
+    
+    const swipeDuration = Date.now() - touchStartTime;
+    if (swipeDuration < 100 || swipeDuration > 1000) {
+      return;
+    }
+    
+    const horizontalDistance = touchStartX - touchEndX;
+    const minSwipeDistance = 100;
+    
+    if (Math.abs(horizontalDistance) < minSwipeDistance) {
+      return;
+    }
+    
+    e.preventDefault();
+    
+    const currentIndex = parseInt(episodeSelect.value) || 0;
+    
+    if (horizontalDistance > 0) {
+      // Swipe left - Next episode
+      const nextIndex = currentIndex + 1;
+      if (nextIndex < currentEpisodes.length) {
+        loadEpisode(nextIndex);
+        showToast(`Next Episode ${nextIndex + 1}`);
+      } else {
+        showToast('Last episode');
+      }
+    } else {
+      // Swipe right - Previous episode
+      const prevIndex = currentIndex - 1;
+      if (prevIndex >= 0) {
+        loadEpisode(prevIndex);
+        showToast(`Previous Episode ${prevIndex + 1}`);
+      } else {
+        showToast('First episode');
+      }
+    }
+  }, { passive: false });
+}
+
+// Setup keyboard controls
+function setupKeyboardControls() {
+  document.addEventListener('keydown', (e) => {
+    if (playerOverlay.style.display === 'flex') {
+      switch(e.key) {
+        case ' ':
+          e.preventDefault();
+          if (videoPlayer.paused) {
+            videoPlayer.play();
+          } else {
+            videoPlayer.pause();
+          }
+          break;
+        case 'ArrowLeft':
+          e.preventDefault();
+          if (e.shiftKey) {
+            // Previous episode
+            const currentIndex = parseInt(episodeSelect.value) || 0;
+            const prevIndex = currentIndex - 1;
+            if (prevIndex >= 0) {
+              loadEpisode(prevIndex);
+              showToast(`Previous Episode ${prevIndex + 1}`);
+            } else {
+              showToast('First episode');
+            }
+          } else {
+            // Seek backward
+            videoPlayer.currentTime = Math.max(0, videoPlayer.currentTime - 10);
+          }
+          break;
+        case 'ArrowRight':
+          e.preventDefault();
+          if (e.shiftKey) {
+            // Next episode
+            const currentIndex = parseInt(episodeSelect.value) || 0;
+            const nextIndex = currentIndex + 1;
+            if (nextIndex < currentEpisodes.length) {
+              loadEpisode(nextIndex);
+              showToast(`Next Episode ${nextIndex + 1}`);
+            } else {
+              showToast('Last episode');
+            }
+          } else {
+            // Seek forward
+            videoPlayer.currentTime = Math.min(videoPlayer.duration, videoPlayer.currentTime + 10);
+          }
+          break;
+        case 'ArrowUp':
+          e.preventDefault();
+          videoPlayer.volume = Math.min(1, videoPlayer.volume + 0.1);
+          break;
+        case 'ArrowDown':
+          e.preventDefault();
+          videoPlayer.volume = Math.max(0, videoPlayer.volume - 0.1);
+          break;
+        case 'n':
+        case 'N':
+          e.preventDefault();
+          const currentIndex = parseInt(episodeSelect.value) || 0;
+          const nextIndex = currentIndex + 1;
+          if (nextIndex < currentEpisodes.length) {
+            loadEpisode(nextIndex);
+            showToast(`Next Episode ${nextIndex + 1}`);
+          } else {
+            showToast('Last episode');
+          }
+          break;
+        case 'p':
+        case 'P':
+          e.preventDefault();
+          const currentIdx = parseInt(episodeSelect.value) || 0;
+          const prevIndex = currentIdx - 1;
+          if (prevIndex >= 0) {
+            loadEpisode(prevIndex);
+            showToast(`Previous Episode ${prevIndex + 1}`);
+          } else {
+            showToast('First episode');
+          }
+          break;
+      }
+    }
+  });
+}
+
+// Load master data for current language (cached via service worker)
+async function loadMasterData() {
+  const masterFile = `master_${currentLanguage}.json`;
+  
+  try {
+    const response = await fetch(masterFile);
+    if (!response.ok) {
+      throw new Error(`Failed to fetch ${masterFile}: ${response.status}`);
+    }
+    
+    const data = await response.json();
+    masterData[currentLanguage] = data;
+    
+    // Extract all shows from sections for faster access
+    allShows = [];
+    data.sections.forEach(section => {
+      section.shows.forEach(show => {
+        allShows.push({
+          show: show,
+          episodes: [] // Episodes will be loaded on-demand
+        });
+      });
+    });
+    
+    return data;
+  } catch (error) {
+    console.error(`Failed to load master data for ${currentLanguage}:`, error);
+    return { sections: [] };
+  }
+}
+
+// Enhanced URL parameter handling
+function handleUrlParameters() {
+  const urlParams = new URLSearchParams(window.location.search);
+  const searchQuery = urlParams.get('s');
+  const playParam = urlParams.get('play');
+  
+  // Handle search parameter
+  if (searchQuery) {
+    searchInput.value = searchQuery;
+    clearSearch.classList.add('visible');
+  }
+  
+  // Handle direct play parameter
+  if (playParam) {
+    handleDirectPlay(playParam);
+  }
+}
+
+// Handle direct play functionality
+async function handleDirectPlay(playParam) {
+  try {
+    showToast('Loading show for direct play...');
+    
+    // Load master data if not loaded
+    if (!masterData[currentLanguage] || Object.keys(masterData[currentLanguage]).length === 0) {
+      await loadMasterData();
+    }
+    
+    let showIdentifier = playParam;
+    let episodeIndex = 0;
+    
+    if (playParam.includes(':')) {
+      const parts = playParam.split(':');
+      showIdentifier = parts[0];
+      episodeIndex = parseInt(parts[1]) || 0;
+    }
+    
+    // Find the show by ID or slug
+    const targetShowData = allShows.find(showData => {
+      const isNumericId = /^\d+$/.test(showIdentifier);
+      if (isNumericId) {
+        return showData.show.id.toString() === showIdentifier;
+      } else {
+        return showData.show.slug === showIdentifier || 
+               showData.show.title.toLowerCase().replace(/[^a-z0-9]/g, '-') === showIdentifier;
+      }
+    });
+    
+    if (!targetShowData) {
+      showToast(`Show not found: ${showIdentifier}`);
+      return;
+    }
+    
+    // Load episodes from JSON file
+    if (!targetShowData.episodes || targetShowData.episodes.length === 0) {
+      const response = await fetch(targetShowData.show.link);
+      if (!response.ok) throw new Error('Failed to load episodes');
+      
+      const fullShowData = await response.json();
+      targetShowData.episodes = fullShowData.episodes || [];
+    }
+    
+    if (targetShowData.episodes.length === 0) {
+      showToast('No episodes available');
+      return;
+    }
+    
+    // Validate episode index
+    if (episodeIndex >= targetShowData.episodes.length) {
+      console.warn(`Episode ${episodeIndex} not found, starting from episode 0`);
+      episodeIndex = 0;
+    }
+    
+    // Set up the player
+    currentShow = targetShowData;
+    currentEpisodes = targetShowData.episodes;
+    
+    setupPlayer();
+    loadEpisode(episodeIndex);
+    showPlayer();
+    
+    showToast(`Playing: ${targetShowData.show.title} - Episode ${episodeIndex + 1}`);
+    
+    // Clean up URL parameter
+    const cleanUrl = new URL(window.location);
+    cleanUrl.searchParams.delete('play');
+    window.history.replaceState({}, '', cleanUrl);
+    
+  } catch (error) {
+    console.error('Direct play error:', error);
+    showToast('Failed to load show for direct play');
+  }
+}
+
+// Find show by ID or slug
+function findShowByIdentifier(identifier) {
+  const isNumericId = /^\d+$/.test(identifier);
+  
+  for (const showData of allShows) {
+    if (isNumericId) {
+      if (showData.show.id.toString() === identifier) {
+        return showData;
+      }
+    } else {
+      if (showData.show.slug === identifier || 
+          showData.show.title.toLowerCase().replace(/[^a-z0-9]/g, '-') === identifier) {
+        return showData;
+      }
+    }
+  }
+  
+  return null;
+}
+
+// Enhanced show loading with direct play support
+async function loadShows() {
+  try {
+    // Load master data (contains all show metadata)
+    const masterDataForLanguage = await loadMasterData();
+    sectionsData = masterDataForLanguage?.sections || [];
+    
+    if (sectionsData.length === 0) {
+      hideLoading();
+      emptyState.classList.remove('hidden');
+      return;
+    }
+    
+    // Render all sections immediately (no lazy loading needed)
+    renderSections();
+    
+    hideLoading();
+    renderContinueWatching();
+    handleUrlParameters();
+    
+    // Handle search if URL has search parameter
+    const urlParams = new URLSearchParams(window.location.search);
+    const searchQuery = urlParams.get('s');
+    if (searchQuery) {
+      handleSearch(searchQuery);
+    }
+    
+  } catch (error) {
+    console.error('Failed to load shows:', error);
+    showToast('Failed to load shows. Please try again.');
+    hideLoading();
+    emptyState.classList.remove('hidden');
+  }
+}
+
+// Generate shareable direct play URLs
+function generateDirectPlayUrl(show, episodeIndex = 0) {
+  const baseUrl = window.location.origin + window.location.pathname;
+  const playParam = episodeIndex > 0 ? `${show.show.id}:${episodeIndex}` : show.show.id.toString();
+  return `${baseUrl}?play=${playParam}`;
+}
+
+// Example usage functions for generating URLs:
+
+// Get direct play URL for a show (starts from episode 1)
+function getShowDirectPlayUrl(showId) {
+  const show = allShows.find(s => s.show.id.toString() === showId.toString());
+  if (!show) return null;
+  return generateDirectPlayUrl(show, 0);
+}
+
+// Get direct play URL for specific episode
+function getEpisodeDirectPlayUrl(showId, episodeIndex = 0) {
+  const show = allShows.find(s => s.show.id.toString() === showId.toString());
+  if (!show) return null;
+  
+  const jsonFilename = show.show.filename || show.show.link.split('/').pop();
+  const baseUrl = window.location.origin + '/test.html';
+  
+  if (episodeIndex > 0) {
+    return `${baseUrl}?json=${jsonFilename}&episode=${episodeIndex}`;
+  }
+  return `${baseUrl}?json=${jsonFilename}`;
+}
+
+// Copy direct play URL to clipboard (can be used in context menus)
+async function copyDirectPlayUrl(showId, episodeIndex = 0) {
+  const url = getEpisodeDirectPlayUrl(showId, episodeIndex);
+  if (!url) {
+    showToast('Could not generate URL');
+    return;
+  }
+  
+  try {
+    await navigator.clipboard.writeText(url);
+    showToast('Direct play URL copied to clipboard!');
+  } catch (error) {
+    console.error('Failed to copy URL:', error);
+    showToast('Failed to copy URL');
+  }
+}
+
+// Load initial sections (first 2) for instant visibility
+async function loadInitialSections() {
+  const initialSections = sectionsData.slice(0, 2);
+  
+  for (let i = 0; i < initialSections.length; i++) {
+    await loadSectionData(i);
+  }
+}
+
+// Load section data on demand
+async function loadSectionData(sectionIndex) {
+  if (loadedSections.has(sectionIndex) || !sectionsData[sectionIndex]) {
+    return;
+  }
+  
+  const section = sectionsData[sectionIndex];
+  const sectionShows = [];
+  
+  try {
+    // Load shows for this section with limited concurrency
+    const batchSize = 5;
+    const showFiles = section.shows || [];
+    
+    for (let i = 0; i < showFiles.length; i += batchSize) {
+      const batch = showFiles.slice(i, i + batchSize);
+      const batchPromises = batch.map(async (file) => {
+        try {
+          const response = await fetch(file);
+          if (!response.ok) return null;
+          
+          const data = await response.json();
+          if (data.show) {
+            data.show.filename = file.split('/').pop();
+          }
+          return data;
+        } catch (error) {
+          console.warn(`Failed to load ${file}:`, error);
+          return null;
+        }
+      });
+      
+      const results = await Promise.all(batchPromises);
+      sectionShows.push(...results.filter(Boolean));
+    }
+    
+    // Add loaded shows to global array
+    allShows.push(...sectionShows);
+    
+    // Mark section as loaded
+    loadedSections.add(sectionIndex);
+    
+    // Re-render this specific section
+    renderSingleSection(sectionIndex, sectionShows);
+    
+    console.log(`Loaded section ${sectionIndex}: ${sectionShows.length} shows`);
+    
+  } catch (error) {
+    console.error(`Failed to load section ${sectionIndex}:`, error);
+  }
+}
+
+// Load all sections for search functionality
+async function loadAllSectionsForSearch() {
+  const unloadedSections = sectionsData.map((_, index) => index)
+    .filter(index => !loadedSections.has(index));
+  
+  // Load remaining sections in parallel but with controlled concurrency
+  const concurrencyLimit = 3;
+  for (let i = 0; i < unloadedSections.length; i += concurrencyLimit) {
+    const batch = unloadedSections.slice(i, i + concurrencyLimit);
+    await Promise.all(batch.map(loadSectionData));
+  }
+}
+
+function hideLoading() {
+  loadingState.style.display = 'none';
+}
+
+// Render sections
+function renderSections() {
+  sectionsContainer.innerHTML = '';
+  sectionsData.forEach((section, sectionIndex) => {
+    const sectionIcon = getSectionIcon(section.title);
+    const showNumbers = shouldShowNumbers(section.title);
+    const useSolidNumbers = shouldUseSolidNumbers(section.title);
+    
+    const showCardsHTML = section.shows.slice(0, 100).map((show, index) => `
+      <div class="show-card ${showNumbers ? 'numbered' : ''} ${showNumbers && useSolidNumbers ? 'solid-number' : ''}" 
+           ${showNumbers ? `data-rank="${index + 1}"` : ''} 
+           onclick="openShow('${show.id}')">
+        <img 
+          src="${show.share_image_url || 'https://via.placeholder.com/300x400?text=No+Image'}" 
+          alt="${show.title}"
+          class="show-image"
+          loading="lazy"
+          onerror="this.src='https://via.placeholder.com/300x400?text=No+Image'"
+        >
+        <button class="share-btn" onclick="event.stopPropagation(); shareDirectPlayUrl('${show.id}')" title="Share">
+          <i class="fas fa-share"></i>
+        </button>
+        <div class="show-info">
+          <div class="show-title" title="${show.title}">${show.title}</div>
+          <div class="show-episodes">${show.n_episodes || 0} episodes</div>
+        </div>
+      </div>
+    `).join('');
+    
+    // Render section with actual data immediately
+    sectionsContainer.innerHTML += `
+  <div class="section ${isTopTierSection(section.title) ? 'top-tier' : ''}" id="section-${sectionIndex}">
+    <div class="section-header">
+      <h2 class="section-title">
+        <span class="section-icon">${sectionIcon}</span>
+        ${section.title}
+      </h2>
+      <button class="view-all-btn" onclick="toggleSectionView(${sectionIndex})">
+        <span class="view-all-text">View All</span>
+        <span class="view-all-icon">→</span>
+      </button>
+    </div>
+    
+    <div class="shows-wrapper" id="shows-wrapper-${sectionIndex}">
+      <div class="shows-scroll">
+        ${showCardsHTML}
+      </div>
+    </div>
+    
+    <div class="section-grid" id="section-grid-${sectionIndex}">
+      ${showCardsHTML}
+    </div>
+  </div>
+`;
+  });
+}
+
+// Create skeleton loading cards
+function createSkeletonCards(count = 8) {
+  return Array(count).fill(0).map(() => `
+    <div class="skeleton-card">
+      <div class="skeleton-image"></div>
+      <div class="skeleton-text"></div>
+      <div class="skeleton-text short"></div>
+    </div>
+  `).join('');
+}
+
+// Render single section after data is loaded
+function renderSingleSection(sectionIndex, sectionShows) {
+  if (isSearchMode) return;
+  
+  const section = sectionsData[sectionIndex];
+  const showNumbers = shouldShowNumbers(section.title);
+  const useSolidNumbers = shouldUseSolidNumbers(section.title);
+  
+  // Limit to 100 items for numbered sections, 20 for others
+  const maxItems = showNumbers ? 100 : 30;
+  const displayShows = sectionShows.slice(0, maxItems);
+  
+  const showCardsHTML = displayShows.map((show, index) => `
+    <div class="show-card ${showNumbers ? 'numbered' : ''} ${showNumbers && useSolidNumbers ? 'solid-number' : ''}" 
+         ${showNumbers ? `data-rank="${index + 1}"` : ''} 
+         onclick="openShow('${show.show.id}')">
+      <img 
+        src="${show.show.share_image_url || 'https://via.placeholder.com/300x400?text=No+Image'}" 
+        alt="${show.show.title}"
+        class="show-image"
+        loading="lazy"
+        onerror="this.src='https://via.placeholder.com/300x400?text=No+Image'"
+      >
+      <!-- Share Button -->
+      <button class="share-btn" onclick="event.stopPropagation(); shareDirectPlayUrl('${show.show.id}')" title="Share">
+        <i class="fas fa-share"></i>
+      </button>
+      <div class="show-info">
+        <div class="show-title" title="${show.show.title}">${show.show.title}</div>
+        <div class="show-episodes">${show.episodes?.length || 0} episodes</div>
+      </div>
+    </div>
+  `).join('');
+  
+  // Update horizontal scroll view
+  const horizontalWrapper = document.getElementById(`shows-wrapper-${sectionIndex}`);
+  if (horizontalWrapper) {
+    const showsScroll = horizontalWrapper.querySelector('.shows-scroll');
+    if (showsScroll) {
+      showsScroll.innerHTML = showCardsHTML;
+    }
+  }
+  
+  // Update grid view
+  const gridWrapper = document.getElementById(`section-grid-${sectionIndex}`);
+  if (gridWrapper) {
+    gridWrapper.innerHTML = showCardsHTML;
+  }
+}
+
+// Handle search
+async function handleSearch(query) {
+  // Exit view all mode when searching
+  if (currentViewAllSection !== null) {
+    exitViewAllMode();
+  }
+  
+  if (!query.trim()) {
+    isSearchMode = false;
+    searchResultsHeader.style.display = 'none';
+    mainContent.style.display = 'block';
+    
+	// Only show continue watching if it has content
+	const watchingShows = Object.entries(watchHistory).filter(([_, data]) => 
+		data.progress > 0 && data.progress < 0.95
+	);
+  
+	if (watchingShows.length > 0) {
+		continueSection.style.display = 'block';
+	} else {
+		continueSection.style.display = 'none';
+	}
+    return;
+  }
+
+  isSearchMode = true;
+  
+  // If allShows is empty (other pages), load master data first
+  if (allShows.length === 0) {
+    try {
+      const masterDataForLanguage = await loadMasterData();
+      // allShows is populated in loadMasterData now
+    } catch (error) {
+      showToast('Search failed to load data');
+      return;
+    }
+  }
+  
+  const searchTerm = query.toLowerCase();
+  
+  const filteredShows = allShows.filter(showData => 
+    showData.show.title.toLowerCase().includes(searchTerm) ||
+    showData.show.description?.toLowerCase().includes(searchTerm) ||
+    showData.show.genre?.title?.toLowerCase().includes(searchTerm)
+  );
+
+  const uniqueShows = filteredShows.filter((show, index, self) => 
+    index === self.findIndex(s => s.show.id === show.show.id)
+  );
+  
+  uniqueShows.sort((a, b) => a.show.title.localeCompare(b.show.title));
+
+  renderSearchResults(query, uniqueShows);
+}
+
+// Render search results
+function renderSearchResults(query, shows) {
+  searchResultsTitle.textContent = `Search Results for "${query}"`;
+  searchResultsCount.textContent = `${shows.length} show${shows.length !== 1 ? 's' : ''} found`;
+  
+  if (shows.length === 0) {
+    searchResultsGrid.innerHTML = `
+      <div class="empty-state">
+        <div class="empty-icon">🔍</div>
+        <p>No shows found for "${query}"</p>
+      </div>
+    `;
+  } else {
+    searchResultsGrid.innerHTML = shows.map((showData, index) => `
+      <div class="show-card" onclick="openShow('${showData.show.id}')">
+        <img 
+          src="${showData.show.share_image_url || 'https://via.placeholder.com/300x400?text=No+Image'}" 
+          alt="${showData.show.title}"
+          class="show-image"
+          loading="lazy"
+          onerror="this.src='https://via.placeholder.com/300x400?text=No+Image'"
+        >
+        <button class="share-btn" onclick="event.stopPropagation(); shareDirectPlayUrl('${showData.show.id}')" title="Share">
+          <i class="fas fa-share"></i>
+        </button>
+        <div class="show-info">
+          <div class="show-title" title="${showData.show.title}">${showData.show.title}</div>
+          <div class="show-episodes">${showData.show.n_episodes || 0} episodes</div>
+        </div>
+      </div>
+    `).join('');
+  }
+  
+  searchResultsHeader.style.display = 'block';
+  mainContent.style.display = 'none';
+  continueSection.style.display = 'none'; // Hide continue watching
+}
+
+// Check if a section should have numbered cards
+function shouldShowNumbers(sectionTitle) {
+  const numberedSections = [
+    'top 10',
+    'trending',
+    'most popular',
+    'top rated',
+    'most watched',
+    'popular this week',
+    'trending now',
+    'top picks',
+	'newly & hot',
+	'new releases'
+  ];
+  
+  return numberedSections.some(keyword => 
+    sectionTitle.toLowerCase().includes(keyword.toLowerCase())
+  );
+}
+
+// Check if section should use solid numbers instead of outlined
+function shouldUseSolidNumbers(sectionTitle) {
+  const solidNumberSections = [
+    'top 10',
+    'top rated'
+  ];
+  
+  return solidNumberSections.some(keyword => 
+    sectionTitle.toLowerCase().includes(keyword.toLowerCase())
+  );
+}
+
+// Add this function to check if section should have gold/silver/bronze colors
+function isTopTierSection(sectionTitle) {
+  const topTierSections = [
+    'top 10',
+    'top rated',
+    'most popular',
+    'trending now'
+  ];
+  
+  return topTierSections.some(keyword => 
+    sectionTitle.toLowerCase().includes(keyword.toLowerCase())
+  );
+}
+
+// Get section icon based on title
+function getSectionIcon(title) {
+  const icons = {
+    'Newly Added': '🆕',
+    'Romantic Dramas': '💕',
+    'Trending Now': '🔥',
+    'Popular': '⭐',
+    'Comedy': '😂',
+    'Action': '⚡',
+    'Drama': '🎭',
+    'Horror': '👻',
+    'Thriller': '😱',
+    'Top 10': '🏆',
+    'Top Rated': '🥇',
+    'Most Popular': '⭐',
+    'Most Watched': '👁️'
+  };
+  
+  // Try exact match first
+  if (icons[title]) return icons[title];
+  
+  // Try partial matches
+  const lowerTitle = title.toLowerCase();
+  if (lowerTitle.includes('top')) return '🏆';
+  if (lowerTitle.includes('trending')) return '🔥';
+  if (lowerTitle.includes('popular')) return '⭐';
+  
+  return '📺';
+}
+
+// Track view all state
+let currentViewAllSection = null;
+
+// Toggle section view between horizontal scroll and grid
+function toggleSectionView(sectionIndex) {
+  const section = document.getElementById(`section-${sectionIndex}`);
+  const horizontalWrapper = document.getElementById(`shows-wrapper-${sectionIndex}`);
+  const gridWrapper = document.getElementById(`section-grid-${sectionIndex}`);
+  
+  const isGridView = gridWrapper.classList.contains('active');
+  
+  if (isGridView) {
+    exitViewAllMode();
+  } else {
+    enterViewAllMode(sectionIndex);
+  }
+}
+
+// Enter view all mode
+function enterViewAllMode(sectionIndex) {
+  const section = document.getElementById(`section-${sectionIndex}`);
+  const horizontalWrapper = document.getElementById(`shows-wrapper-${sectionIndex}`);
+  const gridWrapper = document.getElementById(`section-grid-${sectionIndex}`);
+  const viewAllBtn = section.querySelector('.view-all-btn');
+  const viewAllText = viewAllBtn.querySelector('.view-all-text');
+  const viewAllIcon = viewAllBtn.querySelector('.view-all-icon');
+  const backToSections = document.getElementById('backToSections');
+  
+  // Hide all other sections
+  const allSections = document.querySelectorAll('.section');
+  allSections.forEach((sec, index) => {
+    if (index !== sectionIndex) {
+      sec.classList.add('hidden-for-view-all');
+    }
+  });
+  
+  // Show grid view for current section
+  gridWrapper.classList.add('active');
+  horizontalWrapper.style.display = 'none';
+  section.classList.add('view-all-active');
+  
+  // Update button
+  viewAllBtn.classList.add('active');
+  viewAllText.textContent = 'View Less';
+  viewAllIcon.textContent = '←';
+  
+  // Show back button
+  backToSections.classList.add('visible');
+  
+  // Hide continue watching section
+  const continueSection = document.getElementById('continueSection');
+  if (continueSection) {
+    continueSection.style.display = 'none';
+  }
+  
+  // Set current view all section
+  currentViewAllSection = sectionIndex;
+  
+  // Scroll to top
+  window.scrollTo({ 
+    top: 0, 
+    behavior: 'smooth' 
+  });
+}
+
+// Exit view all mode
+function exitViewAllMode() {
+  if (currentViewAllSection === null) return;
+  
+  const section = document.getElementById(`section-${currentViewAllSection}`);
+  const horizontalWrapper = document.getElementById(`shows-wrapper-${currentViewAllSection}`);
+  const gridWrapper = document.getElementById(`section-grid-${currentViewAllSection}`);
+  const viewAllBtn = section.querySelector('.view-all-btn');
+  const viewAllText = viewAllBtn.querySelector('.view-all-text');
+  const viewAllIcon = viewAllBtn.querySelector('.view-all-icon');
+  const backToSections = document.getElementById('backToSections');
+  
+  // Show all sections
+  const allSections = document.querySelectorAll('.section');
+  allSections.forEach(sec => {
+    sec.classList.remove('hidden-for-view-all');
+    sec.classList.remove('view-all-active');
+  });
+  
+  // Switch back to horizontal scroll
+  gridWrapper.classList.remove('active');
+  horizontalWrapper.style.display = 'block';
+  
+  // Update button
+  viewAllBtn.classList.remove('active');
+  viewAllText.textContent = 'View All';
+  viewAllIcon.textContent = '→';
+  
+  // Hide back button
+  backToSections.classList.remove('visible');
+  
+  // Show continue watching section if it has content
+  const continueSection = document.getElementById('continueSection');
+  const continueGrid = document.getElementById('continueGrid');
+  if (continueSection && continueGrid && continueGrid.children.length > 0) {
+    continueSection.style.display = 'block';
+  }
+  
+  // Reset current section
+  currentViewAllSection = null;
+  
+  // Scroll to the section
+  section.scrollIntoView({ 
+    behavior: 'smooth', 
+    block: 'start' 
+  });
+}
+
+// Render continue watching
+function renderContinueWatching() {
+  const watchingShows = Object.entries(watchHistory).filter(([_, data]) => 
+    data.progress > 0 && data.progress < 0.95
+  );
+
+  if (watchingShows.length === 0) {
+    continueSection.style.display = 'none';
+    return;
+  }
+
+  continueSection.style.display = 'block';
+  
+  continueGrid.innerHTML = watchingShows.map(([showId, data]) => {
+    const show = allShows.find(s => s.show.id.toString() === showId);
+    if (!show) return '';
+
+    return `
+      <div class="continue-card" onclick="continueWatching('${showId}')">
+        <div class="continue-thumbnail-wrapper">
+          <img 
+            src="${show.show.share_image_url || 'https://via.placeholder.com/300x400?text=No+Image'}" 
+            alt="${show.show.title}"
+            class="continue-thumbnail"
+            loading="lazy"
+            onerror="this.src='https://via.placeholder.com/300x400?text=No+Image'"
+          >
+          <button class="remove-btn" onclick="event.stopPropagation(); removeFromContinue('${showId}')" title="Remove">×</button>
+        </div>
+        <div class="continue-title" title="${show.show.title}">${show.show.title}</div>
+        <div class="continue-episode">Episode ${data.episode + 1}</div>
+        <div class="progress-bar">
+          <div class="progress-fill" style="width: ${data.progress * 100}%"></div>
+        </div>
+      </div>
+    `;
+  }).join('');
+}
+
+// Open show
+async function openShow(showId) {
+  const showData = allShows.find(s => s.show.id.toString() === showId);
+  if (!showData) {
+    showToast('Show not found');
+    return;
+  }
+
+  // Get the JSON filename from the show data
+  const jsonFilename = showData.show.filename || showData.show.link.split('/').pop();
+  
+  // Check if we want to open in current page or new player page
+  if (window.location.pathname.includes('player.html') || window.location.pathname.includes('test.html')) {
+    // We're already on player page - use existing logic
+    showToast('Loading episodes...');
+    
+    try {
+      if (!showData.episodes || showData.episodes.length === 0) {
+        const response = await fetch(showData.show.link);
+        if (!response.ok) throw new Error('Failed to load episodes');
+        
+        const fullShowData = await response.json();
+        showData.episodes = fullShowData.episodes || [];
+      }
+
+      if (showData.episodes.length === 0) {
+        showToast('No episodes available');
+        return;
+      }
+
+      currentShow = showData;
+      currentEpisodes = showData.episodes;
+      
+      const watchData = watchHistory[showId];
+      const startEpisode = watchData?.episode || 0;
+      
+      setupPlayer();
+      loadEpisode(startEpisode);
+      showPlayer();
+      
+    } catch (error) {
+      console.error('Failed to load show:', error);
+      showToast('Failed to load episodes');
+    }
+  } else {
+    // We're on index page - navigate to player with URL params
+    const watchData = watchHistory[showId];
+    const episodeParam = watchData?.episode ? `&episode=${watchData.episode}` : '';
+    
+    const langParam = `&lang=${currentLanguage}`;
+	window.location.href = `test.html?json=${jsonFilename}${episodeParam}${langParam}`;
+  }
+}
+
+//continue watching to work with URL params
+async function continueWatching(showId) {
+  const watchData = watchHistory[showId];
+  if (!watchData) return;
+
+  const showData = allShows.find(s => s.show.id.toString() === showId);
+  if (!showData) return;
+
+  const jsonFilename = showData.show.filename || showData.show.link.split('/').pop();
+  
+  if (window.location.pathname.includes('player.html') || window.location.pathname.includes('test.html')) {
+    // We're on player page - use existing logic
+    if (!showData.episodes || showData.episodes.length === 0) {
+      try {
+        const response = await fetch(showData.show.link);
+        if (!response.ok) throw new Error('Failed to load episodes');
+        
+        const fullShowData = await response.json();
+        showData.episodes = fullShowData.episodes || [];
+      } catch (error) {
+        showToast('Failed to load episodes');
+        return;
+      }
+    }
+
+    currentShow = showData;
+    currentEpisodes = showData.episodes;
+    
+    setupPlayer();
+    loadEpisode(watchData.episode, null, false, watchData.currentTime);
+    showPlayer();
+  } else {
+  const params = new URLSearchParams();
+  params.set("json", jsonFilename);
+  params.set("lang", currentLanguage);
+
+  if (watchData?.lastEpisode) {
+    params.set("episode", watchData.lastEpisode.index);
+    if (watchData.lastEpisode.currentTime) {
+      params.set("time", Math.floor(watchData.lastEpisode.currentTime));
+    }
+  } else {
+    // fallback for old schema
+    params.set("episode", watchData.episode || 0);
+    if (watchData.currentTime) {
+      params.set("time", Math.floor(watchData.currentTime));
+    }
+  }
+
+  window.location.href = `test.html?${params.toString()}`;
+}
+}
+
+function getContinueWatchingData() {
+  const raw = localStorage.getItem("continueWatching");
+  if (!raw) return {};
+
+  const data = JSON.parse(raw);
+  const normalized = {};
+
+  Object.keys(data).forEach(showId => {
+    const lastEp = data[showId].lastEpisode;
+    if (lastEp) {
+      normalized[showId] = {
+        episode: lastEp.index,
+        currentTime: lastEp.currentTime,
+        progress: lastEp.duration > 0 ? lastEp.currentTime / lastEp.duration : 0
+      };
+    }
+  });
+
+  return normalized;
+}
+
+// Remove from continue watching
+function removeFromContinue(showId) {
+  delete watchHistory[showId];
+  saveWatchHistory();
+  renderContinueWatching();
+  showToast('Removed from continue watching');
+}
+
+// Setup player
+function setupPlayer() {
+  if (!currentShow || !currentEpisodes) return;
+
+  playerTitle.textContent = currentShow.show.title;
+  
+  episodeSelect.innerHTML = currentEpisodes.map((episode, index) => `
+    <option value="${index}">
+      Episode ${index + 1}${episode.title ? ` - ${episode.title}` : ''}
+    </option>
+  `).join('');
+
+  autoPlayToggle.classList.toggle('active', autoPlayEnabled);
+}
+
+// Load episode
+function loadEpisode(episodeIndex, quality = null, preserveTime = false, startTime = 0) {
+  if (!currentEpisodes || episodeIndex >= currentEpisodes.length) return;
+
+  const currentTime = preserveTime ? videoPlayer.currentTime : startTime;
+  
+  const episode = currentEpisodes[episodeIndex];
+  if (!episode || !episode.content) {
+    showToast('Episode not available');
+    return;
+  }
+
+  episodeSelect.value = episodeIndex;
+  
+  const selectedQuality = quality || qualitySelect.value;
+  const source = episode.content[selectedQuality] || 
+                episode.content[Object.keys(episode.content)[0]];
+
+  if (!source) {
+    showToast('No video source available');
+    return;
+  }
+
+  loadVideoSource(source, episodeIndex, currentTime);
+}
+
+// Load video source
+function loadVideoSource(source, episodeIndex, startTime = 0) {
+  // Clean up previous HLS instance
+  if (hls) {
+    hls.destroy();
+    hls = null;
+  }
+
+  if (source.endsWith('.m3u8')) {
+    // HLS stream
+    if (Hls.isSupported()) {
+      hls = new Hls({
+        enableWorker: true,
+        lowLatencyMode: false,
+        backBufferLength: 90
+      });
+      
+      hls.loadSource(source);
+      hls.attachMedia(videoPlayer);
+      
+      hls.on(Hls.Events.MANIFEST_PARSED, () => {
+        videoPlayer.play().catch(e => console.warn('Autoplay prevented:', e));
+      });
+
+      videoPlayer.addEventListener('canplay', () => {
+        if (startTime > 0) {
+          videoPlayer.currentTime = startTime;
+        }
+      }, { once: true });
+
+      hls.on(Hls.Events.ERROR, (event, data) => {
+        console.error('HLS Error:', data);
+        if (data.fatal) {
+          showToast('Failed to load video');
+        }
+      });
+    } else if (videoPlayer.canPlayType('application/vnd.apple.mpegurl')) {
+      // Native HLS support (Safari)
+      videoPlayer.src = source;
+      
+      videoPlayer.addEventListener('canplay', () => {
+        if (startTime > 0) {
+          videoPlayer.currentTime = startTime;
+        }
+      }, { once: true });
+      
+      videoPlayer.play().catch(e => console.warn('Autoplay prevented:', e));
+    }
+  } else {
+    // Direct video file
+    videoPlayer.src = source;
+    
+    videoPlayer.addEventListener('canplay', () => {
+      if (startTime > 0) {
+        videoPlayer.currentTime = startTime;
+      }
+    }, { once: true });
+    
+    videoPlayer.play().catch(e => console.warn('Autoplay prevented:', e));
+  }
+
+  // Update watch history
+  const showId = currentShow.show.id.toString();
+  if (!watchHistory[showId]) {
+    watchHistory[showId] = {};
+  }
+  watchHistory[showId].episode = episodeIndex;
+  watchHistory[showId].currentTime = startTime;
+  watchHistory[showId].progress = startTime > 0 ? startTime / videoPlayer.duration : 0;
+  saveWatchHistory();
+}
+
+// Save progress
+function saveProgress() {
+  if (!currentShow || !videoPlayer.duration) return;
+
+  const showId = currentShow.show.id.toString();
+  const currentTime = videoPlayer.currentTime;
+  const duration = videoPlayer.duration;
+  const progress = currentTime / duration;
+
+  if (!watchHistory[showId]) {
+    watchHistory[showId] = {};
+  }
+
+  watchHistory[showId].currentTime = currentTime;
+  watchHistory[showId].progress = progress;
+  watchHistory[showId].episode = parseInt(episodeSelect.value) || 0;
+  
+  // Save every 10 seconds
+  if (Math.floor(currentTime) % 10 === 0) {
+    saveWatchHistory();
+  }
+}
+
+// Handle video ended
+function handleVideoEnded() {
+  if (!autoPlayEnabled) return;
+
+  const currentIndex = parseInt(episodeSelect.value) || 0;
+  const nextIndex = currentIndex + 1;
+
+  if (nextIndex < currentEpisodes.length) {
+    showToast(`Auto-playing Episode ${nextIndex + 1}`);
+    setTimeout(() => {
+      loadEpisode(nextIndex);
+    }, 500);
+  } else {
+    showToast('Series completed!');
+    
+    // Mark as completed
+    const showId = currentShow.show.id.toString();
+    if (watchHistory[showId]) {
+      watchHistory[showId].progress = 1;
+      saveWatchHistory();
+    }
+  }
+}
+
+// Toggle auto-play
+function toggleAutoPlay() {
+  autoPlayEnabled = !autoPlayEnabled;
+  autoPlayToggle.classList.toggle('active', autoPlayEnabled);
+  
+  try {
+    localStorage.setItem('kukufm_autoplay', JSON.stringify(autoPlayEnabled));
+  } catch (e) {
+    console.warn('Failed to save autoplay setting:', e);
+  }
+}
+
+// Show player
+function showPlayer() {
+  playerOverlay.style.display = 'flex';
+  document.body.style.overflow = 'hidden';
+  
+  history.pushState({ player: true }, '', window.location.href);
+}
+
+// Close player
+function closePlayer() {
+  playerOverlay.style.display = 'none';
+  document.body.style.overflow = '';
+  
+  videoPlayer.pause();
+  
+  if (hls) {
+    hls.destroy();
+    hls = null;
+  }
+  
+  videoPlayer.src = '';
+  videoPlayer.load();
+  
+  renderContinueWatching();
+  
+  // Exit search mode and return to normal view
+  if (isSearchMode) {
+    searchInput.value = '';
+    clearSearch.classList.remove('visible');
+    updateUrlSearch('');
+    isSearchMode = false;
+    searchResultsHeader.style.display = 'none';
+    mainContent.style.display = 'block';
+
+	// Only show continue watching if it has content
+	const watchingShows = Object.entries(watchHistory).filter(([_, data]) => 
+		data.progress > 0 && data.progress < 0.95
+	);
+  
+	if (watchingShows.length > 0) {
+		continueSection.style.display = 'block';
+	} else {
+		continueSection.style.display = 'none';
+	}
+  }
+  
+  if (history.state?.player) {
+    history.back();
+  }
+}
+
+// Show toast message
+function showToast(message) {
+  const toast = document.getElementById('toast');
+  toast.textContent = message;
+  toast.style.display = 'block';
+  
+  setTimeout(() => {
+    toast.style.display = 'none';
+  }, 3000);
+}
+
+// Load autoplay setting
+function loadAutoPlaySetting() {
+  try {
+    const saved = localStorage.getItem('kukufm_autoplay');
+    if (saved !== null) {
+      autoPlayEnabled = JSON.parse(saved);
+    }
+  } catch (e) {
+    console.warn('Failed to load autoplay setting:', e);
+  }
+}
+
+// Initialize
+document.addEventListener('DOMContentLoaded', () => {
+  loadAutoPlaySetting();
+});
+
+// Memory cleanup on page unload
+window.addEventListener('beforeunload', () => {
+  if (hls) {
+    hls.destroy();
+  }
+});
+
+// Prevent right-click on video (optional)
+videoPlayer.addEventListener('contextmenu', (e) => {
+  e.preventDefault();
+});
+
+// Handle fullscreen changes
+document.addEventListener('fullscreenchange', () => {
+  if (document.fullscreenElement === videoPlayer) {
+    videoPlayer.style.maxHeight = '100vh';
+  } else {
+    videoPlayer.style.maxHeight = '70vh';
+  }
+});
+
+// Handle network status
+window.addEventListener('online', () => {
+  showToast('Connection restored');
+});
+
+window.addEventListener('offline', () => {
+  showToast('Connection lost. Some features may not work.');
+});
+  </script>
+  <script>
+// Share functionality using Web Share API or fallback
+async function shareDirectPlayUrl(showId, episodeIndex = 0) {
+  const url = getEpisodeDirectPlayUrl(showId, episodeIndex);
+  const show = allShows.find(s => s.show.id.toString() === showId.toString());
+  
+  if (!url || !show) {
+    showToast('Could not generate share URL');
+    return;
+  }
+  
+  const shareData = {
+  title: show.show.title,
+  text: 
+`Title: ${show.show.title}
+Description: ${show.show.description || "No description available"}
+Image: ${show.show.share_image_url || "No image"}
+Episodes: ${show.show.n_episodes || 0}
+Link: ${url}`,
+  url: url
+};
+  
+  try {
+    // Try Web Share API first (mobile browsers)
+    if (navigator.share && navigator.canShare && navigator.canShare(shareData)) {
+      await navigator.share(shareData);
+      showToast('Shared successfully!');
+    } else {
+      // Fallback to clipboard
+      await navigator.clipboard.writeText(url);
+      showToast('Share URL copied to clipboard!');
+    }
+  } catch (error) {
+    console.error('Share failed:', error);
+    // Final fallback - create a temporary input to copy text
+    try {
+      const textArea = document.createElement('textarea');
+      textArea.value = url;
+      textArea.style.position = 'fixed';
+      textArea.style.opacity = '0';
+      document.body.appendChild(textArea);
+      textArea.select();
+      document.execCommand('copy');
+      document.body.removeChild(textArea);
+      showToast('Share URL copied to clipboard!');
+    } catch (fallbackError) {
+      showToast('Share failed - please copy URL manually');
+      console.error('All share methods failed:', fallbackError);
+    }
+  }
+}
+
+// Optional: Add timestamp parameter for resuming at specific time
+// URL format: ?play=268531:4:120 (show 268531, episode 5, start at 2 minutes)
+function handleDirectPlayWithTimestamp(playParam) {
+  let showIdentifier = playParam;
+  let episodeIndex = 0;
+  let startTime = 0;
+  
+  const parts = playParam.split(':');
+  if (parts.length >= 2) {
+    showIdentifier = parts[0];
+    episodeIndex = parseInt(parts[1]) || 0;
+  }
+  if (parts.length >= 3) {
+    startTime = parseInt(parts[2]) || 0;
+  }
+  
+  // Use this startTime when calling loadEpisode
+  // loadEpisode(episodeIndex, null, false, startTime);
+}
+
+// Initialize additional features (call this in DOMContentLoaded if you want them)
+function initializeAdditionalFeatures() {
+  addShareButtonToCards();
+  addContextMenuToCards();
+}
+
+function initializeShareButtons() {
+  console.log('Share buttons initialized - CSS already in main stylesheet');
+}
+
+window.addEventListener("pageshow", (event) => {
+  // When coming back from test.html, reload watch history
+  loadWatchHistory();
+  renderContinueWatching();
+});
+</script>
+  
+</body>
+</html>

@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Donation for Meow</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 40px;
+      background: #f7f7f7;
+    }
+    select, input {
+      padding: 10px;
+      font-size: 16px;
+      margin: 10px 5px;
+      border-radius: 6px;
+      border: 1px solid #ccc;
+      text-align: center;
+    }
+    input {
+      width: 120px;
+    }
+    button {
+      background: #4CAF50;
+      color: white;
+      border: none;
+      padding: 15px 30px;
+      font-size: 18px;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: 0.3s;
+    }
+    button:hover {
+      background: #45a049;
+    }
+    #orderInfo {
+      margin-top: 20px;
+      font-size: 16px;
+      color: #333;
+      background: #fff;
+      padding: 10px 15px;
+      border-radius: 6px;
+      display: inline-block;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    #qrcode {
+      margin-top: 20px;
+      padding: 10px;
+      background: #fff;
+      display: inline-block;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    }
+  </style>
+</head>
+<body>
+  <h2>Donate via UPI</h2>
+  <p>Select a donation amount or enter your own (minimum ₹20):</p>
+
+  <!-- Preset Amount Dropdown -->
+  <select id="presetAmount" onchange="handlePresetChange()">
+    <option value="20">₹20</option>
+    <option value="50">₹50</option>
+    <option value="100">₹100</option>
+    <option value="200">₹200</option>
+    <option value="custom">Custom</option>
+  </select>
+
+  <!-- Custom Amount Field -->
+  <input type="number" id="customAmount" placeholder="Enter ₹" style="display:none;" min="20" step="1">
+
+  <br>
+
+  <!-- Pay button -->
+  <button onclick="payUPI()">💳 Pay via UPI</button>
+
+  <!-- Order ID display -->
+  <div id="orderInfo" style="display:none;"></div>
+
+  <!-- QR code container -->
+  <div id="qrcode"></div>
+
+  <!-- QRCodeJS library -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+<script>
+  const vpa = "9715988121@ptyes"; // <-- your UPI ID
+  const pn  = encodeURIComponent("Meow Streaming");
+  const tn  = encodeURIComponent("Payment for Donation");
+
+  function generateOrderId() {
+    return "ORDER_" + Date.now() + "_" + Math.floor(Math.random() * 1000);
+  }
+
+  function handlePresetChange() {
+    const preset = document.getElementById("presetAmount").value;
+    const customInput = document.getElementById("customAmount");
+    if (preset === "custom") {
+      customInput.style.display = "inline-block";
+      customInput.focus();
+      // Update UI only after user enters custom value
+    } else {
+      customInput.style.display = "none";
+      updateUI(parseFloat(preset).toFixed(2)); // 🔥 update immediately for preset amounts
+    }
+  }
+
+  function getSelectedAmount() {
+    const preset = document.getElementById("presetAmount").value;
+    if (preset === "custom") {
+      const customValue = parseFloat(document.getElementById("customAmount").value);
+      if (isNaN(customValue) || customValue < 20) {
+        alert("Minimum donation amount is ₹20.");
+        return null;
+      }
+      return customValue.toFixed(2);
+    }
+    return parseFloat(preset).toFixed(2);
+  }
+
+  function updateUI(amount) {
+    const orderId = generateOrderId();
+    const tr = encodeURIComponent(orderId);
+
+    // Build UPI link
+    const upi = `upi://pay?pa=${vpa}&pn=${pn}&am=${amount}&cu=INR&tn=${tn}&tr=${tr}`;
+
+    // Show Order ID + Amount
+    const orderBox = document.getElementById("orderInfo");
+    orderBox.style.display = "block";
+    orderBox.innerHTML = `<strong>Your Donation ID:</strong> ${orderId}<br><strong>Amount:</strong> ₹${amount}`;
+
+    // Update QR
+    document.getElementById("qrcode").innerHTML = "";
+    new QRCode(document.getElementById("qrcode"), {
+      text: upi,
+      width: 200,
+      height: 200
+    });
+
+    return upi;
+  }
+
+  // Pay via Button
+  function payUPI() {
+    const amount = getSelectedAmount();
+    if (!amount) return;
+    const url = updateUI(amount);
+    window.location.href = url; // open UPI app (on mobile)
+  }
+
+  // 🔥 Listen for typing in custom field
+  document.addEventListener("input", (e) => {
+    if (e.target.id === "customAmount") {
+      const val = parseFloat(e.target.value);
+      if (!isNaN(val) && val >= 20) {
+        updateUI(val.toFixed(2));
+      }
+    }
+  });
+
+  // Initialize with default ₹20
+  updateUI("20.00");
+</script>
+
+</body>
+</html>

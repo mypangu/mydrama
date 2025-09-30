@@ -1,0 +1,199 @@
+{
+  "show": {
+    "id": 272813,
+    "slug": "my-2-fiances-8",
+    "title": "My 2 Fiances",
+    "image": "https://images.cdn.kukufm.com/f:webp/https://kukufm.s3.amazonaws.com/banners/9bae49ba-cb09-4428-9278-b89fd502fdde.webp",
+    "original_image": "https://kukufm.s3.amazonaws.com/banners/9bae49ba-cb09-4428-9278-b89fd502fdde.webp",
+    "image_sizes": {
+      "100": "https://images.cdn.kukufm.com/w:100/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/9bae49ba-cb09-4428-9278-b89fd502fdde.webp",
+      "200": "https://images.cdn.kukufm.com/w:200/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/9bae49ba-cb09-4428-9278-b89fd502fdde.webp",
+      "300": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/9bae49ba-cb09-4428-9278-b89fd502fdde.webp"
+    },
+    "language": "hindi",
+    "published_on": "",
+    "status": "draft",
+    "n_listens": 0,
+    "is_verified": false,
+    "dynamic_link": null,
+    "uri": "app://kukufm/show/my-2-fiances-8/",
+    "web_uri": "/show/my-2-fiances-8",
+    "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/9bae49ba-cb09-4428-9278-b89fd502fdde.webp",
+    "cover_type": null,
+    "is_premium": false,
+    "overall_rating": null,
+    "n_reviews": 0,
+    "is_fictional": null,
+    "duration_s": null,
+    "n_episodes": 0,
+    "n_comments": 0,
+    "is_transcript_available": null,
+    "n_impressions": 0,
+    "recommendation_score": 0,
+    "users_completion_p": 0,
+    "daily_unlock_count": 0,
+    "thumbnail_color": null,
+    "is_daily_unlock_enabled": false,
+    "n_seasons": 1,
+    "is_coin_based": false,
+    "monetization_type": "subscription",
+    "is_coin_premium": false,
+    "show_label_info": {},
+    "is_coming_soon": null,
+    "show_type": "reel",
+    "is_comments_exposure_enabled": false,
+    "is_adult_content": false,
+    "sharing_text": "हेलो! मैंने कुकू एफएम पर इस शो को सुना और मेरे ख्‍याल से आपको भी पसंद आएगा",
+    "sharing_text_v2": "हेलो! मैंने कुकू एफएम पर इस शो को सुना और मेरे ख्‍याल से आपको भी पसंद आएगा \nhttps://kukufm.com/show/my-2-fiances-8/?utm_source=share_sh",
+    "description": "My 2 Fiances",
+    "description_secondary": "My 2 Fiances",
+    "author": {
+      "id": 153057313,
+      "name": "Subhajit Chatterjee",
+      "avatar_cdn": "https://images.cdn.kukufm.com/https://kukufm.s3.amazonaws.com/avatars/e9c77b6d668e4c44b8fed10547116d2d.png",
+      "original_avatar": "https://kukufm.s3.amazonaws.com/avatars/e9c77b6d668e4c44b8fed10547116d2d.png",
+      "avatar": {
+        "32": "https://images.cdn.kukufm.com/w:32/f:jpg/q:90/https://kukufm.s3.amazonaws.com/avatars/e9c77b6d668e4c44b8fed10547116d2d.png",
+        "64": "https://images.cdn.kukufm.com/w:64/f:jpg/q:90/https://kukufm.s3.amazonaws.com/avatars/e9c77b6d668e4c44b8fed10547116d2d.png",
+        "128": "https://images.cdn.kukufm.com/w:128/f:jpg/q:90/https://kukufm.s3.amazonaws.com/avatars/e9c77b6d668e4c44b8fed10547116d2d.png",
+        "256": "https://images.cdn.kukufm.com/w:256/f:jpg/q:90/https://kukufm.s3.amazonaws.com/avatars/e9c77b6d668e4c44b8fed10547116d2d.png"
+      },
+      "bio": "Play What You Love",
+      "incognito_mode": false
+    },
+    "lang": {
+      "id": 1,
+      "title": "हिंदी",
+      "title_secondary": "Hindi",
+      "image": "https://images.cdn.kukufm.com/https://kukufm.s3.ap-south-1.amazonaws.com/icons/hindi_1.png",
+      "slug": "hindi",
+      "color": "#FD6233",
+      "uri": "app://kukufm/home-lang/hindi",
+      "web_uri": "/home-lang/hindi",
+      "color_info": {
+        "bg_color": "#F8EBD0",
+        "text_color": "#A16400"
+      },
+      "short_title": "ह",
+      "svg_icon": "https://d1l07mcd18xic4.cloudfront.net/lang_icons/hindi.svg",
+      "icon_sizes": {
+        "16": "https://images.cdn.kukufm.com/w:16/q:85/https://kukufm.s3.ap-south-1.amazonaws.com/icons/hindi_1.png",
+        "64": "https://images.cdn.kukufm.com/w:64/q:85/https://kukufm.s3.ap-south-1.amazonaws.com/icons/hindi_1.png",
+        "256": "https://images.cdn.kukufm.com/w:256/q:85/https://kukufm.s3.ap-south-1.amazonaws.com/icons/hindi_1.png"
+      }
+    },
+    "content_type": {
+      "id": 8,
+      "title": "शृंखला",
+      "slug": "series",
+      "uri": "app://kukufm/content-types/series",
+      "web_uri": "/content-types/series",
+      "color_info": {
+        "title_color": "#FFFFFF",
+        "text_color": "#FFFFFF"
+      }
+    },
+    "other_images": {
+      "landscape_image": "https://images.cdn.kukufm.com/f:webp/https://kukufm.s3.amazonaws.com/banners/6020e9e6-0b32-4145-a5bd-e673faf50034.jpg",
+      "landscape_image_sizes": {
+        "360": "https://images.cdn.kukufm.com/w:360/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/6020e9e6-0b32-4145-a5bd-e673faf50034.jpg",
+        "480": "https://images.cdn.kukufm.com/w:480/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/6020e9e6-0b32-4145-a5bd-e673faf50034.jpg",
+        "720": "https://images.cdn.kukufm.com/w:720/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/6020e9e6-0b32-4145-a5bd-e673faf50034.jpg"
+      },
+      "title_image": "https://images.cdn.kukufm.com/f:webp/https://kukufm.s3.amazonaws.com/banners/4dd12b41-53c3-4b05-bc7c-c4567eb2504d.png",
+      "title_image_sizes": {
+        "360": "https://images.cdn.kukufm.com/w:360/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/4dd12b41-53c3-4b05-bc7c-c4567eb2504d.png",
+        "480": "https://images.cdn.kukufm.com/w:480/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/4dd12b41-53c3-4b05-bc7c-c4567eb2504d.png",
+        "720": "https://images.cdn.kukufm.com/w:720/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/4dd12b41-53c3-4b05-bc7c-c4567eb2504d.png"
+      },
+      "reel_image": "https://images.cdn.kukufm.com/h:400/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/e40fb798-7098-4cab-b5b1-21a3dc91eb2c.webp",
+      "reel_image_sizes": {
+        "360": "https://images.cdn.kukufm.com/w:360/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/e40fb798-7098-4cab-b5b1-21a3dc91eb2c.webp",
+        "480": "https://images.cdn.kukufm.com/w:480/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/e40fb798-7098-4cab-b5b1-21a3dc91eb2c.webp",
+        "720": "https://images.cdn.kukufm.com/w:720/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/e40fb798-7098-4cab-b5b1-21a3dc91eb2c.webp"
+      },
+      "vertical_thumbnail": "https://images.cdn.kukufm.com/h:400/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/e40fb798-7098-4cab-b5b1-21a3dc91eb2c.webp",
+      "vertical_thumbnail_image_sizes": {
+        "360": "https://images.cdn.kukufm.com/w:360/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/e40fb798-7098-4cab-b5b1-21a3dc91eb2c.webp",
+        "480": "https://images.cdn.kukufm.com/w:480/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/e40fb798-7098-4cab-b5b1-21a3dc91eb2c.webp",
+        "720": "https://images.cdn.kukufm.com/w:720/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/e40fb798-7098-4cab-b5b1-21a3dc91eb2c.webp"
+      }
+    },
+    "thumbnail_data": {
+      "dvd_portrait": "https://images.cdn.kukufm.com/w:400/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/e7b35f76-838e-49eb-9808-2f0a6ef557f0.png",
+      "title_image": "https://images.cdn.kukufm.com/h:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/4dd12b41-53c3-4b05-bc7c-c4567eb2504d.png",
+      "key_art": "https://images.cdn.kukufm.com/h:720/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/cc2f5d2a-d177-413a-8ddc-e20138d2da96.png"
+    },
+    "labels": [],
+    "is_top_10": false,
+    "is_reel": true,
+    "ever_been_vip_show": false,
+    "is_show_page_skip": true,
+    "is_self": false,
+    "ad_enabled": false,
+    "can_download_all": true,
+    "is_added": false,
+    "genre": {
+      "id": 80,
+      "title": "नाटक",
+      "slug": "drama_",
+      "uri": "app://app/genres/drama_",
+      "web_uri": "/genres/drama_"
+    },
+    "credits": {
+      "dubbing_studios": [
+        {
+          "id": 69945950,
+          "full_name": "Aural Arts LLP",
+          "avatar": {
+            "16": "https://images.cdn.kukufm.com/w:16/q:85/https://kukufm.s3.amazonaws.com/avatars/77c2475acdd74b9c9b555f65a51376f5.jpeg",
+            "64": "https://images.cdn.kukufm.com/w:64/q:85/https://kukufm.s3.amazonaws.com/avatars/77c2475acdd74b9c9b555f65a51376f5.jpeg",
+            "256": "https://images.cdn.kukufm.com/w:256/q:85/https://kukufm.s3.amazonaws.com/avatars/77c2475acdd74b9c9b555f65a51376f5.jpeg"
+          },
+          "n_followers": 92,
+          "contribution_type": "dubbing_studio",
+          "is_primary_creator": false,
+          "is_followed": false
+        }
+      ],
+      "production_houses": [
+        {
+          "id": 69945950,
+          "full_name": "Aural Arts LLP",
+          "avatar": {
+            "16": "https://images.cdn.kukufm.com/w:16/q:85/https://kukufm.s3.amazonaws.com/avatars/77c2475acdd74b9c9b555f65a51376f5.jpeg",
+            "64": "https://images.cdn.kukufm.com/w:64/q:85/https://kukufm.s3.amazonaws.com/avatars/77c2475acdd74b9c9b555f65a51376f5.jpeg",
+            "256": "https://images.cdn.kukufm.com/w:256/q:85/https://kukufm.s3.amazonaws.com/avatars/77c2475acdd74b9c9b555f65a51376f5.jpeg"
+          },
+          "n_followers": 92,
+          "contribution_type": "production_house",
+          "is_primary_creator": true,
+          "is_followed": false
+        }
+      ]
+    },
+    "is_play_locked": false,
+    "hide_download_all_icon": null,
+    "growth_engine_audio_cue_info": {},
+    "social_proofing": {
+      "review": null
+    },
+    "physical_book_data": {},
+    "show_unlocked_nudge_text": "Unlocked with Premium"
+  },
+  "episodes": [],
+  "has_more": false,
+  "n_episodes": 0,
+  "n_pages": 1,
+  "page": 1,
+  "support_sticker": "",
+  "is_skip_show_page": false,
+  "season_n_episodes": 0,
+  "last_unlocked_episode_index": null,
+  "first_locked_episode_title": "",
+  "seo_description": null,
+  "ads_info": {
+    "interstitial_unit_id": "/23081990290,23155115523/com.vlv.aravali.lovenasha.Interstitial2.1750061859",
+    "reward_unit_id": "/23081990290,23155115523/com.vlv.aravali.lovenasha.Rewarded2.1750061900"
+  }
+}

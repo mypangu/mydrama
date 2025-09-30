@@ -1,0 +1,304 @@
+{
+  "show": {
+    "id": 271070,
+    "slug": "counterattacked-to-become-a-tycoon-2",
+    "title": "Counterattacked To Become A Tycoon",
+    "image": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/7917b2dafbb74f0f957af28069f26c70.png",
+    "original_image": "https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/7917b2dafbb74f0f957af28069f26c70.png",
+    "image_sizes": {
+      "100": "https://images.cdn.kukufm.com/w:100/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/7917b2dafbb74f0f957af28069f26c70.png",
+      "200": "https://images.cdn.kukufm.com/w:200/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/7917b2dafbb74f0f957af28069f26c70.png",
+      "300": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/7917b2dafbb74f0f957af28069f26c70.png"
+    },
+    "language": "tamil",
+    "published_on": "2025-07-04T10:27:54.551665+00:00",
+    "status": "live",
+    "n_listens": 7341,
+    "is_verified": false,
+    "dynamic_link": "https://links.kukufm.com/n66Lrn",
+    "uri": "app://kukufm/show/counterattacked-to-become-a-tycoon-2/",
+    "web_uri": "/show/counterattacked-to-become-a-tycoon-2",
+    "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/7917b2dafbb74f0f957af28069f26c70.png",
+    "cover_type": null,
+    "is_premium": true,
+    "overall_rating": null,
+    "n_reviews": 0,
+    "is_fictional": true,
+    "duration_s": 99,
+    "n_episodes": 1,
+    "n_comments": 0,
+    "is_transcript_available": null,
+    "n_impressions": 0,
+    "recommendation_score": 0,
+    "users_completion_p": 0,
+    "daily_unlock_count": 0,
+    "thumbnail_color": "#33675e5b",
+    "is_daily_unlock_enabled": false,
+    "n_seasons": 1,
+    "is_coin_based": false,
+    "monetization_type": "subscription",
+    "is_coin_premium": false,
+    "show_label_info": {},
+    "is_coming_soon": null,
+    "show_type": "reel",
+    "is_comments_exposure_enabled": false,
+    "is_adult_content": false,
+    "sharing_text": "हेलो! मैंने कुकू एफएम पर इस शो को सुना और मेरे ख्‍याल से आपको भी पसंद आएगा",
+    "sharing_text_v2": "हेलो! मैंने Kuku FM (Android)  पर यह शो सुना और मुझे यकीन है कि आपको भी यह जरूर पसंद आएगा। \nhttps://links.kukufm.com/n66Lrn",
+    "completion_status": 2,
+    "description": "Imagine when the world tries to put you down — you change the whole game!\r\nWitness the journey of an ordinary person who writes his own destiny.\r\nThis intense battle between revenge and riches will fill you with fire and determination!\r\n",
+    "description_secondary": "Imagine when the world tries to put you down — you change the whole game!\r\nWitness the journey of an ordinary person who writes his own destiny.\r\nThis intense battle between revenge and riches will fill you with fire and determination!\r\n",
+    "author": {
+      "id": 111119162,
+      "name": "Express Productions",
+      "avatar_cdn": "https://images.cdn.kukufm.com/https://kukufm.s3.amazonaws.com/avatars/efc8a7dcef6e4350abe4e83c4cc1af6c.png",
+      "original_avatar": "https://kukufm.s3.amazonaws.com/avatars/efc8a7dcef6e4350abe4e83c4cc1af6c.png",
+      "avatar": {
+        "32": "https://images.cdn.kukufm.com/w:32/f:jpg/q:90/https://kukufm.s3.amazonaws.com/avatars/efc8a7dcef6e4350abe4e83c4cc1af6c.png",
+        "64": "https://images.cdn.kukufm.com/w:64/f:jpg/q:90/https://kukufm.s3.amazonaws.com/avatars/efc8a7dcef6e4350abe4e83c4cc1af6c.png",
+        "128": "https://images.cdn.kukufm.com/w:128/f:jpg/q:90/https://kukufm.s3.amazonaws.com/avatars/efc8a7dcef6e4350abe4e83c4cc1af6c.png",
+        "256": "https://images.cdn.kukufm.com/w:256/f:jpg/q:90/https://kukufm.s3.amazonaws.com/avatars/efc8a7dcef6e4350abe4e83c4cc1af6c.png"
+      },
+      "bio": "Play What You Love",
+      "incognito_mode": false
+    },
+    "lang": {
+      "id": 8,
+      "title": "தமிழ்",
+      "title_secondary": "Tamil",
+      "image": "https://images.cdn.kukufm.com/https://kukufm.s3.ap-south-1.amazonaws.com/icons/tamil_2.png",
+      "slug": "tamil",
+      "color": "#282E34",
+      "uri": "app://kukufm/home-lang/tamil",
+      "web_uri": "/home-lang/tamil",
+      "color_info": {
+        "bg_color": "#EBCEF5",
+        "text_color": "#671584"
+      },
+      "short_title": "த",
+      "svg_icon": "https://d1l07mcd18xic4.cloudfront.net/lang_icons/tamil.svg",
+      "icon_sizes": {
+        "16": "https://images.cdn.kukufm.com/w:16/q:85/https://kukufm.s3.ap-south-1.amazonaws.com/icons/tamil_2.png",
+        "64": "https://images.cdn.kukufm.com/w:64/q:85/https://kukufm.s3.ap-south-1.amazonaws.com/icons/tamil_2.png",
+        "256": "https://images.cdn.kukufm.com/w:256/q:85/https://kukufm.s3.ap-south-1.amazonaws.com/icons/tamil_2.png"
+      }
+    },
+    "content_type": {
+      "id": 4,
+      "title": "कहानी",
+      "slug": "story",
+      "uri": "app://kukufm/content-types/story",
+      "web_uri": "/content-types/story",
+      "color_info": {
+        "bg_color": "#25D32C",
+        "text_color": "#25D32C"
+      }
+    },
+    "other_images": {
+      "landscape_image": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/1b3d318c76e041508623d308331e2720_landscape_424.png",
+      "landscape_image_sizes": {
+        "360": "https://images.cdn.kukufm.com/w:360/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/1b3d318c76e041508623d308331e2720_landscape_424.png",
+        "480": "https://images.cdn.kukufm.com/w:480/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/1b3d318c76e041508623d308331e2720_landscape_424.png",
+        "720": "https://images.cdn.kukufm.com/w:720/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/1b3d318c76e041508623d308331e2720_landscape_424.png"
+      },
+      "title_image": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/1b3d318c76e041508623d308331e2720_title_709.png",
+      "title_image_sizes": {
+        "360": "https://images.cdn.kukufm.com/w:360/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/1b3d318c76e041508623d308331e2720_title_709.png",
+        "480": "https://images.cdn.kukufm.com/w:480/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/1b3d318c76e041508623d308331e2720_title_709.png",
+        "720": "https://images.cdn.kukufm.com/w:720/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/1b3d318c76e041508623d308331e2720_title_709.png"
+      },
+      "reel_image": "https://images.cdn.kukufm.com/h:400/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/1b3d318c76e041508623d308331e2720_reel_758.png",
+      "reel_image_sizes": {
+        "360": "https://images.cdn.kukufm.com/w:360/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/1b3d318c76e041508623d308331e2720_reel_758.png",
+        "480": "https://images.cdn.kukufm.com/w:480/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/1b3d318c76e041508623d308331e2720_reel_758.png",
+        "720": "https://images.cdn.kukufm.com/w:720/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/1b3d318c76e041508623d308331e2720_reel_758.png"
+      },
+      "vertical_thumbnail": "https://images.cdn.kukufm.com/h:400/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/1b3d318c76e041508623d308331e2720_reel_758.png",
+      "vertical_thumbnail_image_sizes": {
+        "360": "https://images.cdn.kukufm.com/w:360/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/1b3d318c76e041508623d308331e2720_reel_758.png",
+        "480": "https://images.cdn.kukufm.com/w:480/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/1b3d318c76e041508623d308331e2720_reel_758.png",
+        "720": "https://images.cdn.kukufm.com/w:720/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/1b3d318c76e041508623d308331e2720_reel_758.png"
+      }
+    },
+    "thumbnail_data": {
+      "dvd_portrait": "https://images.cdn.kukufm.com/w:400/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/1b3d318c76e041508623d308331e2720_dvd_10.png",
+      "title_image": "https://images.cdn.kukufm.com/h:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/1b3d318c76e041508623d308331e2720_title_709.png",
+      "key_art": "https://images.cdn.kukufm.com/h:720/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/1b3d318c76e041508623d308331e2720_key_art_803.png"
+    },
+    "labels": [
+      "New Episode Daily",
+      "13+",
+      "video-clip-episode/hls/6a802726-a57f-4a5b-8624-8d5237c37fd7.m3u8",
+      "1305530"
+    ],
+    "is_top_10": false,
+    "is_reel": true,
+    "ever_been_vip_show": false,
+    "resume_episode": {
+      "id": 1305530,
+      "title": "1",
+      "slug": "1-835",
+      "status": "live",
+      "image": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/7917b2dafbb74f0f957af28069f26c70.png",
+      "original_image": "https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/7917b2dafbb74f0f957af28069f26c70.png",
+      "duration_s": 99,
+      "image_sizes": {
+        "100": "https://images.cdn.kukufm.com/w:100/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/7917b2dafbb74f0f957af28069f26c70.png",
+        "150": "https://images.cdn.kukufm.com/w:150/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/7917b2dafbb74f0f957af28069f26c70.png",
+        "200": "https://images.cdn.kukufm.com/w:200/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/7917b2dafbb74f0f957af28069f26c70.png",
+        "300": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/7917b2dafbb74f0f957af28069f26c70.png"
+      },
+      "n_likes": 0,
+      "n_shares": 0,
+      "n_plays": 7293,
+      "n_listens": 7293,
+      "n_comments": 0,
+      "cover_type": null,
+      "content": {
+        "url": null,
+        "hls_url": "https://kukufm.akamaized.net/video-episode/b8ce9ce4-8d3e-4de1-8f16-85a9a7e70e0f/1305530.m3u8",
+        "premium_audio_url": "https://d1l07mcd18xic4.cloudfront.net/audio/ae1ccd22-2d4d-4a9f-86d7-c7c4a932d4d4.m3u8",
+        "duration": 99,
+        "video_dash_url": "https://kukufm.akamaized.net/video-episode/b8ce9ce4-8d3e-4de1-8f16-85a9a7e70e0f/1305530.mpd",
+        "dash_url": "https://kukufm.akamaized.net/video-episode/b8ce9ce4-8d3e-4de1-8f16-85a9a7e70e0f/1305530.mpd",
+        "video_hls_url": "https://kukufm.akamaized.net/video-episode/b8ce9ce4-8d3e-4de1-8f16-85a9a7e70e0f/1305530.m3u8"
+      },
+      "dynamic_link": null,
+      "is_premium": true,
+      "is_play_locked": false,
+      "is_locked": false,
+      "is_fictional": true,
+      "index": 1,
+      "show_id": 271070,
+      "season_no": 1,
+      "is_demo_premium": true,
+      "video_thumbnail": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/video-thumbnails/show_271070_episode_1305530_d9240971b8524932b296f2fbda33640f.jpg",
+      "media_size": 194506309,
+      "published_on": "2025-07-04T08:30:06.169814+00:00",
+      "hide_download_icon": true,
+      "other_images": {
+        "reel_image": "https://images.cdn.kukufm.com/h:400/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/1b3d318c76e041508623d308331e2720_reel_758.png"
+      },
+      "seek_position": 0
+    },
+    "is_show_page_skip": true,
+    "is_self": false,
+    "ad_enabled": false,
+    "can_download_all": true,
+    "is_added": false,
+    "genre": {
+      "id": 80,
+      "title": "नाटक",
+      "slug": "drama_",
+      "uri": "app://app/genres/drama_",
+      "web_uri": "/genres/drama_"
+    },
+    "credits": {
+      "dubbing_studios": [
+        {
+          "id": 111119162,
+          "full_name": "Express Productions",
+          "avatar": {
+            "16": "https://images.cdn.kukufm.com/w:16/q:85/https://kukufm.s3.amazonaws.com/avatars/efc8a7dcef6e4350abe4e83c4cc1af6c.png",
+            "64": "https://images.cdn.kukufm.com/w:64/q:85/https://kukufm.s3.amazonaws.com/avatars/efc8a7dcef6e4350abe4e83c4cc1af6c.png",
+            "256": "https://images.cdn.kukufm.com/w:256/q:85/https://kukufm.s3.amazonaws.com/avatars/efc8a7dcef6e4350abe4e83c4cc1af6c.png"
+          },
+          "n_followers": 9,
+          "contribution_type": "dubbing_studio",
+          "is_primary_creator": false,
+          "is_followed": false
+        },
+        {
+          "id": 78401521,
+          "full_name": "Express Productions",
+          "avatar": {
+            "16": "https://images.cdn.kukufm.com/w:16/q:85/https://kukufm.s3.amazonaws.com/avatars/400de6948a81416abb63e97af6ee718e.png",
+            "64": "https://images.cdn.kukufm.com/w:64/q:85/https://kukufm.s3.amazonaws.com/avatars/400de6948a81416abb63e97af6ee718e.png",
+            "256": "https://images.cdn.kukufm.com/w:256/q:85/https://kukufm.s3.amazonaws.com/avatars/400de6948a81416abb63e97af6ee718e.png"
+          },
+          "n_followers": 57,
+          "contribution_type": "dubbing_studio",
+          "is_primary_creator": false,
+          "is_followed": false
+        }
+      ]
+    },
+    "media_size": 194506309,
+    "is_play_locked": false,
+    "hide_download_all_icon": null,
+    "growth_engine_audio_cue_info": {},
+    "social_proofing": {
+      "review": null
+    },
+    "physical_book_data": {},
+    "show_unlocked_nudge_text": "Unlocked with Premium"
+  },
+  "episodes": [
+    {
+      "id": 1305530,
+      "title": "1",
+      "slug": "1-835",
+      "status": "live",
+      "image": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/7917b2dafbb74f0f957af28069f26c70.png",
+      "original_image": "https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/7917b2dafbb74f0f957af28069f26c70.png",
+      "duration_s": 99,
+      "image_sizes": {
+        "100": "https://images.cdn.kukufm.com/w:100/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/7917b2dafbb74f0f957af28069f26c70.png",
+        "150": "https://images.cdn.kukufm.com/w:150/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/7917b2dafbb74f0f957af28069f26c70.png",
+        "200": "https://images.cdn.kukufm.com/w:200/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/7917b2dafbb74f0f957af28069f26c70.png",
+        "300": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/7917b2dafbb74f0f957af28069f26c70.png"
+      },
+      "n_likes": 0,
+      "n_shares": 0,
+      "n_plays": null,
+      "n_listens": 7313,
+      "n_comments": 0,
+      "cover_type": null,
+      "content": {
+        "converted_hls_url": "https://kukufm.akamaized.net/video-episode/b8ce9ce4-8d3e-4de1-8f16-85a9a7e70e0f/1305530.m3u8",
+        "video_720p": "https://kukufm.akamaized.net/video-episode/b8ce9ce4-8d3e-4de1-8f16-85a9a7e70e0f/1305530720p.m3u8",
+        "video_480p": "https://kukufm.akamaized.net/video-episode/b8ce9ce4-8d3e-4de1-8f16-85a9a7e70e0f/1305530480p.m3u8",
+        "video_360p": "https://kukufm.akamaized.net/video-episode/b8ce9ce4-8d3e-4de1-8f16-85a9a7e70e0f/1305530360p.m3u8",
+        "video_240p": "https://kukufm.akamaized.net/video-episode/b8ce9ce4-8d3e-4de1-8f16-85a9a7e70e0f/1305530240p.m3u8"
+      },
+      "dynamic_link": null,
+      "is_premium": true,
+      "is_play_locked": false,
+      "is_locked": false,
+      "is_fictional": true,
+      "index": 1,
+      "show_id": 271070,
+      "season_no": 1,
+      "is_demo_premium": true,
+      "video_thumbnail": "https://images.cdn.kukufm.com/f:webp/https://kukufm.s3.ap-south-1.amazonaws.com/video-thumbnails/show_271070_episode_1305530_d9240971b8524932b296f2fbda33640f.jpg",
+      "media_size": 194506309,
+      "published_on": "2025-07-04T08:30:06.169814+00:00",
+      "thumbnail_image": "https://images.cdn.kukufm.com/w:200/f:jpg/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/7917b2dafbb74f0f957af28069f26c70.png",
+      "web_uri": "/episode/1-835",
+      "other_images": {
+        "reel_image": "https://images.cdn.kukufm.com/h:400/f:webp/q:85/https://images.cdn.kukufm.com/h:400/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/1b3d318c76e041508623d308331e2720_reel_758.png"
+      },
+      "view_type": "default",
+      "has_srt": false,
+      "has_liked": false,
+      "seek_position": 0,
+      "can_download": true,
+      "is_downloaded": false,
+      "is_self": false,
+      "last_base_unlock": true,
+      "transcript": {}
+    }
+  ],
+  "has_more": false,
+  "n_episodes": 1,
+  "n_pages": 1,
+  "page": 1,
+  "support_sticker": "",
+  "is_skip_show_page": false,
+  "season_n_episodes": 1,
+  "seo_description": "",
+  "ads_info": {
+    "interstitial_unit_id": "ca-app-pub-4561182393559685/1056837854",
+    "reward_unit_id": "ca-app-pub-4561182393559685/9486057486"
+  }
+}

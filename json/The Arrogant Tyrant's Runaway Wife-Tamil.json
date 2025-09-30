@@ -1,0 +1,412 @@
+{
+  "show": {
+    "id": 268831,
+    "slug": "the-arrogant-tyrants-runaway-wife",
+    "title": "The Arrogant Tyrant's Runaway Wife",
+    "image": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/dc5030f77dd94fb7ae2a24d03c2181c0.png",
+    "original_image": "https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/dc5030f77dd94fb7ae2a24d03c2181c0.png",
+    "image_sizes": {
+      "100": "https://images.cdn.kukufm.com/w:100/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/dc5030f77dd94fb7ae2a24d03c2181c0.png",
+      "200": "https://images.cdn.kukufm.com/w:200/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/dc5030f77dd94fb7ae2a24d03c2181c0.png",
+      "300": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/dc5030f77dd94fb7ae2a24d03c2181c0.png"
+    },
+    "language": "tamil",
+    "published_on": "2025-04-25T12:57:22.412031+00:00",
+    "status": "live",
+    "n_listens": 15198,
+    "is_verified": false,
+    "dynamic_link": "https://applinks.kukufm.com/AkjTDBHxcuiGf7DCA",
+    "uri": "app://kukufm/show/the-arrogant-tyrants-runaway-wife/",
+    "web_uri": "/show/the-arrogant-tyrants-runaway-wife",
+    "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/dc5030f77dd94fb7ae2a24d03c2181c0.png",
+    "cover_type": null,
+    "is_premium": true,
+    "overall_rating": 4,
+    "n_reviews": 1,
+    "is_fictional": true,
+    "duration_s": 9758,
+    "n_episodes": 2,
+    "n_comments": 0,
+    "is_transcript_available": null,
+    "n_impressions": 0,
+    "recommendation_score": 0,
+    "users_completion_p": 0,
+    "daily_unlock_count": 0,
+    "thumbnail_color": "#33284453",
+    "is_daily_unlock_enabled": false,
+    "n_seasons": 1,
+    "is_coin_based": false,
+    "monetization_type": "subscription",
+    "is_coin_premium": false,
+    "show_label_info": {},
+    "is_coming_soon": null,
+    "show_type": "reel",
+    "is_comments_exposure_enabled": false,
+    "is_adult_content": false,
+    "sharing_text": "हेलो! मैंने कुकू एफएम पर इस शो को सुना और मेरे ख्‍याल से आपको भी पसंद आएगा",
+    "sharing_text_v2": "हेलो! मैंने कुकू एफएम पर इस शो को सुना और मेरे ख्‍याल से आपको भी पसंद आएगा \nhttps://links.kukufm.com/FDDCMY",
+    "description": "Five years ago, she had a one-night stand and became pregnant, only to find out later that the man wasn't her fiancé as she thought. After being kicked out of her home, she became a single mother. When she returned to the city with her twins, she was shocked to discover that her boss, the cold billionaire, was the father of her children",
+    "description_secondary": "Five years ago, she had a one-night stand and became pregnant, only to find out later that the man wasn't her fiancé as she thought. After being kicked out of her home, she became a single mother. When she returned to the city with her twins, she was shocked to discover that her boss, the cold billionaire, was the father of her children",
+    "author": {
+      "id": 77525927,
+      "name": "Dhruv Agarwal",
+      "avatar_cdn": "https://images.cdn.kukufm.com/https://kukufm.s3.amazonaws.com/avatars/d2966c003d374c0fab453373c26ba678.jpeg",
+      "original_avatar": "https://kukufm.s3.amazonaws.com/avatars/d2966c003d374c0fab453373c26ba678.jpeg",
+      "avatar": {
+        "32": "https://images.cdn.kukufm.com/w:32/f:jpg/q:90/https://kukufm.s3.amazonaws.com/avatars/d2966c003d374c0fab453373c26ba678.jpeg",
+        "64": "https://images.cdn.kukufm.com/w:64/f:jpg/q:90/https://kukufm.s3.amazonaws.com/avatars/d2966c003d374c0fab453373c26ba678.jpeg",
+        "128": "https://images.cdn.kukufm.com/w:128/f:jpg/q:90/https://kukufm.s3.amazonaws.com/avatars/d2966c003d374c0fab453373c26ba678.jpeg",
+        "256": "https://images.cdn.kukufm.com/w:256/f:jpg/q:90/https://kukufm.s3.amazonaws.com/avatars/d2966c003d374c0fab453373c26ba678.jpeg"
+      },
+      "bio": "Listen to what you Love",
+      "incognito_mode": false
+    },
+    "lang": {
+      "id": 8,
+      "title": "தமிழ்",
+      "title_secondary": "Tamil",
+      "image": "https://images.cdn.kukufm.com/https://kukufm.s3.ap-south-1.amazonaws.com/icons/tamil_2.png",
+      "slug": "tamil",
+      "color": "#282E34",
+      "uri": "app://kukufm/home-lang/tamil",
+      "web_uri": "/home-lang/tamil",
+      "color_info": {
+        "bg_color": "#EBCEF5",
+        "text_color": "#671584"
+      },
+      "short_title": "த",
+      "svg_icon": "https://d1l07mcd18xic4.cloudfront.net/lang_icons/tamil.svg",
+      "icon_sizes": {
+        "16": "https://images.cdn.kukufm.com/w:16/q:85/https://kukufm.s3.ap-south-1.amazonaws.com/icons/tamil_2.png",
+        "64": "https://images.cdn.kukufm.com/w:64/q:85/https://kukufm.s3.ap-south-1.amazonaws.com/icons/tamil_2.png",
+        "256": "https://images.cdn.kukufm.com/w:256/q:85/https://kukufm.s3.ap-south-1.amazonaws.com/icons/tamil_2.png"
+      }
+    },
+    "content_type": {
+      "id": 4,
+      "title": "कहानी",
+      "slug": "story",
+      "uri": "app://kukufm/content-types/story",
+      "web_uri": "/content-types/story",
+      "color_info": {
+        "bg_color": "#25D32C",
+        "text_color": "#25D32C"
+      }
+    },
+    "other_images": {
+      "landscape_image": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/ac13b653598b45d1a7409fc158d704e6_landscape_677.png",
+      "landscape_image_sizes": {
+        "360": "https://images.cdn.kukufm.com/w:360/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/ac13b653598b45d1a7409fc158d704e6_landscape_677.png",
+        "480": "https://images.cdn.kukufm.com/w:480/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/ac13b653598b45d1a7409fc158d704e6_landscape_677.png",
+        "720": "https://images.cdn.kukufm.com/w:720/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/ac13b653598b45d1a7409fc158d704e6_landscape_677.png"
+      },
+      "title_image": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/ac13b653598b45d1a7409fc158d704e6_title_377.png",
+      "title_image_sizes": {
+        "360": "https://images.cdn.kukufm.com/w:360/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/ac13b653598b45d1a7409fc158d704e6_title_377.png",
+        "480": "https://images.cdn.kukufm.com/w:480/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/ac13b653598b45d1a7409fc158d704e6_title_377.png",
+        "720": "https://images.cdn.kukufm.com/w:720/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/ac13b653598b45d1a7409fc158d704e6_title_377.png"
+      },
+      "reel_image": "https://images.cdn.kukufm.com/h:400/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/ac13b653598b45d1a7409fc158d704e6_reel_701.png",
+      "reel_image_sizes": {
+        "360": "https://images.cdn.kukufm.com/w:360/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/ac13b653598b45d1a7409fc158d704e6_reel_701.png",
+        "480": "https://images.cdn.kukufm.com/w:480/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/ac13b653598b45d1a7409fc158d704e6_reel_701.png",
+        "720": "https://images.cdn.kukufm.com/w:720/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/ac13b653598b45d1a7409fc158d704e6_reel_701.png"
+      },
+      "vertical_thumbnail": "https://images.cdn.kukufm.com/h:400/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/ac13b653598b45d1a7409fc158d704e6_reel_701.png",
+      "vertical_thumbnail_image_sizes": {
+        "360": "https://images.cdn.kukufm.com/w:360/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/ac13b653598b45d1a7409fc158d704e6_reel_701.png",
+        "480": "https://images.cdn.kukufm.com/w:480/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/ac13b653598b45d1a7409fc158d704e6_reel_701.png",
+        "720": "https://images.cdn.kukufm.com/w:720/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/ac13b653598b45d1a7409fc158d704e6_reel_701.png"
+      }
+    },
+    "thumbnail_data": {
+      "title_image": "https://images.cdn.kukufm.com/h:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/ac13b653598b45d1a7409fc158d704e6_title_377.png",
+      "key_art": "https://images.cdn.kukufm.com/h:720/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/ac13b653598b45d1a7409fc158d704e6_key_art_484.png"
+    },
+    "labels": [
+      "13+",
+      "video-clip-episode/hls/e6cabc24-1d2d-43f9-83bf-a1920965584c.m3u8",
+      "1159250"
+    ],
+    "is_top_10": false,
+    "is_reel": true,
+    "ever_been_vip_show": false,
+    "resume_episode": {
+      "id": 1159250,
+      "title": "Part 1",
+      "slug": "the-arrogant-tyrants-runaway-wifepart-1",
+      "status": "live",
+      "image": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/dc5030f77dd94fb7ae2a24d03c2181c0.png",
+      "original_image": "https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/dc5030f77dd94fb7ae2a24d03c2181c0.png",
+      "duration_s": 4218,
+      "image_sizes": {
+        "100": "https://images.cdn.kukufm.com/w:100/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/dc5030f77dd94fb7ae2a24d03c2181c0.png",
+        "150": "https://images.cdn.kukufm.com/w:150/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/dc5030f77dd94fb7ae2a24d03c2181c0.png",
+        "200": "https://images.cdn.kukufm.com/w:200/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/dc5030f77dd94fb7ae2a24d03c2181c0.png",
+        "300": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/dc5030f77dd94fb7ae2a24d03c2181c0.png"
+      },
+      "n_likes": 0,
+      "n_shares": 0,
+      "n_plays": 9267,
+      "n_listens": 9267,
+      "n_comments": 2,
+      "cover_type": null,
+      "content": {
+        "url": null,
+        "hls_url": "https://d1l07mcd18xic4.cloudfront.net/video-episode/d1fd8b06-3c4e-480e-bad8-0c5e3fce9f6f/1159250.m3u8",
+        "premium_audio_url": "https://d1l07mcd18xic4.cloudfront.net/audio/ae1ccd22-2d4d-4a9f-86d7-c7c4a932d4d4.m3u8",
+        "duration": 4218,
+        "video_dash_url": "https://d1l07mcd18xic4.cloudfront.net/video-episode/d1fd8b06-3c4e-480e-bad8-0c5e3fce9f6f/1159250.mpd",
+        "dash_url": "https://d1l07mcd18xic4.cloudfront.net/video-episode/d1fd8b06-3c4e-480e-bad8-0c5e3fce9f6f/1159250.mpd",
+        "video_hls_url": "https://d1l07mcd18xic4.cloudfront.net/video-episode/d1fd8b06-3c4e-480e-bad8-0c5e3fce9f6f/1159250.m3u8"
+      },
+      "dynamic_link": null,
+      "is_premium": true,
+      "is_play_locked": false,
+      "is_locked": false,
+      "is_fictional": true,
+      "index": 1,
+      "show_id": 268831,
+      "season_no": 1,
+      "is_demo_premium": true,
+      "media_size": 2279971006,
+      "published_on": "2025-04-25T12:54:55.047508+00:00",
+      "hide_download_icon": true,
+      "other_images": {
+        "reel_image": "https://images.cdn.kukufm.com/h:400/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/ac13b653598b45d1a7409fc158d704e6_reel_701.png"
+      },
+      "seek_position": 0
+    },
+    "is_show_page_skip": true,
+    "is_self": false,
+    "ad_enabled": false,
+    "can_download_all": true,
+    "is_added": false,
+    "genre": {
+      "id": 3,
+      "title": "प्यार",
+      "slug": "love",
+      "uri": "app://app/genres/love",
+      "web_uri": "/genres/love"
+    },
+    "credits": {
+      "dubbing_studios": [
+        {
+          "id": 44163908,
+          "full_name": "KSM Productions",
+          "avatar": {
+            "16": "https://images.cdn.kukufm.com/w:16/q:85/https://kukufm.s3.amazonaws.com/avatars/fd6389ec6c22428db79e9e64ea53f4cd.png",
+            "64": "https://images.cdn.kukufm.com/w:64/q:85/https://kukufm.s3.amazonaws.com/avatars/fd6389ec6c22428db79e9e64ea53f4cd.png",
+            "256": "https://images.cdn.kukufm.com/w:256/q:85/https://kukufm.s3.amazonaws.com/avatars/fd6389ec6c22428db79e9e64ea53f4cd.png"
+          },
+          "n_followers": 2,
+          "contribution_type": "dubbing_studio",
+          "is_primary_creator": false,
+          "is_followed": false
+        },
+        {
+          "id": 122455863,
+          "full_name": "Voice Production",
+          "avatar": {
+            "16": "https://images.cdn.kukufm.com/w:16/q:85/https://kukufm.s3.amazonaws.com/avatars/5b6aa45ad128429387e7688581b61072.png",
+            "64": "https://images.cdn.kukufm.com/w:64/q:85/https://kukufm.s3.amazonaws.com/avatars/5b6aa45ad128429387e7688581b61072.png",
+            "256": "https://images.cdn.kukufm.com/w:256/q:85/https://kukufm.s3.amazonaws.com/avatars/5b6aa45ad128429387e7688581b61072.png"
+          },
+          "n_followers": 1,
+          "contribution_type": "dubbing_studio",
+          "is_primary_creator": false,
+          "is_followed": false
+        },
+        {
+          "id": 150454772,
+          "full_name": "AR Media",
+          "avatar": {
+            "16": "https://images.cdn.kukufm.com/w:16/q:85/https://kukufm.s3.amazonaws.com/avatars/d1bd38ec4c1d4f26a9bcf2e95e46ad7e.png",
+            "64": "https://images.cdn.kukufm.com/w:64/q:85/https://kukufm.s3.amazonaws.com/avatars/d1bd38ec4c1d4f26a9bcf2e95e46ad7e.png",
+            "256": "https://images.cdn.kukufm.com/w:256/q:85/https://kukufm.s3.amazonaws.com/avatars/d1bd38ec4c1d4f26a9bcf2e95e46ad7e.png"
+          },
+          "n_followers": 0,
+          "contribution_type": "dubbing_studio",
+          "is_primary_creator": false,
+          "is_followed": false
+        }
+      ],
+      "production_managers": [
+        {
+          "id": 29441407,
+          "full_name": "Santhosh P",
+          "avatar": {
+            "16": "https://images.cdn.kukufm.com/w:16/q:85/https://kukufm.s3.amazonaws.com/avatars/766ec03b54e44f2a9eb390c564d6dbaf.8bpG4gdFLfZI5CnAn068",
+            "64": "https://images.cdn.kukufm.com/w:64/q:85/https://kukufm.s3.amazonaws.com/avatars/766ec03b54e44f2a9eb390c564d6dbaf.8bpG4gdFLfZI5CnAn068",
+            "256": "https://images.cdn.kukufm.com/w:256/q:85/https://kukufm.s3.amazonaws.com/avatars/766ec03b54e44f2a9eb390c564d6dbaf.8bpG4gdFLfZI5CnAn068"
+          },
+          "n_followers": 2017,
+          "contribution_type": "production_manager",
+          "is_primary_creator": true,
+          "badge_type": "popular",
+          "is_followed": false
+        }
+      ],
+      "directors": [
+        {
+          "id": 122219533,
+          "full_name": "Dinesh Ravikumar",
+          "avatar": {
+            "16": "https://images.cdn.kukufm.com/w:16/q:85/https://kukufm.s3.amazonaws.com/avatars/7f83c4bd63d3414b95c19f033398dec9.png",
+            "64": "https://images.cdn.kukufm.com/w:64/q:85/https://kukufm.s3.amazonaws.com/avatars/7f83c4bd63d3414b95c19f033398dec9.png",
+            "256": "https://images.cdn.kukufm.com/w:256/q:85/https://kukufm.s3.amazonaws.com/avatars/7f83c4bd63d3414b95c19f033398dec9.png"
+          },
+          "n_followers": 58,
+          "contribution_type": "director",
+          "is_primary_creator": true,
+          "is_followed": false
+        },
+        {
+          "id": 126010964,
+          "full_name": "Dharani P.M.",
+          "avatar": {
+            "16": "https://images.cdn.kukufm.com/w:16/q:85/https://kukufm.s3.amazonaws.com/avatars/3b4e3f3549694f1f9ea1dca56929ec74.jpeg",
+            "64": "https://images.cdn.kukufm.com/w:64/q:85/https://kukufm.s3.amazonaws.com/avatars/3b4e3f3549694f1f9ea1dca56929ec74.jpeg",
+            "256": "https://images.cdn.kukufm.com/w:256/q:85/https://kukufm.s3.amazonaws.com/avatars/3b4e3f3549694f1f9ea1dca56929ec74.jpeg"
+          },
+          "n_followers": 122,
+          "contribution_type": "director",
+          "is_primary_creator": true,
+          "is_followed": false
+        }
+      ]
+    },
+    "media_size": 5272582188,
+    "is_play_locked": false,
+    "hide_download_all_icon": null,
+    "last_unlocked_episode_index": 2,
+    "growth_engine_audio_cue_info": {},
+    "social_proofing": {
+      "review": null
+    },
+    "physical_book_data": {},
+    "show_unlocked_nudge_text": "Unlocked with Premium"
+  },
+  "episodes": [
+    {
+      "id": 1159250,
+      "title": "Part 1",
+      "slug": "the-arrogant-tyrants-runaway-wifepart-1",
+      "status": "live",
+      "image": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/dc5030f77dd94fb7ae2a24d03c2181c0.png",
+      "original_image": "https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/dc5030f77dd94fb7ae2a24d03c2181c0.png",
+      "duration_s": 4218,
+      "image_sizes": {
+        "100": "https://images.cdn.kukufm.com/w:100/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/dc5030f77dd94fb7ae2a24d03c2181c0.png",
+        "150": "https://images.cdn.kukufm.com/w:150/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/dc5030f77dd94fb7ae2a24d03c2181c0.png",
+        "200": "https://images.cdn.kukufm.com/w:200/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/dc5030f77dd94fb7ae2a24d03c2181c0.png",
+        "300": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/dc5030f77dd94fb7ae2a24d03c2181c0.png"
+      },
+      "n_likes": 0,
+      "n_shares": 0,
+      "n_plays": null,
+      "n_listens": 9429,
+      "n_comments": 2,
+      "cover_type": null,
+      "content": {
+        "converted_hls_url": "https://kukufm.akamaized.net/video-episode/d1fd8b06-3c4e-480e-bad8-0c5e3fce9f6f/1159250.m3u8",
+        "video_720p": "https://kukufm.akamaized.net/video-episode/d1fd8b06-3c4e-480e-bad8-0c5e3fce9f6f/1159250720p.m3u8",
+        "video_480p": "https://kukufm.akamaized.net/video-episode/d1fd8b06-3c4e-480e-bad8-0c5e3fce9f6f/1159250480p.m3u8",
+        "video_360p": "https://kukufm.akamaized.net/video-episode/d1fd8b06-3c4e-480e-bad8-0c5e3fce9f6f/1159250360p.m3u8",
+        "video_240p": "https://kukufm.akamaized.net/video-episode/d1fd8b06-3c4e-480e-bad8-0c5e3fce9f6f/1159250240p.m3u8"
+      },
+      "dynamic_link": null,
+      "is_premium": true,
+      "is_play_locked": false,
+      "is_locked": false,
+      "is_fictional": true,
+      "index": 1,
+      "show_id": 268831,
+      "season_no": 1,
+      "is_demo_premium": true,
+      "media_size": 2279971006,
+      "published_on": "2025-04-25T12:54:55.047508+00:00",
+      "thumbnail_image": "https://images.cdn.kukufm.com/w:200/f:jpg/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/dc5030f77dd94fb7ae2a24d03c2181c0.png",
+      "web_uri": "/episode/the-arrogant-tyrants-runaway-wifepart-1",
+      "other_images": {
+        "reel_image": "https://images.cdn.kukufm.com/h:400/f:webp/q:85/https://images.cdn.kukufm.com/h:400/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/ac13b653598b45d1a7409fc158d704e6_reel_701.png"
+      },
+      "view_type": "default",
+      "has_srt": false,
+      "has_liked": false,
+      "seek_position": 0,
+      "can_download": true,
+      "is_downloaded": false,
+      "is_self": false,
+      "transcript": {}
+    },
+    {
+      "id": 1159283,
+      "title": "Part 2",
+      "slug": "the-arrogant-tyrants-runaway-wifepart-2",
+      "status": "live",
+      "image": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/dc5030f77dd94fb7ae2a24d03c2181c0.png",
+      "original_image": "https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/dc5030f77dd94fb7ae2a24d03c2181c0.png",
+      "duration_s": 5540,
+      "image_sizes": {
+        "100": "https://images.cdn.kukufm.com/w:100/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/dc5030f77dd94fb7ae2a24d03c2181c0.png",
+        "150": "https://images.cdn.kukufm.com/w:150/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/dc5030f77dd94fb7ae2a24d03c2181c0.png",
+        "200": "https://images.cdn.kukufm.com/w:200/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/dc5030f77dd94fb7ae2a24d03c2181c0.png",
+        "300": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/dc5030f77dd94fb7ae2a24d03c2181c0.png"
+      },
+      "n_likes": 0,
+      "n_shares": 0,
+      "n_plays": null,
+      "n_listens": 5763,
+      "n_comments": 1,
+      "cover_type": null,
+      "content": {
+        "converted_hls_url": "https://kukufm.akamaized.net/video-episode/9764bc32-1677-403a-8106-29186a5b8c4b/1159283.m3u8",
+        "video_720p": "https://kukufm.akamaized.net/video-episode/9764bc32-1677-403a-8106-29186a5b8c4b/1159283720p.m3u8",
+        "video_480p": "https://kukufm.akamaized.net/video-episode/9764bc32-1677-403a-8106-29186a5b8c4b/1159283480p.m3u8",
+        "video_360p": "https://kukufm.akamaized.net/video-episode/9764bc32-1677-403a-8106-29186a5b8c4b/1159283360p.m3u8",
+        "video_240p": "https://kukufm.akamaized.net/video-episode/9764bc32-1677-403a-8106-29186a5b8c4b/1159283240p.m3u8"
+      },
+      "dynamic_link": null,
+      "is_premium": true,
+      "is_play_locked": false,
+      "is_locked": false,
+      "is_fictional": true,
+      "index": 2,
+      "show_id": 268831,
+      "season_no": 1,
+      "is_demo_premium": true,
+      "video_thumbnail": "https://images.cdn.kukufm.com/f:webp/https://kukufm.s3.ap-south-1.amazonaws.com/video-thumbnails/show_268831_episode_1159283_dc725144992046e5b4406abda702ed00.jpg",
+      "media_size": 2992611182,
+      "published_on": "2025-04-25T12:54:55.047508+00:00",
+      "thumbnail_image": "https://images.cdn.kukufm.com/w:200/f:jpg/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/dc5030f77dd94fb7ae2a24d03c2181c0.png",
+      "web_uri": "/episode/the-arrogant-tyrants-runaway-wifepart-2",
+      "other_images": {
+        "reel_image": "https://images.cdn.kukufm.com/h:400/f:webp/q:85/https://images.cdn.kukufm.com/h:400/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/ac13b653598b45d1a7409fc158d704e6_reel_701.png"
+      },
+      "view_type": "default",
+      "has_srt": false,
+      "has_liked": false,
+      "seek_position": 0,
+      "can_download": true,
+      "is_downloaded": false,
+      "is_self": false,
+      "last_base_unlock": true,
+      "transcript": {}
+    }
+  ],
+  "has_more": false,
+  "n_episodes": 2,
+  "n_pages": 1,
+  "page": 1,
+  "support_sticker": "",
+  "is_skip_show_page": false,
+  "season_n_episodes": 2,
+  "last_unlocked_episode_index": 2,
+  "first_locked_episode_title": "",
+  "seo_description": "",
+  "ads_info": {
+    "interstitial_unit_id": "/23081990290,23155115523/com.vlv.aravali.lovenasha.Interstitial2.1750061859",
+    "reward_unit_id": "/23081990290,23155115523/com.vlv.aravali.lovenasha.Rewarded2.1750061900"
+  }
+}

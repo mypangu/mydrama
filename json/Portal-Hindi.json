@@ -1,0 +1,129 @@
+{
+  "show": {
+    "id": 53686,
+    "slug": "portal",
+    "title": "Portal",
+    "image": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/c05210da44f8447694d13d7f04fe1b17.jpeg",
+    "original_image": "https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/c05210da44f8447694d13d7f04fe1b17.jpeg",
+    "image_sizes": {
+      "100": "https://images.cdn.kukufm.com/w:100/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/c05210da44f8447694d13d7f04fe1b17.jpeg",
+      "200": "https://images.cdn.kukufm.com/w:200/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/c05210da44f8447694d13d7f04fe1b17.jpeg",
+      "300": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/c05210da44f8447694d13d7f04fe1b17.jpeg"
+    },
+    "language": "hindi",
+    "published_on": "2020-12-07T13:12:55.900667+00:00",
+    "status": "draft",
+    "n_listens": 0,
+    "is_verified": false,
+    "dynamic_link": "https://applinks.kukufm.com/WLhBh8hYsvcTAN2B8",
+    "uri": "app://kukufm/show/portal/",
+    "web_uri": "/show/portal",
+    "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/c05210da44f8447694d13d7f04fe1b17.jpeg",
+    "cover_type": "auto",
+    "is_premium": null,
+    "overall_rating": null,
+    "n_reviews": 0,
+    "is_fictional": null,
+    "duration_s": 25,
+    "n_episodes": 0,
+    "n_comments": 0,
+    "is_transcript_available": null,
+    "n_impressions": 0,
+    "recommendation_score": 0,
+    "users_completion_p": 0,
+    "daily_unlock_count": 0,
+    "thumbnail_color": "#3365645e",
+    "is_daily_unlock_enabled": false,
+    "n_seasons": 1,
+    "is_coin_based": false,
+    "monetization_type": "subscription",
+    "is_coin_premium": false,
+    "show_label_info": {},
+    "is_coming_soon": null,
+    "show_type": "cu_show",
+    "is_comments_exposure_enabled": false,
+    "is_adult_content": false,
+    "sharing_text": "हेलो! मैंने कुकू एफएम पर इस शो को सुना और मेरे ख्‍याल से आपको भी पसंद आएगा",
+    "sharing_text_v2": "हेलो! मैंने कुकू एफएम पर इस शो को सुना और मेरे ख्‍याल से आपको भी पसंद आएगा \nhttps://applinks.kukufm.com/WLhBh8hYsvcTAN2B8",
+    "description": null,
+    "description_secondary": null,
+    "author": {
+      "id": 1709819,
+      "name": "Abhi",
+      "avatar_cdn": "https://images.cdn.kukufm.com/https://kukufm.s3.amazonaws.com/avatars/3c6d22a8160e45bfbd827440d03cbe57.jpeg",
+      "original_avatar": "https://kukufm.s3.amazonaws.com/avatars/3c6d22a8160e45bfbd827440d03cbe57.jpeg",
+      "avatar": {
+        "32": "https://images.cdn.kukufm.com/w:32/f:jpg/q:90/https://kukufm.s3.amazonaws.com/avatars/3c6d22a8160e45bfbd827440d03cbe57.jpeg",
+        "64": "https://images.cdn.kukufm.com/w:64/f:jpg/q:90/https://kukufm.s3.amazonaws.com/avatars/3c6d22a8160e45bfbd827440d03cbe57.jpeg",
+        "128": "https://images.cdn.kukufm.com/w:128/f:jpg/q:90/https://kukufm.s3.amazonaws.com/avatars/3c6d22a8160e45bfbd827440d03cbe57.jpeg",
+        "256": "https://images.cdn.kukufm.com/w:256/f:jpg/q:90/https://kukufm.s3.amazonaws.com/avatars/3c6d22a8160e45bfbd827440d03cbe57.jpeg"
+      },
+      "bio": "Everything is awesome",
+      "incognito_mode": false,
+      "badge_type": "popular"
+    },
+    "lang": {
+      "id": 1,
+      "title": "हिंदी",
+      "title_secondary": "Hindi",
+      "image": "https://images.cdn.kukufm.com/https://kukufm.s3.ap-south-1.amazonaws.com/icons/hindi_1.png",
+      "slug": "hindi",
+      "color": "#FD6233",
+      "uri": "app://kukufm/home-lang/hindi",
+      "web_uri": "/home-lang/hindi",
+      "color_info": {
+        "bg_color": "#F8EBD0",
+        "text_color": "#A16400"
+      },
+      "short_title": "ह",
+      "svg_icon": "https://d1l07mcd18xic4.cloudfront.net/lang_icons/hindi.svg",
+      "icon_sizes": {
+        "16": "https://images.cdn.kukufm.com/w:16/q:85/https://kukufm.s3.ap-south-1.amazonaws.com/icons/hindi_1.png",
+        "64": "https://images.cdn.kukufm.com/w:64/q:85/https://kukufm.s3.ap-south-1.amazonaws.com/icons/hindi_1.png",
+        "256": "https://images.cdn.kukufm.com/w:256/q:85/https://kukufm.s3.ap-south-1.amazonaws.com/icons/hindi_1.png"
+      }
+    },
+    "content_type": {},
+    "other_images": {
+      "vertical_thumbnail": null,
+      "vertical_thumbnail_image_sizes": {
+        "360": "https://images.cdn.kukufm.com/w:360/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/c05210da44f8447694d13d7f04fe1b17.jpeg",
+        "480": "https://images.cdn.kukufm.com/w:480/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/c05210da44f8447694d13d7f04fe1b17.jpeg",
+        "720": "https://images.cdn.kukufm.com/w:720/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/c05210da44f8447694d13d7f04fe1b17.jpeg"
+      }
+    },
+    "thumbnail_data": {},
+    "labels": [],
+    "is_top_10": false,
+    "is_reel": false,
+    "ever_been_vip_show": false,
+    "is_self": false,
+    "ad_enabled": false,
+    "can_download_all": true,
+    "is_added": false,
+    "genre": null,
+    "is_play_locked": false,
+    "hide_download_all_icon": null,
+    "growth_engine_audio_cue_info": {},
+    "social_proofing": {
+      "review": null
+    },
+    "physical_book_data": {},
+    "show_unlocked_nudge_text": "Unlocked with Premium"
+  },
+  "episodes": [],
+  "has_more": false,
+  "n_episodes": 0,
+  "n_pages": 1,
+  "page": 1,
+  "support_sticker": "",
+  "is_skip_show_page": false,
+  "season_n_episodes": 0,
+  "last_unlocked_episode_index": null,
+  "first_locked_episode_title": "",
+  "seo_description": null,
+  "ads_info": {
+    "interstitial_unit_id": "/23081990290,23155115523/com.vlv.aravali.lovenasha.Interstitial2.1750061859",
+    "reward_unit_id": "/23081990290,23155115523/com.vlv.aravali.lovenasha.Rewarded2.1750061900"
+  }
+}

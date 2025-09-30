@@ -1,0 +1,396 @@
+{
+  "show": {
+    "id": 203569,
+    "slug": "விடாது-பெய்யும்-மழை-",
+    "title": "விடாது பெய்யும் மழை ",
+    "image": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/a61bbf9993e04991895077d561db89d6.png",
+    "original_image": "https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/a61bbf9993e04991895077d561db89d6.png",
+    "image_sizes": {
+      "100": "https://images.cdn.kukufm.com/w:100/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/a61bbf9993e04991895077d561db89d6.png",
+      "200": "https://images.cdn.kukufm.com/w:200/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/a61bbf9993e04991895077d561db89d6.png",
+      "300": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/a61bbf9993e04991895077d561db89d6.png"
+    },
+    "language": "tamil",
+    "published_on": "2023-08-04T11:32:33.289205+00:00",
+    "status": "live",
+    "n_listens": 22407,
+    "is_verified": false,
+    "dynamic_link": "https://applinks.kukufm.com/ANLjodYz9sbfqSHK6",
+    "uri": "app://kukufm/show/விடாது-பெய்யும்-மழை-/",
+    "web_uri": "/show/விடாது-பெய்யும்-மழை-",
+    "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/a61bbf9993e04991895077d561db89d6.png",
+    "cover_type": null,
+    "is_premium": true,
+    "overall_rating": 4.981,
+    "n_reviews": 86,
+    "is_fictional": true,
+    "duration_s": 1342,
+    "n_episodes": 2,
+    "n_comments": 0,
+    "is_transcript_available": true,
+    "n_impressions": 0,
+    "recommendation_score": 0,
+    "users_completion_p": 0,
+    "daily_unlock_count": 0,
+    "thumbnail_color": "#33313727",
+    "is_daily_unlock_enabled": false,
+    "n_seasons": 1,
+    "is_coin_based": false,
+    "monetization_type": "subscription",
+    "is_coin_premium": false,
+    "show_label_info": {},
+    "is_coming_soon": null,
+    "show_type": "cu_show",
+    "is_comments_exposure_enabled": false,
+    "is_adult_content": false,
+    "sharing_text": "हेलो! मैंने कुकू एफएम पर इस शो को सुना और मेरे ख्‍याल से आपको भी पसंद आएगा",
+    "sharing_text_v2": "हेलो! मैंने Kuku FM (Android)  पर यह शो सुना और मुझे यकीन है कि आपको भी यह जरूर पसंद आएगा। \nhttps://links.kukufm.com/e6M6V8",
+    "completion_status": 1,
+    "description": "வேடுவர் குலத்தை சேர்ந்த ஏகலைவன், தன் மானசீக குருவிற்கு, குரு தட்சணையாக தன் கட்டை விரலைக் கொடுக்கிறான். அவனால் வில் - அம்பு எய்த முடியாமல் போகிறது. அதை நினைத்து வருந்தும் போது, அரசர்களுக்குள் நடக்கும் போரை நினைத்து, தன் குரு தனக்கு நல்ல காரியம் செய்தார் என்று, மானசீகமாக வணங்கி வழிபடுகிறான். ஏன்? எதற்காக தன் கட்டை விரலை தட்சணையாக கொடுத்தான்? போர் சமயத்தில் ஏன், குருவை நல்லது செய்தார் என்று வணங்கி வழிபட்டான்?  கேளுங்கள்...",
+    "description_secondary": "வேடுவர் குலத்தை சேர்ந்த ஏகலைவன், தன் மானசீக குருவிற்கு, குரு தட்சணையாக தன் கட்டை விரலைக் கொடுக்கிறான். அவனால் வில் - அம்பு எய்த முடியாமல் போகிறது. அதை நினைத்து வருந்தும் போது, அரசர்களுக்குள் நடக்கும் போரை நினைத்து, தன் குரு தனக்கு நல்ல காரியம் செய்தார் என்று, மானசீகமாக வணங்கி வழிபடுகிறான். ஏன்? எதற்காக தன் கட்டை விரலை தட்சணையாக கொடுத்தான்? போர் சமயத்தில் ஏன், குருவை நல்லது செய்தார் என்று வணங்கி வழிபட்டான்?  கேளுங்கள்...",
+    "author": {
+      "id": 26820038,
+      "name": "Dinesh",
+      "avatar_cdn": "https://images.cdn.kukufm.com/https://kukufm.s3.amazonaws.com/avatars/05de9602f116439e8ac21168673a2740.jpeg",
+      "original_avatar": "https://kukufm.s3.amazonaws.com/avatars/05de9602f116439e8ac21168673a2740.jpeg",
+      "avatar": {
+        "32": "https://images.cdn.kukufm.com/w:32/f:jpg/q:90/https://kukufm.s3.amazonaws.com/avatars/05de9602f116439e8ac21168673a2740.jpeg",
+        "64": "https://images.cdn.kukufm.com/w:64/f:jpg/q:90/https://kukufm.s3.amazonaws.com/avatars/05de9602f116439e8ac21168673a2740.jpeg",
+        "128": "https://images.cdn.kukufm.com/w:128/f:jpg/q:90/https://kukufm.s3.amazonaws.com/avatars/05de9602f116439e8ac21168673a2740.jpeg",
+        "256": "https://images.cdn.kukufm.com/w:256/f:jpg/q:90/https://kukufm.s3.amazonaws.com/avatars/05de9602f116439e8ac21168673a2740.jpeg"
+      },
+      "bio": "Listen to what you Love",
+      "incognito_mode": false
+    },
+    "lang": {
+      "id": 8,
+      "title": "தமிழ்",
+      "title_secondary": "Tamil",
+      "image": "https://images.cdn.kukufm.com/https://kukufm.s3.ap-south-1.amazonaws.com/icons/tamil_2.png",
+      "slug": "tamil",
+      "color": "#282E34",
+      "uri": "app://kukufm/home-lang/tamil",
+      "web_uri": "/home-lang/tamil",
+      "color_info": {
+        "bg_color": "#EBCEF5",
+        "text_color": "#671584"
+      },
+      "short_title": "த",
+      "svg_icon": "https://d1l07mcd18xic4.cloudfront.net/lang_icons/tamil.svg",
+      "icon_sizes": {
+        "16": "https://images.cdn.kukufm.com/w:16/q:85/https://kukufm.s3.ap-south-1.amazonaws.com/icons/tamil_2.png",
+        "64": "https://images.cdn.kukufm.com/w:64/q:85/https://kukufm.s3.ap-south-1.amazonaws.com/icons/tamil_2.png",
+        "256": "https://images.cdn.kukufm.com/w:256/q:85/https://kukufm.s3.ap-south-1.amazonaws.com/icons/tamil_2.png"
+      }
+    },
+    "content_type": {
+      "id": 4,
+      "title": "कहानी",
+      "slug": "story",
+      "uri": "app://kukufm/content-types/story",
+      "web_uri": "/content-types/story",
+      "color_info": {
+        "bg_color": "#25D32C",
+        "text_color": "#25D32C"
+      }
+    },
+    "other_images": {
+      "landscape_image": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/31d1160f8c494ca1a41f23441e418ff6_landscape_785.jpg",
+      "landscape_image_sizes": {
+        "360": "https://images.cdn.kukufm.com/w:360/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/31d1160f8c494ca1a41f23441e418ff6_landscape_785.jpg",
+        "480": "https://images.cdn.kukufm.com/w:480/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/31d1160f8c494ca1a41f23441e418ff6_landscape_785.jpg",
+        "720": "https://images.cdn.kukufm.com/w:720/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/31d1160f8c494ca1a41f23441e418ff6_landscape_785.jpg"
+      },
+      "vertical_thumbnail": null,
+      "vertical_thumbnail_image_sizes": {
+        "360": "https://images.cdn.kukufm.com/w:360/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/a61bbf9993e04991895077d561db89d6.png",
+        "480": "https://images.cdn.kukufm.com/w:480/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/a61bbf9993e04991895077d561db89d6.png",
+        "720": "https://images.cdn.kukufm.com/w:720/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/a61bbf9993e04991895077d561db89d6.png"
+      }
+    },
+    "thumbnail_data": {},
+    "labels": [
+      "All Episodes",
+      "7+"
+    ],
+    "is_top_10": false,
+    "is_reel": false,
+    "ever_been_vip_show": false,
+    "resume_episode": {
+      "id": 668514,
+      "title": "1. விடாது பெய்யும் மழை ",
+      "slug": "01-vidathu-peiyum-mazhai-1",
+      "status": "live",
+      "image": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/a61bbf9993e04991895077d561db89d6.png",
+      "original_image": "https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/a61bbf9993e04991895077d561db89d6.png",
+      "duration_s": 612,
+      "image_sizes": {
+        "100": "https://images.cdn.kukufm.com/w:100/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/a61bbf9993e04991895077d561db89d6.png",
+        "150": "https://images.cdn.kukufm.com/w:150/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/a61bbf9993e04991895077d561db89d6.png",
+        "200": "https://images.cdn.kukufm.com/w:200/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/a61bbf9993e04991895077d561db89d6.png",
+        "300": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/a61bbf9993e04991895077d561db89d6.png"
+      },
+      "n_likes": 0,
+      "n_shares": 0,
+      "n_plays": 16306,
+      "n_listens": 16306,
+      "n_comments": 9,
+      "cover_type": null,
+      "content": {
+        "url": "https://d1l07mcd18xic4.cloudfront.net/audio/e78aa843-da4a-4721-97f9-3c66e1b1ddf6full.mp4",
+        "hls_url": "https://d1l07mcd18xic4.cloudfront.net/audio/e78aa843-da4a-4721-97f9-3c66e1b1ddf6.m3u8",
+        "subtitle_url": "https://d1l07mcd18xic4.cloudfront.net/audio-transcripts/e78aa843-da4a-4721-97f9-3c66e1b1ddf6.srt"
+      },
+      "dynamic_link": "https://applinks.kukufm.com/6fDGXjhZZXMjv7RG6",
+      "is_premium": true,
+      "is_play_locked": false,
+      "is_locked": false,
+      "is_fictional": true,
+      "index": 1,
+      "show_id": 203569,
+      "season_no": 1,
+      "is_demo_premium": true,
+      "media_size": 13631267,
+      "published_on": "2023-08-04T07:04:11.337960+00:00",
+      "thumbnail_image": "https://images.cdn.kukufm.com/w:200/f:jpg/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/a61bbf9993e04991895077d561db89d6.png"
+    },
+    "is_self": false,
+    "ad_enabled": false,
+    "can_download_all": true,
+    "is_added": false,
+    "genre": {
+      "id": 65,
+      "title": "सनसनीखेज़",
+      "slug": "thriller",
+      "uri": "app://app/genres/thriller",
+      "web_uri": "/genres/thriller"
+    },
+    "credits": {
+      "producers": [
+        {
+          "id": 43712460,
+          "full_name": "Pustaka Digital Media Pvt. Ltd",
+          "avatar": {
+            "16": "https://images.cdn.kukufm.com/w:16/q:85/https://kukufm.s3.amazonaws.com/avatars/fe78b99d8ce34464a297cafca9bae502.jpeg",
+            "64": "https://images.cdn.kukufm.com/w:64/q:85/https://kukufm.s3.amazonaws.com/avatars/fe78b99d8ce34464a297cafca9bae502.jpeg",
+            "256": "https://images.cdn.kukufm.com/w:256/q:85/https://kukufm.s3.amazonaws.com/avatars/fe78b99d8ce34464a297cafca9bae502.jpeg"
+          },
+          "n_followers": 315,
+          "contribution_type": "producer",
+          "is_primary_creator": true,
+          "badge_type": "popular",
+          "is_followed": false
+        }
+      ],
+      "agents": [
+        {
+          "id": 43712460,
+          "full_name": "Pustaka Digital Media Pvt. Ltd",
+          "avatar": {
+            "16": "https://images.cdn.kukufm.com/w:16/q:85/https://kukufm.s3.amazonaws.com/avatars/fe78b99d8ce34464a297cafca9bae502.jpeg",
+            "64": "https://images.cdn.kukufm.com/w:64/q:85/https://kukufm.s3.amazonaws.com/avatars/fe78b99d8ce34464a297cafca9bae502.jpeg",
+            "256": "https://images.cdn.kukufm.com/w:256/q:85/https://kukufm.s3.amazonaws.com/avatars/fe78b99d8ce34464a297cafca9bae502.jpeg"
+          },
+          "n_followers": 315,
+          "contribution_type": "agent",
+          "is_primary_creator": false,
+          "badge_type": "popular",
+          "is_followed": false
+        }
+      ],
+      "quality_assurances": [
+        {
+          "id": 23355925,
+          "full_name": "Gautami",
+          "avatar": {
+            "16": "https://images.cdn.kukufm.com/w:16/q:85/https://kukufm.s3.amazonaws.com/avatars/a267d86e7ba04883887435564b0cb84b.jpeg",
+            "64": "https://images.cdn.kukufm.com/w:64/q:85/https://kukufm.s3.amazonaws.com/avatars/a267d86e7ba04883887435564b0cb84b.jpeg",
+            "256": "https://images.cdn.kukufm.com/w:256/q:85/https://kukufm.s3.amazonaws.com/avatars/a267d86e7ba04883887435564b0cb84b.jpeg"
+          },
+          "n_followers": 1717,
+          "contribution_type": "quality_assurance",
+          "is_primary_creator": false,
+          "is_followed": false
+        }
+      ],
+      "editors": [
+        {
+          "id": 13090827,
+          "full_name": "Dinesh",
+          "avatar": {
+            "16": "https://images.cdn.kukufm.com/w:16/q:85/https://kukufm.s3.amazonaws.com/avatars/bfb335a3fef34c39aa1ec03c624eb3d9.jpg",
+            "64": "https://images.cdn.kukufm.com/w:64/q:85/https://kukufm.s3.amazonaws.com/avatars/bfb335a3fef34c39aa1ec03c624eb3d9.jpg",
+            "256": "https://images.cdn.kukufm.com/w:256/q:85/https://kukufm.s3.amazonaws.com/avatars/bfb335a3fef34c39aa1ec03c624eb3d9.jpg"
+          },
+          "n_followers": 400,
+          "contribution_type": "editor",
+          "is_primary_creator": true,
+          "is_followed": false
+        }
+      ],
+      "directors": [
+        {
+          "id": 9462824,
+          "full_name": "Vetrivel C",
+          "avatar": {
+            "16": "https://images.cdn.kukufm.com/w:16/q:85/https://kukufm.s3.amazonaws.com/avatars/345a0c67c0974e98a4112779151b1b9a.jpeg",
+            "64": "https://images.cdn.kukufm.com/w:64/q:85/https://kukufm.s3.amazonaws.com/avatars/345a0c67c0974e98a4112779151b1b9a.jpeg",
+            "256": "https://images.cdn.kukufm.com/w:256/q:85/https://kukufm.s3.amazonaws.com/avatars/345a0c67c0974e98a4112779151b1b9a.jpeg"
+          },
+          "n_followers": 3586,
+          "contribution_type": "director",
+          "is_primary_creator": true,
+          "badge_type": "popular",
+          "is_followed": false
+        }
+      ],
+      "writers": [
+        {
+          "id": 62956125,
+          "full_name": "Balakumaran",
+          "avatar": {
+            "16": "https://images.cdn.kukufm.com/w:16/q:85/https://kukufm.s3.amazonaws.com/avatars/d4e84170c15542eb950da2e110c59039.png",
+            "64": "https://images.cdn.kukufm.com/w:64/q:85/https://kukufm.s3.amazonaws.com/avatars/d4e84170c15542eb950da2e110c59039.png",
+            "256": "https://images.cdn.kukufm.com/w:256/q:85/https://kukufm.s3.amazonaws.com/avatars/d4e84170c15542eb950da2e110c59039.png"
+          },
+          "n_followers": 58,
+          "contribution_type": "writer",
+          "is_primary_creator": true,
+          "badge_type": "popular",
+          "is_followed": false
+        }
+      ]
+    },
+    "media_size": 29694212,
+    "is_play_locked": false,
+    "hide_download_all_icon": null,
+    "last_unlocked_episode_index": 1,
+    "first_locked_episode_title": "2. விடாது பெய்யும் மழை ",
+    "growth_engine_audio_cue_info": {},
+    "social_proofing": {
+      "review": null
+    },
+    "physical_book_data": {},
+    "show_unlocked_nudge_text": "Unlocked with Premium"
+  },
+  "episodes": [
+    {
+      "id": 668514,
+      "title": "1. விடாது பெய்யும் மழை ",
+      "slug": "01-vidathu-peiyum-mazhai-1",
+      "status": "live",
+      "image": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/a61bbf9993e04991895077d561db89d6.png",
+      "original_image": "https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/a61bbf9993e04991895077d561db89d6.png",
+      "duration_s": 612,
+      "image_sizes": {
+        "100": "https://images.cdn.kukufm.com/w:100/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/a61bbf9993e04991895077d561db89d6.png",
+        "150": "https://images.cdn.kukufm.com/w:150/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/a61bbf9993e04991895077d561db89d6.png",
+        "200": "https://images.cdn.kukufm.com/w:200/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/a61bbf9993e04991895077d561db89d6.png",
+        "300": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/a61bbf9993e04991895077d561db89d6.png"
+      },
+      "n_likes": 0,
+      "n_shares": 0,
+      "n_plays": null,
+      "n_listens": 16306,
+      "n_comments": 9,
+      "cover_type": null,
+      "content": {
+        "converted_hls_url": "https://kukufm.akamaized.net/audio/e78aa843-da4a-4721-97f9-3c66e1b1ddf6.m3u8",
+        "audio_128kb": "https://kukufm.akamaized.net/audio/e78aa843-da4a-4721-97f9-3c66e1b1ddf6128kb.m3u8",
+        "audio_64kb": "https://kukufm.akamaized.net/audio/e78aa843-da4a-4721-97f9-3c66e1b1ddf664kb.m3u8",
+        "audio_24kb": "https://kukufm.akamaized.net/audio/e78aa843-da4a-4721-97f9-3c66e1b1ddf624kb.m3u8"
+      },
+      "dynamic_link": "https://applinks.kukufm.com/6fDGXjhZZXMjv7RG6",
+      "is_premium": true,
+      "is_play_locked": false,
+      "is_locked": false,
+      "is_fictional": true,
+      "index": 1,
+      "show_id": 203569,
+      "season_no": 1,
+      "is_demo_premium": true,
+      "media_size": 13631267,
+      "published_on": "2023-08-04T07:04:11.337960+00:00",
+      "thumbnail_image": "https://images.cdn.kukufm.com/w:200/f:jpg/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/a61bbf9993e04991895077d561db89d6.png",
+      "web_uri": "/episode/01-vidathu-peiyum-mazhai-1",
+      "view_type": "default",
+      "unlocking_nudge_text": "",
+      "unlocking_nudge_text_v2": "",
+      "has_srt": false,
+      "has_liked": false,
+      "seek_position": 0,
+      "can_download": true,
+      "is_downloaded": false,
+      "is_self": false,
+      "last_base_unlock": true,
+      "unlock_type": "subscription",
+      "transcript": {}
+    },
+    {
+      "id": 668515,
+      "title": "2. விடாது பெய்யும் மழை ",
+      "slug": "02-vidathu-peiyum-mazhai",
+      "status": "live",
+      "image": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/a61bbf9993e04991895077d561db89d6.png",
+      "original_image": "https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/a61bbf9993e04991895077d561db89d6.png",
+      "duration_s": 730,
+      "image_sizes": {
+        "100": "https://images.cdn.kukufm.com/w:100/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/a61bbf9993e04991895077d561db89d6.png",
+        "150": "https://images.cdn.kukufm.com/w:150/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/a61bbf9993e04991895077d561db89d6.png",
+        "200": "https://images.cdn.kukufm.com/w:200/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/a61bbf9993e04991895077d561db89d6.png",
+        "300": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/a61bbf9993e04991895077d561db89d6.png"
+      },
+      "n_likes": 0,
+      "n_shares": 0,
+      "n_plays": null,
+      "n_listens": 6101,
+      "n_comments": 8,
+      "cover_type": null,
+      "content": {
+        "converted_hls_url": "https://kukufm.akamaized.net/audio/bdfe711c-d6b6-4852-810b-decb1693490f.m3u8",
+        "audio_128kb": "https://kukufm.akamaized.net/audio/bdfe711c-d6b6-4852-810b-decb1693490f128kb.m3u8",
+        "audio_64kb": "https://kukufm.akamaized.net/audio/bdfe711c-d6b6-4852-810b-decb1693490f64kb.m3u8",
+        "audio_24kb": "https://kukufm.akamaized.net/audio/bdfe711c-d6b6-4852-810b-decb1693490f24kb.m3u8"
+      },
+      "dynamic_link": "https://applinks.kukufm.com/gFFeFnRkDennMHGB6",
+      "is_premium": true,
+      "is_play_locked": false,
+      "is_locked": true,
+      "is_fictional": true,
+      "index": 2,
+      "show_id": 203569,
+      "season_no": 1,
+      "is_demo_premium": false,
+      "is_free_unlocked": true,
+      "media_size": 16062945,
+      "published_on": "2023-08-04T07:04:11.337960+00:00",
+      "thumbnail_image": "https://images.cdn.kukufm.com/w:200/f:jpg/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/a61bbf9993e04991895077d561db89d6.png",
+      "web_uri": "/episode/02-vidathu-peiyum-mazhai",
+      "view_type": "default",
+      "unlocking_nudge_text": "",
+      "unlocking_nudge_text_v2": "",
+      "has_srt": false,
+      "has_liked": false,
+      "seek_position": 0,
+      "can_download": true,
+      "is_downloaded": false,
+      "is_self": false,
+      "unlock_type": "subscription",
+      "transcript": {}
+    }
+  ],
+  "has_more": false,
+  "n_episodes": 2,
+  "n_pages": 1,
+  "page": 1,
+  "support_sticker": "",
+  "is_skip_show_page": false,
+  "season_n_episodes": 2,
+  "last_unlocked_episode_index": 1,
+  "first_locked_episode_title": "2. விடாது பெய்யும் மழை ",
+  "seo_description": "",
+  "ads_info": {
+    "interstitial_unit_id": "ca-app-pub-4561182393559685/8104245285",
+    "reward_unit_id": "ca-app-pub-4561182393559685/3766806802"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "show": {
+    "id": 232845,
+    "slug": "one-night-stand",
+    "title": "One night stand",
+    "image": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/7f7e0c7208f24fca81cb7e7709e96313.jpeg",
+    "original_image": "https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/7f7e0c7208f24fca81cb7e7709e96313.jpeg",
+    "image_sizes": {
+      "100": "https://images.cdn.kukufm.com/w:100/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/7f7e0c7208f24fca81cb7e7709e96313.jpeg",
+      "200": "https://images.cdn.kukufm.com/w:200/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/7f7e0c7208f24fca81cb7e7709e96313.jpeg",
+      "300": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/7f7e0c7208f24fca81cb7e7709e96313.jpeg"
+    },
+    "language": "hindi",
+    "published_on": "",
+    "status": "live",
+    "n_listens": 0,
+    "is_verified": false,
+    "dynamic_link": null,
+    "uri": "app://kukufm/show/one-night-stand/",
+    "web_uri": "/show/one-night-stand",
+    "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/7f7e0c7208f24fca81cb7e7709e96313.jpeg",
+    "cover_type": "auto",
+    "is_premium": false,
+    "overall_rating": null,
+    "n_reviews": 0,
+    "is_fictional": null,
+    "duration_s": null,
+    "n_episodes": 0,
+    "n_comments": 0,
+    "is_transcript_available": null,
+    "n_impressions": 0,
+    "recommendation_score": 0,
+    "users_completion_p": 0,
+    "daily_unlock_count": 0,
+    "thumbnail_color": null,
+    "is_daily_unlock_enabled": false,
+    "n_seasons": 1,
+    "is_coin_based": false,
+    "monetization_type": "subscription",
+    "is_coin_premium": false,
+    "show_label_info": {},
+    "is_coming_soon": null,
+    "show_type": "cu_show",
+    "is_comments_exposure_enabled": false,
+    "is_adult_content": false,
+    "sharing_text": "हेलो! मैंने कुकू एफएम पर इस शो को सुना और मेरे ख्‍याल से आपको भी पसंद आएगा",
+    "sharing_text_v2": "हेलो! मैंने कुकू एफएम पर इस शो को सुना और मेरे ख्‍याल से आपको भी पसंद आएगा \nhttps://kukufm.com/show/one-night-stand/?utm_source=share_sh",
+    "description": "A story of one night stand",
+    "description_secondary": "A story of one night stand",
+    "author": {
+      "id": 70383711,
+      "name": "Shambhavi",
+      "avatar_cdn": "https://images.cdn.kukufm.com/https://kukufm.s3.amazonaws.com/avatars/4c27d2c0bdb843aa85be43f6437aa89e.3",
+      "original_avatar": "https://kukufm.s3.amazonaws.com/avatars/4c27d2c0bdb843aa85be43f6437aa89e.3",
+      "avatar": {
+        "32": "https://images.cdn.kukufm.com/w:32/f:jpg/q:90/https://kukufm.s3.amazonaws.com/avatars/4c27d2c0bdb843aa85be43f6437aa89e.3",
+        "64": "https://images.cdn.kukufm.com/w:64/f:jpg/q:90/https://kukufm.s3.amazonaws.com/avatars/4c27d2c0bdb843aa85be43f6437aa89e.3",
+        "128": "https://images.cdn.kukufm.com/w:128/f:jpg/q:90/https://kukufm.s3.amazonaws.com/avatars/4c27d2c0bdb843aa85be43f6437aa89e.3",
+        "256": "https://images.cdn.kukufm.com/w:256/f:jpg/q:90/https://kukufm.s3.amazonaws.com/avatars/4c27d2c0bdb843aa85be43f6437aa89e.3"
+      },
+      "bio": "Play What You Love",
+      "incognito_mode": false
+    },
+    "lang": {
+      "id": 1,
+      "title": "हिंदी",
+      "title_secondary": "Hindi",
+      "image": "https://images.cdn.kukufm.com/https://kukufm.s3.ap-south-1.amazonaws.com/icons/hindi_1.png",
+      "slug": "hindi",
+      "color": "#FD6233",
+      "uri": "app://kukufm/home-lang/hindi",
+      "web_uri": "/home-lang/hindi",
+      "color_info": {
+        "bg_color": "#F8EBD0",
+        "text_color": "#A16400"
+      },
+      "short_title": "ह",
+      "svg_icon": "https://d1l07mcd18xic4.cloudfront.net/lang_icons/hindi.svg",
+      "icon_sizes": {
+        "16": "https://images.cdn.kukufm.com/w:16/q:85/https://kukufm.s3.ap-south-1.amazonaws.com/icons/hindi_1.png",
+        "64": "https://images.cdn.kukufm.com/w:64/q:85/https://kukufm.s3.ap-south-1.amazonaws.com/icons/hindi_1.png",
+        "256": "https://images.cdn.kukufm.com/w:256/q:85/https://kukufm.s3.ap-south-1.amazonaws.com/icons/hindi_1.png"
+      }
+    },
+    "content_type": {
+      "id": 12,
+      "title": "फुल बुक्‍स",
+      "slug": "audio-book",
+      "uri": "app://kukufm/content-types/audio-book",
+      "web_uri": "/content-types/audio-book",
+      "color_info": {
+        "bg_color": "#40C2B3",
+        "text_color": "#40C2B3"
+      }
+    },
+    "other_images": {},
+    "thumbnail_data": {},
+    "labels": [],
+    "is_top_10": false,
+    "is_reel": false,
+    "ever_been_vip_show": false,
+    "is_self": false,
+    "ad_enabled": false,
+    "can_download_all": true,
+    "is_added": false,
+    "genre": {
+      "id": 3,
+      "title": "प्यार",
+      "slug": "love",
+      "uri": "app://app/genres/love",
+      "web_uri": "/genres/love"
+    },
+    "is_play_locked": false,
+    "hide_download_all_icon": null,
+    "growth_engine_audio_cue_info": {},
+    "social_proofing": {
+      "review": null
+    },
+    "physical_book_data": {},
+    "show_unlocked_nudge_text": "Unlocked with Premium"
+  },
+  "episodes": [],
+  "has_more": false,
+  "n_episodes": 0,
+  "n_pages": 1,
+  "page": 1,
+  "support_sticker": "",
+  "is_skip_show_page": false,
+  "season_n_episodes": 0,
+  "last_unlocked_episode_index": null,
+  "first_locked_episode_title": "",
+  "seo_description": null,
+  "ads_info": {
+    "interstitial_unit_id": "/23081990290,23155115523/com.vlv.aravali.lovenasha.Interstitial2.1750061859",
+    "reward_unit_id": "/23081990290,23155115523/com.vlv.aravali.lovenasha.Rewarded2.1750061900"
+  }
+}

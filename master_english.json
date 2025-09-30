@@ -1,0 +1,1803 @@
+{
+  "sections": [
+{
+	"title": "New Releases",
+  "shows": [
+    {
+      "id": "274908",
+      "title": "Secret Life Of A Mafia Sweetheart",
+      "slug": "secret-life-of-a-mafia-sweetheart",
+      "language": "english",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 50,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/666cc582-0b5a-42e1-bd42-132a4b999d55.png",
+      "description": "A deadly mafia assassin living a double life as a flower shop owner falls in love with a man who hides an even darker secret — he’s the heir to her family’s greatest enemy.",
+      "link": "/json/secret-life-of-a-mafia-sweetheart-English.json"
+    },  
+    {
+      "id": "274354",
+      "title": "After the divorce, the heiress takes it all",
+      "slug": "after-the-divorce-the-heiress-takes-it-all-1",
+      "language": "english",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 44,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/50edb431b8784ad9a2cf273353c63003.png",
+      "description": "After the divorce, the heiress takes it all",
+      "link": "/json/after-the-divorce-the-heiress-takes-it-all-1-English.json"
+    },
+    {
+      "id": "274506",
+      "title": "The CEO's Maid Turned Out To Be The Heiress",
+      "slug": "the-ceos-maid-turned-out-to-be-the-heiress",
+      "language": "english",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 55,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/22851e668ff04f3f9510138a758d79b1.png",
+      "description": "The CEOs Maid Turns Out To Be The Heiress",
+      "link": "/json/the-ceos-maid-turned-out-to-be-the-heiress-English.json"
+    },  
+    {
+      "id": "270310",
+      "title": "Blood Contract",
+      "slug": "blood-contract",
+      "language": "english",
+      "genre": {
+        "id": 116,
+        "title": "एंटरटेनमेंट",
+        "slug": "entertainment",
+        "uri": "app://app/genres/entertainment",
+        "web_uri": "/genres/entertainment"
+      },
+      "n_episodes": 50,
+      "n_seasons": 1,
+      "show_type": "audio",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/94af70e6d35b4a2880e22b0bb70c5306.png",
+      "description": "Rosy, a woman who has lost everything—her job, her direction, her purpose—crosses paths with Sam, a wealthy and enigmatic vampire. When he offers her an unusual proposition to become his contract bride, Rosy faces an impossible choice. Though terrified by the shadows of Sam's otherworldly existence, she accepts his offer, seeing it as her last chance at a meaningful life. As their arrangement unfolds, Rosy is drawn deeper into a realm of immortal desires and dangerous secrets, where the line between opportunity and oblivion grows increasingly thin.",
+      "link": "/json/Blood Contract-English.json"
+    },
+    {
+      "id": "270314",
+      "title": "My Handsome Bodyguard",
+      "slug": "my-handsome-bodyguard-6",
+      "language": "english",
+      "genre": {
+        "id": 116,
+        "title": "एंटरटेनमेंट",
+        "slug": "entertainment",
+        "uri": "app://app/genres/entertainment",
+        "web_uri": "/genres/entertainment"
+      },
+      "n_episodes": 50,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/bb19903eacf240ac84cc357b213be077.png",
+      "description": "When Lea unexpectedly inherits her father's mafia empire, she refuses to play by the old rules. Determined to transform the family business, she makes bold, risky moves that send shockwaves through the criminal underworld—earning her powerful enemies, including her vengeful ex-fiancé Michael. As threats close in from all sides, Lea finds an unlikely ally in Ryan, the stoic, devastatingly handsome bodyguard assigned to protect her. What begins as a professional relationship soon ignites into something far more dangerous and passionate. Now, as Lea fights to cement her position in a world where women are never meant to lead, she discovers that her greatest vulnerability might be her growing feelings for the one man sworn to take a bullet for her—her handsome bodyguard.",
+      "link": "/json/My Handsome Bodyguard-English.json"
+    },
+    {
+      "id": "274506",
+      "title": "The CEO's Maid Turned Out To Be The Heiress",
+      "slug": "the-ceos-maid-turned-out-to-be-the-heiress",
+      "language": "english",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 55,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/22851e668ff04f3f9510138a758d79b1.png",
+      "description": "The CEOs Maid Turns Out To Be The Heiress",
+      "link": "/json/The CEO's Maid Turned Out To Be The Heiress-English.json"
+    },
+    {
+      "id": "269299",
+      "title": "The Couple Came From Hell",
+      "slug": "the-couple-came-from-hell-6",
+      "language": "english",
+      "genre": {
+        "id": 3,
+        "title": "प्यार",
+        "slug": "love",
+        "uri": "app://app/genres/love",
+        "web_uri": "/genres/love"
+      },
+      "n_episodes": 50,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/50d2f0ca7a9f46b7a4372eb974e34784.png",
+      "description": "Chinn's husband, Lumor, jumped from the rooftop to prove his innocence, while Chinn was tragically killed in the chaos. However, she was reborn with memories of her past and resolved to change her fate. In her new life, Chinn uncovered the conspiracies behind Stacy and Camor. Determined to secure her husband's and her own future, she began to turn the tables and set up her own counterattacks, ultimately achieving victory.",
+      "link": "/json/The Couple Came From Hell-English.json"
+    },
+    {
+      "id": "260761",
+      "title": "The Fiance Who Sold Me",
+      "slug": "the-fiance-who-sold-me",
+      "language": "english",
+      "genre": {
+        "id": 3,
+        "title": "प्यार",
+        "slug": "love",
+        "uri": "app://app/genres/love",
+        "web_uri": "/genres/love"
+      },
+      "n_episodes": 79,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/6add11ad509a4576aceb0c137d3ada3e.png",
+      "description": "In this story, Song Mingzhe's company goes bankrupt, leaving him in severe debt to loan sharks. In a desperate attempt to repay his debts, he makes the shocking decision to sell his fiancée, Zhou Qing, to the mafia to become their mistress.",
+      "link": "/json/The Fiance Who Sold Me-English.json"
+    }
+  ]
+},  
+  
+  
+  
+  
+    {
+      "title": "Uncategory1",
+      "shows": [
+        {
+          "id": "269338",
+          "title": "A Heartbeat Away",
+          "slug": "a-heartbeat-away",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 63,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": true,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/662d244f80f24319842cc063f079a06e.png",
+          "description": "Katie heartlessly abandoned her boyfriend Sean because she looked down on his lack of wealth. Years later, Sean becomes a young CEO and stands before Katie. He wants her to see her mistake in choosing, but he gradually realizes that the girl before him has actually always loved him.",
+          "link": "/json/A Heartbeat Away-English.json"
+        },
+        {
+          "id": "269298",
+          "title": "A Vow Of Joy And Sorrow",
+          "slug": "a-vow-of-joy-and-sorrow-3",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 54,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/434fdcf878064a98bb5d581ccb57c1d5.png",
+          "description": "Roger Nandlall, an abstinent CEO, cannot survive New Year's Eve because of his Yang body. However, he unexpectedly discovered that Brenda Cameron, a poor college student, was the only person in the world who can cure his Yin body. To survive, Roger married Brenda domineeringly. After learning that Brenda's life would be in danger after curing him, Roger, who slowly fell in love with Brenda, was faced with a painful choice between life and death...",
+          "link": "/json/A Vow of Joy and Sorrow-English.json"
+        },
+        {
+          "id": "268487",
+          "title": "Alpha's Perfect Love",
+          "slug": "alphas-perfect-love",
+          "language": "english",
+          "genre": {
+            "id": 80,
+            "title": "नाटक",
+            "slug": "drama_",
+            "uri": "app://app/genres/drama_",
+            "web_uri": "/genres/drama_"
+          },
+          "n_episodes": 65,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/9b63c30ebf3642fb8c75a0fb498fb2ae.png",
+          "description": "Alpha werewolf meets werewolf-hating human. A perfect recipe for disaster—or is it destiny? Liam masks his true identity to court his mate Dora, but their carefully constructed reality teeters on collapse when a child appears with revelations from their forgotten past.",
+          "link": "/json/Alpha's Perfect Love-English.json"
+        },
+        {
+          "id": "269302",
+          "title": "Alpha, She Wasn't The One ",
+          "slug": "alpha-she-wasnt-the-one",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 70,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/44dad6eb9ad54f27b95724000d69cbfb.png",
+          "description": "Ordinary girl Annie crosses paths with Leon, the werewolf leader, bound by a prophecy from the Moon Goddess. But with memories erased and secrets hidden, Leon mistakes her sister for his fated mate. As boss and subordinate, they slowly fall in love. When memories return, truths surface, and Annie awakens with the Moon Goddess’s mysterious powers. How will her true identity reshape their fate—and can their love survive the unknown?",
+          "link": "/json/Alpha, She Wasn't the One-English.json"
+        },
+        {
+          "id": "269350",
+          "title": "Billionaire Daddy, The Hunt Is On!",
+          "slug": "billionaire-daddy-the-hunt-is-on",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 59,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/f0b72878f4c54d6c92d9d0fc2dfcfcd0.png",
+          "description": "Novice mother Miranda works hard to support her son, but always accidentally offends the black-hearted boss Lemon, and this handsome rich man who is cold outside and warm inside is actually the biological father of the child...",
+          "link": "/json/Billionaire Daddy, the Hunt is On-English.json"
+        },
+        {
+          "id": "269425",
+          "title": "Billionaire Playboy's Replacement Bride",
+          "slug": "billionaire-playboys-replacement-bride",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 70,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/4ff34b58c0da4e4f956e73b957cb5765.png",
+          "description": " Under her stepmother's pressure, Alicia substitutes her sister to marry a stranger. Disheartened, she finds solace in Lucius's company for a night. Later, at the wedding, she discovers Lucius is the groom, sparking an unexpected love story.",
+          "link": "/json/Billionaire Playboy's Replacement Bride-English.json"
+        },
+        {
+          "id": "268293",
+          "title": "Black Kiln Dragon",
+          "slug": "black-kiln-dragon",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 5,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/7ce87ba850c54b0bb8791974112cf013.png",
+          "description": "Black Kiln Dragon",
+          "link": "/json/Black Kiln Dragon-English.json"
+        },
+        {
+          "id": "269619",
+          "title": "Cleopatra",
+          "slug": "cleopatra-5",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 50,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/f040db4272a346ebb74734f2daf23e31.png",
+          "description": "When a young woman finds herself trapped under her domineering stepfather's control, survival becomes her daily battle. Despite the suffocating circumstances, Cleopatra's fierce spirit refuses to be extinguished. As she endures one crushing setback after another, a flicker of hope keeps her going—the dream that someday she'll break free from the chains that bind her and build a future on her own terms. In this riveting tale of resilience and determination, witness how far one woman will go to claim her freedom and rewrite her destiny.",
+          "link": "/json/Cleopatra-English.json"
+        },
+        {
+          "id": "269305",
+          "title": "Divorce A Billionaire To Marry Him",
+          "slug": "divorce-a-billionaire-to-marry-him",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 73,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": true,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/5c8097b544164d55b0c6e5b07e0b8dcf.png",
+          "description": "Alex Blackwell and Lydia Bale were 'married by decree.' After signing a contract, they had no further connection. A year later, Lydia was assigned to Alex as a personal assistant. Unbeknownst to them, they were actually husband and wife. As they gradually developed feelings for each other, they found themselves drifting apart due to their married status...",
+          "link": "/json/Divorce A Billionaire To Marry Him-English.json"
+        },
+        {
+          "id": "268485",
+          "title": "Divorced Billionaire Heiress",
+          "slug": "divorced-billionaire-heiress-1",
+          "language": "english",
+          "genre": {
+            "id": 80,
+            "title": "नाटक",
+            "slug": "drama_",
+            "uri": "app://app/genres/drama_",
+            "web_uri": "/genres/drama_"
+          },
+          "n_episodes": 75,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/4ba91f9ac09e4ba380a937bbc55da346.png",
+          "description": "Divorced on my anniversary and publicly shamed by his mistress, they never suspected I was American royalty—the daughter of the richest man in the country who secretly bankrolled my ex-husband's success. The universe balanced the scales when I unexpectedly married a dashing billionaire hours later. Now I navigate dual identities with wealth and power at my fingertips.",
+          "link": "/json/Divorced Billionaire Heiress-English.json"
+        },
+        {
+          "id": "269510",
+          "title": "Don't Mess With The Blind Heiress",
+          "slug": "dont-mess-with-the-blind-heiress",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 75,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/4ea96344f29a4c66bfe56d9d4879d701.png",
+          "description": "The president of Stewart Group dies mysteriously at home, leaving his daughter Florence blind. Determined to uncover the truth, she suspects her father's protector, Walt, might be the culprit. Through her investigation, she unravels the mystery and finds love.",
+          "link": "/json/Don't Mess With The Blind Heiress-English.json"
+        },
+        {
+          "id": "261631",
+          "title": "Don't Touch My Daughter",
+          "slug": "dont-touch-my-daughter",
+          "language": "english",
+          "genre": null,
+          "n_episodes": 70,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/db09e50fd1544286ab0b3295ced2ee9b.png",
+          "description": "The daughter was assaulted. Now mother wants revenge",
+          "link": "/json/Don't touch my Daughter-English.json"
+        },
+        {
+          "id": "269434",
+          "title": "Dracula's Kiss: Spellbound By A Doppelganger",
+          "slug": "draculas-kiss-spellbound-by-a-doppelganger",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 72,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/f02c5d79bd1c4aca8f537ec98d14098e.png",
+          "description": "Heartbroken after her boyfriend Neil's betrayal, Flora meets the mysterious Vittorio at a bar. Learning he's Neil's elder relative, she impulsively decides to marry him for revenge. Little does she know, Vittorio is a dangerous vampire, and his study holds a photo of a woman identical to her from eighty years ago...",
+          "link": "/json/Dracula's Kiss_ Spellbound By A Doppelganger-English.json"
+        },
+        {
+          "id": "269644",
+          "title": "Echoes Of Vengeance",
+          "slug": "echoes-of-vengeance",
+          "language": "english",
+          "genre": {
+            "id": 33,
+            "title": "अपराध",
+            "slug": "crime",
+            "uri": "app://app/genres/crime",
+            "web_uri": "/genres/crime"
+          },
+          "n_episodes": 50,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/741cc77ba96942bc9d046f12c7afdf82.png",
+          "description": "When ambitious Elara crosses paths with the enigmatic Damon at a high-profile fashion show, she sees more than just another industry power player—she sees her chance for revenge. Armed with an old grudge and cold determination, she infiltrates his glamorous world, intent on making him pay for past wrongs. But as the lines between vengeance and attraction blur, Elara discovers layers to Damon she never expected. Amid the glittering backdrop of runways and galas, she's forced to confront an unsettling question: is her thirst for retribution justified, or is she destroying something that could heal them both? In this stylish tale of revenge and redemption, the price of settling old scores might be higher than either can afford.",
+          "link": "/json/Echoes Of Vengeance-English.json"
+        },
+        {
+          "id": "269288",
+          "title": "Enemies With Benefits: The CEO's Matchmaker Strikes",
+          "slug": "enemies-with-benefits-the-ceos-matchmaker-strikes",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 65,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/84ef881debe445d1a7cb80082128fb50.png",
+          "description": "To save her home, matchmaker Emma disguises herself as the wealthy billionaire Chase's dating prospect. But she never expected that he would fall for her, relentlessly pursuing her and refusing to let her go.",
+          "link": "/json/Enemies with Benefits - The CEO's Matchmaker Strikes-English.json"
+        },
+        {
+          "id": "269419",
+          "title": "Fall Into Sweet Trap",
+          "slug": "fall-into-sweet-trap",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 65,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/9f4cf3882ce943d8b7588b009d16ad5f.png",
+          "description": "A contract marriage, two hearts drawing closer. Caitlin, struggling to survive office politics and her ex-husband's betrayal. Simon, tasked with revitalizing his family's business. When fate leads them into a loveless marriage, will they continue to abide by the contract or bravely pursue their true feelings?",
+          "link": "/json/Fall Into Sweet Trap-English.json"
+        },
+        {
+          "id": "269522",
+          "title": "Fallen Angel",
+          "slug": "fallen-angel-treasure-huntress-steals-her-victims-heart",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 80,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/c56436b4343148829ca40981a9774720.png",
+          "description": "Controlled by Viper, a crime organization, with a lethal chip planted in her brain, Agent Bertha goes to steal a legendary diamond ring at the wedding of Edward, the richest man in the nation. She surprisingly walks in on Wilde, Edward's best friend, making out with Cynthia, the bride. Just when she think she's busted by Edward, who comes in right after her, Edward gets furious at the adultery and declares he will marry Bertha instead...",
+          "link": "/json/Fallen Angel-English.json"
+        },
+        {
+          "id": "269421",
+          "title": "Flashback Fiancée: Have We Met",
+          "slug": "flashback-fiancee-have-we-met",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 79,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/797ed82ae05745c78c1b44f488261e3a.png",
+          "description": "Amnesiac heiress Nina unexpectedly reunites with her first love, the overbearing CEO Alex, and falls into the romantic \"trap\" he sets for her. They embark on a contractual marriage, leading to a sweet story of love blossoming after marriage.",
+          "link": "/json/Flashback Fiancée_ Have We Met-English.json"
+        },
+        {
+          "id": "269499",
+          "title": "Fleeing Husband: Please Love Me All Over Again",
+          "slug": "fleeing-husband-please-love-me-all-over-again",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 68,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/a6560cc263194e21aa094fcd0038b154.png",
+          "description": "After deciding to divorce from the business tycoon Alexis due to her inability to tolerate their contractual marriage, the wealthy heiress Vylina fell into the lowest point of her life. Yet, after enduring the heavy blows of life's darkest moments, she ultimately achieved abundant success in both her career and love life.",
+          "link": "/json/Fleeing Husband_ Please Love Me All Over Again-English.json"
+        },
+        {
+          "id": "269351",
+          "title": "Forbidden Bonds With My Brothers",
+          "slug": "forbidden-bonds-with-my-brothers",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 56,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/49183e90e51547e996f47ca73d4b4630.png",
+          "description": "Vera, the wealthy daughter of the Smith Group, loses her memory in a mishap and is taken in by a poor family. Years later, she reenters the Smith Group workforce as Samantha, a financially struggling woman. Samantha faces constant hardships from her brother Bert and biological mother due to her humble background. Fate plays a hand as she falls in love with her brother Joseph. However, as Samantha's true identity slowly emerges, the future of this taboo love becomes uncertain...",
+          "link": "/json/Forbidden Bonds with My Brothers-English.json"
+        }
+      ]
+    },
+    {
+      "title": "Uncategory2",
+      "shows": [
+        {
+          "id": "269289",
+          "title": "Gone, Yet Loved By Him",
+          "slug": "gone-yet-loved-by-him-4",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 30,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/0af131e5c33a4c9c9990b3e7b5c1c44b.png",
+          "description": "Bellway Zouch and Eason Gold shared three years together, but their love was unequal. When Bellway discovered that Eason had always harbored feelings for his childhood sweetheart, Celine Moody, and had merely seen her as a substitute, she decided to leave the country to study abroad. At her mother's request, she gave herself a month to slowly detach from Eason. In this month, she gradually came to terms with her past and found the strength to move on. On the day she left, Eason finally realized that the one he truly loved was always Bellway…",
+          "link": "/json/Gone, Yet Loved by Him-English.json"
+        },
+        {
+          "id": "269347",
+          "title": "Got you! Mr. Always Right",
+          "slug": "got-you-mr-always-right",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 69,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/ee339c17db7c4acfaf196d70b4859bf2.png",
+          "description": "Jane's ex and high school rival get engaged, inviting her to humiliate her. Jane hires a \"ride-share driver\" named Mike as a fake husband, unaware he's wealthy and knows her. Jane enters high society, loved by Mike but facing pressure from wealthy heiress Sissy, who opposes their union, leading to a tangled web of love, family, and jealousy.",
+          "link": "/json/Got you Mr. Always Right-English.json"
+        },
+        {
+          "id": "270320",
+          "title": "Hidden Agenda",
+          "slug": "hidden-agenda",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 50,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/49834587c2b544efb4eb9452d8d81915.png",
+          "description": "David and Mia are crazy about each other and have decided to get married. They move in together and their love grows stronger. Mia brings some changes to the house. She employs Sara, an older lady, as the maid. Strange things begin to happen in the house. David falls ill and he hires a nurse, Amy, to care for him. David grows accustomed to her care, which may affect his affection for Mia.",
+          "link": "/json/Hidden Agenda-English.json"
+        },
+        {
+          "id": "269528",
+          "title": "Hollywood Staged Romance: Live 24/7",
+          "slug": "hollywood-staged-romance-live-247",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 66,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/35f5d21db44f4dfa9bb7ace2903d79c6.png",
+          "description": "Ruby, a rookie actress, faces career turmoil when frozen out by her company, then creates a sensation by drunkenly kissing Charles, the Spike Group CEO. He offers her a love contract: a fake relationship to promote his brands. With director Federico's aid, Ruby becomes an overnight sensation, showcasing her true self. Despite the facade, Charles and Ruby's feelings become real. Ruby later discovers Charles had been searching for her for six years, leading to unexpected revelations.",
+          "link": "/json/Hollywood Staged Romance_ Live 24_7-English.json"
+        },
+        {
+          "id": "270037",
+          "title": "Hollywood Star's Fake Girlfriend",
+          "slug": "hollywood-stars-fake-girlfriend",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 50,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/d7d7a2e0f8204efcb36266c1ae6386d7.png",
+          "description": "When superstar actor Ben reaches the pinnacle of his career, everything he's worked for suddenly hangs in the balance. As rumors swirl about his relationship with another famous male celebrity, the industry's unforgiving spotlight threatens to derail his carefully crafted image. Desperate to protect his career, Ben makes a decision that will entangle him in an elaborate charade. How far will he go to maintain his public persona when his private life becomes headline news?",
+          "link": "/json/Hollywood Star's Fake Girlfriend-English.json"
+        },
+        {
+          "id": "269527",
+          "title": "How I Became The Alpha Queen",
+          "slug": "how-i-became-the-alpha-queen",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 45,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/fa37c4fea82e47b39dc50a85b587e6a1.png",
+          "description": "Lilith, poised to lead the Silver Claw werewolf pack, faces betrayal when her sister Serena, aided by Clay's infatuation, murders their parents to usurp the Alpha position, framing Lilith. Forced into rogue status, Lilith finds refuge with Tristan, the compassionate Alpha of the Starlight pack, igniting a romance. As Serena's schemes unravel, Lilith and Tristan expose her treachery, leading to her downfall and uniting their packs.",
+          "link": "/json/How I Became The Alpha Queen-English.json"
+        },
+        {
+          "id": "270038",
+          "title": "I'm Obsessed With My Boss: Part I",
+          "slug": "im-obsessed-with-my-boss-part-i",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 50,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/f3f25fa8b3e04798b4c5ff8f88f07a55.png",
+          "description": "Lucilia's ordinary life hides an extraordinary obsession. By day, she's just another employee—but behind closed doors, she secretly pines for her charismatic boss, Ricardo. When her boyfriend Jeremy uncovers a trove of Ricardo's photos and unsent love letters on her phone, Lucilia's carefully compartmentalized worlds begin to collide. As suspicions flare and boundaries blur, an explosive affair ignites between Lucilia and Ricardo, pulling all three into a dangerous triangle of desire, deception, and impossible choices. How far will obsession take her, and who will get burned when passion finally boils over?",
+          "link": "/json/I'm Obsessed With My Boss_ Part I-English.json"
+        },
+        {
+          "id": "270312",
+          "title": "I'm Obsessed With My Boss: Part II",
+          "slug": "im-obsessed-with-my-boss-part-ii",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 50,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/d9d2b2b7c0734221b6e4d4ba472164a1.png",
+          "description": "Lucilia drops a bombshell pregnancy announcement, unleashing a storm of deceit and turmoil. As she demands Ricardo acknowledge their unborn child, he pushes back with doubts about the baby's paternity. The stakes escalate when Jeremy, Lucilia's ex-boyfriend, walks free from prison after Ricardo is forced into dropping the charges against him. Meanwhile, Ricardo's marriage hangs by a thread when his wife uncovers a suspicious $10 million payment to Lucilia. Caught in a dangerous triangle of desire, money, and power, Lucilia's manipulative games begin to unravel as jealousy poisons her rekindled relationship with Jeremy. In this high-stakes battle of wills, no one will emerge unscathed.",
+          "link": "/json/I'm Obsessed With My Boss_ Part II-English.json"
+        },
+        {
+          "id": "269645",
+          "title": "In Love With My Godfather's Daughter",
+          "slug": "in-love-with-my-godfathers-daughter",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 50,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/f1c5fbc0293d491b9354e57b1e34fd5e.png",
+          "description": "Thrust into power after a devastating car crash claims his father and brothers, 25-year-old Luca Marcini unexpectedly inherits the mantle of don of the notorious Marcini crime family. Written off by rivals and family members alike as too young and inexperienced to lead, Luca faces challenges from every direction as the criminal underworld watches and waits for him to fail. As Luca navigates betrayal, power struggles, and his own moral boundaries, he's determined to prove every doubter wrong—no matter how high the body count rises. Witness the birth of a new kind of mafia lord who will either transform the family legacy or be consumed by it.",
+          "link": "/json/In Love With My Godfather's Daughter-English.json"
+        },
+        {
+          "id": "269359",
+          "title": "Kiss And Switch: The Cursed Vampire",
+          "slug": "kiss-and-switch-the-cursed-vampire",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 65,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/4e33d51900c74de383e597ec5d026a56.png",
+          "description": "Daphne's fiancé, driven by a desperate need to save his ex-lover Kitty from a vampire king, betrayed her by marrying Kitty and using a forbidden ritual. In a tragic twist, he offered Daphne as a sacrifice to repay the Hanbo family's debt. Daphne died on the altar, only to be reborn as a vampire's eternal companion. Upon hearing of her demise, Paul's guilt and sorrow plunged him into madness.",
+          "link": "/json/Kiss And Switch_ The Cursed Vampire-English.json"
+        },
+        {
+          "id": "268657",
+          "title": "Let Me Go, My Queen!",
+          "slug": "let-me-go-my-queen-4",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 92,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/fa06fe83462d43a599fa38ce93f70298.jpeg",
+          "description": "Jack, a modern-day artist, stumbles into a parallel universe due to an accident, catapulted into an ancient, matriarchal Roman society. In this nation ruled by women, he finds himself surrounded by an abundance of beauties. Can Jack navigate this society and win the hearts of these girls? More importantly, will he be able to find the key to unraveling time travel and safely return to his contemporary world?",
+          "link": "/json/Let Me Go, My Queen-English.json"
+        },
+        {
+          "id": "269523",
+          "title": "Lucifer, My Boyfriend From Hell",
+          "slug": "lucifer-my-boyfriend-from-hell",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 67,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/f2237ca3acb2456aa514afc7a153268e.png",
+          "description": "The King of Hell, Lucifer, made a bet with his brother, the Seraph Gabriel. Lucifer predicted humanity would be corrupted by sin in the new millennium and face destruction, while Gabriel predicted they would thrive. God helped Gabriel win, punishing Lucifer by scattering his soul on Earth. A fragment of Lucifer's soul entered a baby girl born in an orphanage during the millennium. To reclaim his soul, Lucifer left Hell...",
+          "link": "/json/Lucifer, My Boyfriend From Hell-English.json"
+        },
+        {
+          "id": "268279",
+          "title": "Madam, Don't Run",
+          "slug": "madam-dont-run",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 5,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/e7400f3250114587b15490304af096f3.jpg",
+          "description": "Madam, Don't Run",
+          "link": "/json/Madam, Don't Run-English.json"
+        },
+        {
+          "id": "270317",
+          "title": "Mafia Lord's Son Has Secret Love For His Stepmom",
+          "slug": "mafia-lords-son-has-secret-love-for-his-stepmom",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 51,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/7bf017b0507149d38dd0625ddd053dc4.png",
+          "description": "When betrayal strikes at the heart of a family business, one father's quest for revenge leads his daughter into the dangerous world of the mafia. After his best friend and partner's treachery, Bianca's father makes a desperate deal with Don Pedro, a ruthless Mafia Lord—leaving his daughter behind as collateral. Caught in this high-stakes power play, Bianca finds an unexpected ally in Enzo, Don Pedro's principled son who's been secretly enchanted with her since their first encounter. As Enzo's disgust for his father's empire grows, the two forge a passionate alliance and elaborate escape plan. But in a world where loyalty is currency and deception runs deep, their dangerous charade of love might become something far more real—and deadly.",
+          "link": "/json/Mafia Lord's Son Has Secret Love For His Stepmom-English.json"
+        },
+        {
+          "id": "269513",
+          "title": "Married But Available: Perfume And Moon",
+          "slug": "married-but-available-perfume-and-moon",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 80,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/c996f8cd2a7c45388187da0a2773cc68.png",
+          "description": "Alpha Arthur's return marked a grand estate feast where he rescued Chloe, the butler, from noble Eileen's insults. Despite Chloe's engagement for her grandfather's sake and Arthur's subsequent departure, she silently worked at William Manor to cover medical expenses. Arthur, captivated by Chloe's talent, defied opposition and annulled the engagement. In a surprising twist, Chloe's awakened werewolf genes unveiled her as Arthur's destined mate.",
+          "link": "/json/Married But Available_ Perfume And Moon-English.json"
+        },
+        {
+          "id": "261597",
+          "title": "Married the Boss, Accidentally",
+          "slug": "married-the-boss-accidentally",
+          "language": "english",
+          "genre": null,
+          "n_episodes": 10,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/956e153bbbcc44e1ab84595edc1858bb.png",
+          "description": "They think she is a poor intern. But she's the wife of a billionaire CEO",
+          "link": "/json/Married the Boss, Accidentally-English.json"
+        },
+        {
+          "id": "261601",
+          "title": "Mom’s Out and Taking Over",
+          "slug": "moms-out-and-taking-over",
+          "language": "english",
+          "genre": null,
+          "n_episodes": 10,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/109527d2bb4246c8bbb841df0b57dafd.png",
+          "description": "They took her children from her and put her in jail. Six years later she is coming for revenge",
+          "link": "/json/Mom’s Out and Taking Over-English.json"
+        },
+        {
+          "id": "269514",
+          "title": "Mr. Santa, I Want You!",
+          "slug": "mr-santa-i-want-you",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 65,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/d8536890c2d7488a9be34695ae516ac4.png",
+          "description": "An unexpected kiss before Christmas makes werewolf.",
+          "link": "/json/Mr. Santa, I Want You-English.json"
+        },
+        {
+          "id": "270327",
+          "title": "My 2 Fiances",
+          "slug": "my-2-fiances-2",
+          "language": "english",
+          "genre": {
+            "id": 3,
+            "title": "प्यार",
+            "slug": "love",
+            "uri": "app://app/genres/love",
+            "web_uri": "/genres/love"
+          },
+          "n_episodes": 77,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/e27dbfbd63bb447d845d8e26b6791ff3.png",
+          "description": "এই গল্পে ফুটে উঠেছে মনোরোগ বিশেষজ্ঞ আইরিস মিলারের জীবন, যা বদলে যায় যখন সে জানতে পারে তার বাগদত্ত ঋক ব্যাসের ডিসোসিয়েটিভ আইডেন্টিটি ডিসঅর্ডার রয়েছে —একদিকে প্রেমিক ঋক দ্য লাইট, অন্যদিকে কর্পোরেট দানব ঋক দ্য শ্যাডো। লস অ্যাঞ্জেলেসের ঝলমলে অথচ প্রতিযোগিতামূলক পরিবেশে গড়ে ওঠা এই কাহিনিতে প্রেম, মানসিক স্বাস্থ্য, পরিবারিক ষড়যন্ত্র ও আত্মপরিচয়ের টানাপোড়েন তুলে ধরা হয়েছে।\r\n",
+          "link": "/json/My 2 Fiances-English.json"
+        },
+        {
+          "id": "269517",
+          "title": "My 2 Fiancés",
+          "slug": "my-2-fiances",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 72,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/9abb11128c61450a9da42c4c8e1822c5.png",
+          "description": "As Iris and her wealthy boyfriend Rick prepare to marry after seven years together, she sees news of him announcing marriage to another woman. Is Rick being manipulated, or is there more to the story?",
+          "link": "/json/My 2 Fiancés-English.json"
+        }
+      ]
+    },
+    {
+      "title": "Uncategory3",
+      "shows": [
+        {
+          "id": "269308",
+          "title": "My Call Boy Billionaire Daddy",
+          "slug": "my-call-boy-billionaire-daddy",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 75,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/c60a0d47995f412a8c928b29f351228c.png",
+          "description": "Ines, jilted by the wealthy Ward family, had a one-night stand with a male escort due to her cousin's scheme. That same night, her broke father committed suicide. Fleeing Los Angeles in disgrace, she returned four years later with her son, Charlie. At SKY CLUB, she recognized the escort by his tattoo and demanded compensation, forcing him into a debt repayment agreement. Meanwhile, her company's CEO, Louis, mysteriously targeted her, leaving Ines puzzled about their past connection.",
+          "link": "/json/My Call Boy Billionaire Daddy-English.json"
+        },
+        {
+          "id": "270313",
+          "title": "My Celebrity Boyfriend Killed Me",
+          "slug": "my-celebrity-boyfriend-killed-me",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 41,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/695fe60eb1a04076ae65ccccdbc4c72f.png",
+          "description": "When aspiring actress Claire Evens falls into a secret romance with powerful producer Mitch Sterling, her dreams seem within reach—until an unexpected pregnancy turns her world upside down. As Mitch's charm gives way to aggression and ultimatums, Claire finds herself cast out of his life and her hopes shattered. A chance friendship with struggling screenwriter Alex offers a glimmer of support, but Claire's desperate threat to go public with her pregnancy brings Mitch back with newfound warmth. Just as reconciliation seems possible, Claire learns that in Hollywood, second chances often hide the darkest intentions. A haunting tale of ambition, betrayal, and the dangerous price of trust in an industry built on illusions.",
+          "link": "/json/My Celebrity Boyfriend Killed Me-English.json"
+        },
+        {
+          "id": "269287",
+          "title": "My Cold Blooded Alpha King",
+          "slug": "my-cold-blooded-alpha-king",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 62,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/e5be06acddeb4d3793e5866b50cc541c.png",
+          "description": "The cold-blooded Alpha King, Logan, meets the naturally alluring she-wolf Anya. But Logan, with his solitary nature, resists letting Aniya get close. The forbidden love between beauty and beast breeds desire amid reluctance, as both sides gradually fall into the depths of destined love.",
+          "link": "/json/My Cold Blooded Alpha King-English.json"
+        },
+        {
+          "id": "268397",
+          "title": "My Handsome Bodyguard",
+          "slug": "my-handsome-bodyguard-5",
+          "language": "english",
+          "genre": {
+            "id": 3,
+            "title": "प्यार",
+            "slug": "love",
+            "uri": "app://app/genres/love",
+            "web_uri": "/genres/love"
+          },
+          "n_episodes": 10,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/7c5c740aaeaa40288d98f015ab89a83d.png",
+          "description": "Chu Tao, a former Dragon General turned single father and security guard, navigates secrets of the past while entering a contractual marriage with Lin Wan'er, an ambitious leader seeking vengeance.",
+          "link": "/json/My Handsome Bodyguard-English.json"
+        },
+        {
+          "id": "270315",
+          "title": "My Sister Stole My Man",
+          "slug": "my-sister-stole-my-man",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 50,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/ae40d88c0ada4809a8dc02d6becbd2cb.png",
+          "description": "What begins as a fateful encounter spirals into a web of deception when a woman's sister steals her identity after a passionate one-night stand. Six years later, destiny intervenes as she becomes the legal advisor to the very CEO she once shared that unforgettable night with. As their professional relationship blossoms into something deeper, her sister—desperate to protect her stolen life—orchestrates a series of increasingly dangerous sabotage attempts. With each thwarted plot, the CEO grows more determined to uncover the truth behind the woman who's captured his heart. In this thrilling tale of betrayal, redemption, and second chances, buried secrets finally surface, leading to a shocking revelation that reunites a family torn apart by lies and brings two souls back to where they were always meant to be.",
+          "link": "/json/My Sister Stole My Man-English.json"
+        },
+        {
+          "id": "270321",
+          "title": "Mysterious Murderer",
+          "slug": "mysterious-murderer",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 48,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/04d2a95f3ccb48afa084faa9da7eb0cd.png",
+          "description": "A brilliant medical school hopeful's life shatters when she returns home to find her parents brutally murdered under mysterious circumstances. Abandoning her promising future, she plunges into a personal investigation that reveals her seemingly peaceful hometown harbors dark, dangerous secrets. As she unravels the truth behind the killings, she discovers that finding justice might cost her everything—including her own life.",
+          "link": "/json/Mysterious Murderer-English.json"
+        },
+        {
+          "id": "270318",
+          "title": "Never Mess With A Badass Girl",
+          "slug": "never-mess-with-a-badass-girl",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 50,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/719af91f616041a48a21ec253c25556c.png",
+          "description": "When Ava uncovers the ultimate betrayal—her boyfriend Ben and best friend Sarah's secret affair—she's consumed by a thirst for retribution. Enter Max, her unexpected ally in the art of revenge. Together, they orchestrate a brilliant scheme that slowly unravels the web of deception surrounding her former loved ones. Through calculated manipulations and cunning strategies, Ava pulls Ben and Sarah into an emotional labyrinth from which there seems no escape. As the tension escalates and shocking revelations emerge, both hunter and prey are forced to confront painful truths.",
+          "link": "/json/Never Mess With A Badass Girl-English.json"
+        },
+        {
+          "id": "269346",
+          "title": "Once Upon A Divorce: The Double Life Of Lady Diana",
+          "slug": "once-upon-a-divorce-the-double-life-of-lady-diana",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 70,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/ef905a6f87fd4b0d883a2f8678026181.png",
+          "description": "After being betrayed, the secret daughter of a billionaire unexpectedly enters into a contract marriage with a wealthy tycoon. Together, they take down the deceitful ex and navigate intense family rivalries, ultimately finding their path to happiness.",
+          "link": "/json/Once Upon A Divorce_ The Double Life Of Lady Diana-English.json"
+        },
+        {
+          "id": "269659",
+          "title": "One Night Stand",
+          "slug": "one-night-stand-1",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 50,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/35afb0778ff841529f34364a96575475.png",
+          "description": "Two guys. One’s a master of tall tales, the other’s a master of side-eye. In each bite-sized episode, an everyday moment spirals into absurdity as one man spins wild stories to sound wiser than he is, while his unimpressed friend listens, judges, and occasionally calls the bluff. A comedy rooted in banter, bluffing, and the brilliance of doing absolutely nothing.",
+          "link": "/json/One Night Stand-English.json"
+        },
+        {
+          "id": "269935",
+          "title": "Revenge On My Cheating Fiancé",
+          "slug": "revenge-on-my-cheating-fiance",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 50,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/d41a65f4013a40189b7b7b716afc7d0a.png",
+          "description": "After years of being the perfect girlfriend and dutiful daughter, Kristine Wilson's life of compromise shatters when she discovers her fiancé's betrayal. Already scarred by her family's abuse, this final deception ignites something dangerous within her. Fed up with being everyone's doormat, Kristine hatches a scandalous plan for vengeance that will shake the foundations of her world. In a calculated power move, she seduces Henry Lockwood—her cheating fiancé's powerful uncle and heir to the family fortune. What begins as sweet revenge evolves into a dangerous game of passion and power where the stakes couldn't be higher. In this provocative tale of betrayal and redemption, Kristine must decide if revenge is worth the price of becoming someone she never thought she'd be.",
+          "link": "/json/Revenge On My Cheating Fiancé-English.json"
+        },
+        {
+          "id": "269516",
+          "title": "Romance With My Vampire Brother",
+          "slug": "romance-with-my-vampire-brother",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 69,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/3550097712e947d7a3a9a5dbd40b2c46.png",
+          "description": "Graduate Joyce experiences her boyfriend's infidelity, encounters the cold and stern vampire CEO Herman, who not only is her boss but also the child of her stepfather. Amid misunderstandings and workplace conflicts, the two gradually develop a forbidden love intertwined with betrayal and taboo...",
+          "link": "/json/Romance With My Vampire Brother-English.json"
+        },
+        {
+          "id": "269695",
+          "title": "Rosy Psycho",
+          "slug": "rosy-psycho",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 49,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/671aaa8a5f4a4dee8e159656fabaa4c0.png",
+          "description": "Born into luxury and raised with limitless affection, Gigi Philips radiates warmth and kindness in everything she does. As the sole heir to cosmetic empire ROSE Beauty and Cosmetics, controlled by her powerful parents James and Laura Philips, she's being groomed to eventually take the reins of the family business. But beneath the glamorous facade of board meetings and billion-dollar decisions lies a young woman whose genuine sweetness might be her greatest strength—or her biggest liability—in the cutthroat world of corporate beauty. Follow Gigi's journey as she navigates the complexities of wealth, power, and finding her own voice in a world that expects nothing less than perfection.",
+          "link": "/json/Rosy Psycho-English.json"
+        },
+        {
+          "id": "270502",
+          "title": "Runaway Bride",
+          "slug": "runaway-bride",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 51,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/02aae6696e19489489de640d1bcc2b2a.png",
+          "description": "When John's fiancée Samantha vanishes on their wedding day, his world collapses—literally—landing him in the hospital where compassionate Dr. Lucy treats more than just his physical wounds. As their relationship blossoms into unexpected love, John finally begins to heal from his heartbreak. But just as he embraces this second chance at happiness, Samantha reappears at his doorstep, bruised and desperate, forcing John to confront unresolved feelings and make an impossible choice.",
+          "link": "/json/Runaway Bride-English.json"
+        },
+        {
+          "id": "271680",
+          "title": "Ruthless Comeback Of The Reborn Heiress",
+          "slug": "ruthless-comeback-of-the-reborn-heiress-3",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 81,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/d079d714ed8c41cebb8442bfb6fdc72a.png",
+          "description": "Wrongfully accused and betrayed by her demon-cultivator sister, Grace Braylon dies — only to be reborn through excruciating pain. She leaves her sect and emotions behind to walk the ruthless Path of Merciless cultivation. With vengeance in her heart, every step forward is a battle against the past.",
+          "link": "/json/Ruthless Comeback Of The Reborn Heiress-English.json"
+        },
+        {
+          "id": "269292",
+          "title": "Say I Love You When We Meet Again",
+          "slug": "say-i-love-you-when-we-meet-again-1",
+          "language": "english",
+          "genre": {
+            "id": 3,
+            "title": "प्यार",
+            "slug": "love",
+            "uri": "app://app/genres/love",
+            "web_uri": "/genres/love"
+          },
+          "n_episodes": 73,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/02cd0c0f68184aa3a949854ca7a93553.png",
+          "description": "To ensure that Caius can have a heart operation, Freya had no choice but to part ways with him. Consequently, Caius came to despise Freya. At the same time, Caius' mother took away the boy born to Freya. Six years later, due to a fight between Freya's daughter and her classmate, Freya met Caius again. Thereafter, they were drawn into a painful and tormented love relationship characterized by alternating emotions of love and hatred.",
+          "link": "/json/Say I Love You When We Meet Again-English.json"
+        },
+        {
+          "id": "269415",
+          "title": "Say You Remember, Say You Love",
+          "slug": "say-you-remember-say-you-love",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 68,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/4eccc3160cd643959b10f394055a5129.png",
+          "description": "After her family went bankrupt, Elizabeth reconnected with her first love, Jason, who had become a world-renowned football star. Despite never forgetting the pain he once caused her, she couldn't resist being drawn to his brilliance.",
+          "link": "/json/Say You Remember, Say You Love-English.json"
+        },
+        {
+          "id": "270403",
+          "title": "School Hall",
+          "slug": "school-hall",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 49,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/38641efad7bc49148bc1f17587722f1d.png",
+          "description": "A prestigious boarding school harbors sinister secrets when a student vanishes without a trace from Crestwood Academy's storied halls. Four determined friends launch their own investigation, only to uncover a centuries-old web of dark rituals and clandestine societies operating beneath the school's polished facade. As they delve deeper into the mystery, they face escalating dangers that will test not only their friendship but their very survival in this atmospheric thriller where education meets terror.",
+          "link": "/json/School Hall-English.json"
+        },
+        {
+          "id": "269501",
+          "title": "Shelter In The Mafia",
+          "slug": "shelter-in-the-mafia",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 61,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/ecd58a0c21984c6f9e016f2ef8607e51.png",
+          "description": "Tasha, betrayed by her husband and his mistress, lost her company and ended up on the streets. A stranger, Ken, a taxi driver, offered her a helping hand. Despite their initial separation, Ken kept reappearing in Tasha's life, leading her into a romantic entanglement. Little did she know, Ken was the son of a mafia boss, on a quest to find a figure from his past.",
+          "link": "/json/Shelter In The Mafia-English.json"
+        },
+        {
+          "id": "270319",
+          "title": "Sisters Have Crush On The Same Man",
+          "slug": "sisters-have-crush-on-the-same-man",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 50,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/53e72ad76c52489fb7cd5e78867331d2.png",
+          "description": "Rosa and Emma enjoy an idyllic life in their inherited family castle until fate intervenes. When Rosa falls into a coma just before her wedding to the charming Edward Douglas, her sister Emma makes a fateful decision—she steps into Rosa's place at the altar. As Emma and Edward navigate their complicated relationship amid mounting challenges, the unthinkable happens: Rosa awakens after six long months. With the fragile web of lies unraveling and loyalties tested, Emma must face her sister with the devastating truth, igniting a powder keg of emotions that threatens to destroy the sisters' bond forever.",
+          "link": "/json/Sisters Have Crush On The Same Man-English.json"
+        },
+        {
+          "id": "269426",
+          "title": "Star Moon Romance: Rejected And Reborn As Alpha",
+          "slug": "star-moon-romance-rejected-and-reborn-as-alpha",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 77,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/07b0909650cc4561b6f15cf3f6d690ea.png",
+          "description": "Wolfless Phoebe was wrongly accused of murdering her parents and was ostracized by the whole pack. Even her lover Asta rejected her as his mate. Crushed, Phoebe left her pack and became a rogue. However, in her despair, she awakened the formidable Moonshadow Wolf. Two years later, Phoebe emerged as a renowned female Alpha, just when a distress call from her former lover Asta reached her. As she stared back at her past in the face, the truth about her parents' tragic death began to surface.",
+          "link": "/json/Star Moon Romance_ Rejected And Reborn As Alpha-English.json"
+        }
+      ]
+    },
+    {
+      "title": "Uncategory4",
+      "shows": [
+        {
+          "id": "261595",
+          "title": "Stealing the Spotlight from Her",
+          "slug": "stealing-the-spotlight-from-her",
+          "language": "english",
+          "genre": null,
+          "n_episodes": 10,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/a11f49a603b0414390d9bbcbf6761c2f.png",
+          "description": "They tried to kill her on the wedding day. But a miracle changed everything",
+          "link": "/json/Stealing the Spotlight from Her-English.json"
+        },
+        {
+          "id": "269424",
+          "title": "Tangled Ties And Tipsy Vows",
+          "slug": "tangled-ties-and-tipsy-vows",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 69,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/5f12c669047f44469398cb8de80a3def.png",
+          "description": "After years apart, Carol is forced by her stepmother and stepsister to marry playboy Grayson instead of her stepsister. A chance encounter with her childhood love Dylan, who now resents her for a past betrayal, complicates things. Dylan pretends to date Carol's stepsister to torment her, but as truths emerge, their tangled relationships take unexpected turns.",
+          "link": "/json/Tangled Ties And Tipsy Vows-English.json"
+        },
+        {
+          "id": "270416",
+          "title": "The Blackthrones",
+          "slug": "the-blackthrones",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 51,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/15dfed86eb1f4d44aa545aa9d1d25c10.png",
+          "description": "John Blackthorne and Jack Blackthorne are the twin sons of a billionaire and the heirs to their father's empire. When the older Mr Blackthorne dies after a prolonged illness, the will he left behind isn't what his sons expected. In a bid to teach his boys a lesson, he edited his last will to include a stipulation of an arranged marriage for both of them. The twins are to try and win the hand of his caretaker's daughter, Evangeline Herrera.",
+          "link": "/json/The Blackthrones-English.json"
+        },
+        {
+          "id": "270411",
+          "title": "The Chauffeur",
+          "slug": "the-chauffeur",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 50,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/9a2e93780fb341dfb8c9aa9785a0c5ff.png",
+          "description": "Henry Jackson, a professional Chauffeur lands the biggest job of his career when he is contracted to be the personal driver of a multi-million-dollar business tycoon, Oscar Cardoso. On Henry's first day, he finds himself Chauffeuring the boss's trophy wife, Victoria Cardoso. They eventually become lovers in secret. The plot thickens when Victor who introduces Henry to the job in the first place begins to ask favors of Henry.",
+          "link": "/json/The Chauffeur-English.json"
+        },
+        {
+          "id": "270412",
+          "title": "The Crown",
+          "slug": "the-crown",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 51,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/f95cdae749504f00a8f46005c37ce06d.png",
+          "description": "Emmaline Castro, the renowned COO and backbone of the Castro enterprises, one of the largest pharmaceutical conglomerates in America. Ruthless in her approach to business and unrelenting in her pursuit for success, Emmeline hits an unanticipated upturn in her career aspirations when her sickly father, Gerard Castro, informs her that he intends to name her irresponsible and nonchalant brother JONAS, as Heir to Castro Enterprises.",
+          "link": "/json/The Crown-English.json"
+        },
+        {
+          "id": "269296",
+          "title": "The Crowned Consort Of The Empress",
+          "slug": "the-crowned-consort-of-the-empress-3",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 60,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/0a418b4b969f4b749b2ef18589b6dc75.png",
+          "description": "Nadia is the general in the northern border of the empire. With a tough exterior, he is filled with tenderness and deep affection inside. As the empress of the Abyss Kingdom, Aurora's courage, determination, and her fearless attitude towards love inject more vitality into this relationship. After being reborn, as they faced external challenges and misunderstandings together, they always held fast to their love for each other and overcame various difficulties jointly.",
+          "link": "/json/The Crowned Consort Of The Empress-English.json"
+        },
+        {
+          "id": "269304",
+          "title": "The Devil Wears Desire",
+          "slug": "the-devil-wears-desire",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 80,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/87879cb68cca432b85f5e108a8d68684.png",
+          "description": "Anna becomes CEO Ian’s secret lover to save her boyfriend. Abandoned by Ian, she dates playboy David. Facing heart failure, she meets Ian disguised as K. Her amnesiac boyfriend Louis returns, manipulated by Annetta. Rescued by crime lord Domenico and forced to marry him, Anna is later kidnapped. Ian and Louis team up to save her, revealing Ian’s true feelings. Amid dark secrets, Anna navigates four men’s obsessions to find true love.",
+          "link": "/json/The Devil Wears Desire-English.json"
+        },
+        {
+          "id": "270399",
+          "title": "The Dumb Billionaire Heiress In Love: Part I",
+          "slug": "the-dumb-billionaire-heiress-in-love-part-i",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 50,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/b20c6e7b0f78454aa09e1fcf8c158786.png",
+          "description": "When a single gunshot changes everything, Antonio finds himself behind bars and Isabella seemingly lost to a coma. Six months later, Isabella mysteriously awakens with no memory of her past—but something isn't right. As the cunning Stella slides into Isabella's identity, systematically draining the family fortune, a disoriented Isabella reaches out to the only person who might believe her: Antonio, the very man accused of shooting her. Following his cryptic directions to Detective Gonzalez, Isabella uncovers a shocking truth—she was never in a coma at all. Now, racing against time and deception, Isabella must piece together the fragments of her shattered reality before everything she once had vanishes forever.",
+          "link": "/json/The Dumb Billionaire Heiress In Love_ Part I-English.json"
+        },
+        {
+          "id": "270400",
+          "title": "The Dumb Billionaire Heiress In Love: Part II",
+          "slug": "the-dumb-billionaire-heiress-in-love-part-ii",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 50,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/a21fa830345a4cd2af132232a639fc14.png",
+          "description": "With the shocking revelation that her coma was fabricated, Isabella's quest for truth intensifies in this riveting second chapter. Armed with Detective Gonzalez's help and fragments of returning memories, she launches a dangerous counteroffensive against Stella, who has now fully embedded herself in the family's empire. As Antonio fights for his freedom from behind bars, Isabella must navigate a web of conspiracies that run deeper than she ever imagined—revealing powerful enemies who orchestrated her disappearance.",
+          "link": "/json/The Dumb Billionaire Heiress In Love_ Part II-English.json"
+        },
+        {
+          "id": "270414",
+          "title": "The Escort",
+          "slug": "the-escort",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 51,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/1ee3c9bf9c54445cb6d13531f78fb9a0.png",
+          "description": "Travis is a rich billionaire and the CEO of a major tech company, who lost his wife to a tragic accident shortly after their wedding. As a result, he is broody and doesn't commit to relationships. Until he crosses paths with Stella one night in a bar. Stella is an escort who is short of money for her little sister's cancer treatment. She is in huge debt and is looking for a way out. Jason comes to her with an offer she can't refuse.",
+          "link": "/json/The Escort-English.json"
+        },
+        {
+          "id": "259418",
+          "title": "The First Prince Of Daxia",
+          "slug": "the-first-prince-of-daxia",
+          "language": "english",
+          "genre": {
+            "id": 79,
+            "title": "फैंटसी",
+            "slug": "fantasy",
+            "uri": "app://app/genres/fantasy",
+            "web_uri": "/genres/fantasy"
+          },
+          "n_episodes": 10,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/f487f73a307649079d29603343c8a927.png",
+          "description": "When modern food delivery man Qin Xiaochuan and his unscrupulous boss are transported to the Great Xia Dynasty, their lives take drastic turns. While his boss becomes a real eunuch, Qin leverages his wit to survive as a fake eunuch within the palace. He secretly romances the palace maid Xiaolian, aids consorts Hui and Xue in gaining favor, and captivates the entire harem. Amid endless schemes and treachery, Qin stays resilient, declaring, \"Bring it on – I’m not going down that easily!\"",
+          "link": "/json/The First Prince Of Daxia-English.json"
+        },
+        {
+          "id": "261200",
+          "title": "The Forgotten Mother",
+          "slug": "the-forgotten-mother",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 69,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/918e03aa5c68456bb1c9ef16b1c1c5d4.png",
+          "description": "Her biological son rejected her. But adopted son changed her fortune.",
+          "link": "/json/The Forgotten Mother-English.json"
+        },
+        {
+          "id": "270508",
+          "title": "The Mistress Trap",
+          "slug": "the-mistress-trap",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 61,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/b2d267a82a894acd9c9053ea87c0a169.png",
+          "description": "Betty Bennett is a beautiful woman wanted by every rich man in Fraudensia. After all, she is the best escort for a high-end group of personnels. She is approached to murder Austin by his wife, Janice, who promises her a sizeable portion of Austin's inheritance. However, the night of the murder turns out to be the beginning of the fight for her life. Frightened for her safety, she runs to her brother for help. Betty needs to find out what is really going on.",
+          "link": "/json/The Mistress Trap-English.json"
+        },
+        {
+          "id": "269301",
+          "title": "The Officer Fell For Me",
+          "slug": "the-officer-fell-for-me",
+          "language": "english",
+          "genre": {
+            "id": 3,
+            "title": "प्यार",
+            "slug": "love",
+            "uri": "app://app/genres/love",
+            "web_uri": "/genres/love"
+          },
+          "n_episodes": 65,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/dbb8e8ed40fa4ed59ca3e814b1b923d5.png",
+          "description": "Lorenzo found Jane's photo in a dead comrade's stuff. He protected her from harassment at the base, thinking she was the comrade's widow. This led to misunderstandings. Jane uncovered a deadly plot. Lorenzo, jealous and deceptive, pushed her away, and she left, tricked by a rival. Believing him missing, she sought revenge but was trapped. Lorenzo rescued her, exposed the plot, and proposed, sealing their war - and betrayal - tested love.",
+          "link": "/json/The Officer Fell For Me-English.json"
+        },
+        {
+          "id": "269897",
+          "title": "The Phoenix Conspiracy",
+          "slug": "the-phoenix-conspiracy",
+          "language": "english",
+          "genre": {
+            "id": 33,
+            "title": "अपराध",
+            "slug": "crime",
+            "uri": "app://app/genres/crime",
+            "web_uri": "/genres/crime"
+          },
+          "n_episodes": 48,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/e4fbbb001b374a05a7eac52d754cec56.png",
+          "description": "When a hardened private investigator takes on what seems like a routine case, he's drawn into a shadowy world controlled by a secretive organization and its mysterious leader known only as Phoenix. His life spirals into chaos after falling for a woman married to one of the organization's key players. As their forbidden relationship deepens, the two become entangled in a lethal game of deception where loyalty is currency and trust can be fatal. With enemies lurking in every shadow and the line between ally and adversary increasingly blurred, they must navigate a treacherous conspiracy where the price of truth may be their lives.",
+          "link": "/json/The Phoenix Conspiracy-English.json"
+        },
+        {
+          "id": "262654",
+          "title": "The Stars Know My Heart",
+          "slug": "the-stars-know-my-heart-1",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 80,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/824ccf001f57404db24131418f4a3c4a.png",
+          "description": "Description",
+          "link": "/json/The Stars Know My Heart-English.json"
+        },
+        {
+          "id": "269277",
+          "title": "Three Brothers Dote On Me",
+          "slug": "three-brothers-dote-on-me",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 63,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/292b0d57d2cd4ff5bf14a9f1dc335a26.png",
+          "description": "Iris Turner is a rich lady. Iris gets lost and loses her memory when she’s a kid. She’s adopted and becomes the master of Eternity Pavilion. Then, Iris is betrayed and hurt badly. Kayden Ford saves her but abandons her later. Iris finds her brothers and exposes Kayden. Kayden fails to make a comeback. Fiona Wood holds Iris is dating Iris’s third brother, so Fiona tries to get revenge. Iris stops her, and the Wood family goes bankrupt. Iris and her brothers live happily ever after.",
+          "link": "/json/Three Brothers Dote On Me-English.json"
+        },
+        {
+          "id": "269896",
+          "title": "Tied By Fate",
+          "slug": "tied-by-fate",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 50,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/979d24e09e134abeac27ff5ec1122427.png",
+          "description": "When their worlds collide, Mia and James strike an unusual deal—a marriage of convenience that promises to solve both their problems. On paper, it's strictly business. In reality, it's anything but simple. As they craft the perfect façade of marital bliss, these two strangers find themselves navigating awkward dinners, stolen glances, and the delicate art of keeping up appearances. What begins as a calculated arrangement slowly transforms into something neither expected. In this charming romantic comedy, discover how pretending to be in love might just be the perfect recipe for finding the real thing.",
+          "link": "/json/Tied By Fate-English.json"
+        },
+        {
+          "id": "269772",
+          "title": "Twisted Fates",
+          "slug": "twisted-fates",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 49,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/022a987ade6e49b28f41480f9e5ecb8f.png",
+          "description": "Middle-class family man Finch navigates the delicate balance between duty and desire when his orderly life is suddenly upended. Devoted to creating a stable future for his beloved wife Mira and their young son, Finch's unwavering dedication is put to the ultimate test as forbidden emotions emerge. When lines blur between family loyalty and unexpected passion, the ripple effects of his choices threaten everything he's built. A mesmerizing exploration of human connection, temptation, and the profound consequences of following one's heart, no matter the cost.",
+          "link": "/json/Twisted Fates-English.json"
+        },
+        {
+          "id": "269345",
+          "title": "Wake Up, Dad! Wedding Time",
+          "slug": "wake-up-dad-wedding-time",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 69,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/0bfe5fb2ac2747a3a081eb5d2db1c12f.png",
+          "description": "Heiress Laila is kicked out of her home after an unexpected pregnancy. Years later, the father of her child, Roman, shows up, revealing he is the world's richest man. To get medical treatment for her son, Laila agrees to a contractual marriage with Roman. However, as they get to know each other, they gradually break the contract and fall in love.",
+          "link": "/json/Wake Up, Dad Wedding Time-English.json"
+        },
+        {
+          "id": "261226",
+          "title": "Where is Home...",
+          "slug": "where-is-home",
+          "language": "english",
+          "genre": null,
+          "n_episodes": 70,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/b35dfd4c245741c2a02233fc66f52325.png",
+          "description": "Description",
+          "link": "/json/Where is Home...-English.json"
+        },
+        {
+          "id": "269360",
+          "title": "Yes Mr. CEO, We Have A Baby!",
+          "slug": "yes-mr-ceo-we-have-a-baby",
+          "language": "english",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 80,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/f55f1957a5f94e43b1731ec1d37fd2e0.png",
+          "description": "Six years ago, Shirley was drugged and framed at her promotion party, leading to a scandal. Returning to her hometown with her illegitimate son, she seeks the truth. Working at her sister's fiancé Neil's company, she and Neil form a bond, and her son feels a strange connection to him. Shirley is determined to find out who the man was that night and unveil the truth.",
+          "link": "/json/Yes Mr. CEO, We Have A Baby-English.json"
+        }
+      ]
+    }
+  ]
+}

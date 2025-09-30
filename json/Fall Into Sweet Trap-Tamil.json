@@ -1,0 +1,229 @@
+{
+  "show": {
+    "id": 270307,
+    "slug": "fall-into-sweet-trap-3",
+    "title": "Fall Into Sweet Trap",
+    "image": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/c031d39c954b4de2b8031eb19e365bb2.png",
+    "original_image": "https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/c031d39c954b4de2b8031eb19e365bb2.png",
+    "image_sizes": {
+      "100": "https://images.cdn.kukufm.com/w:100/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/c031d39c954b4de2b8031eb19e365bb2.png",
+      "200": "https://images.cdn.kukufm.com/w:200/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/c031d39c954b4de2b8031eb19e365bb2.png",
+      "300": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/c031d39c954b4de2b8031eb19e365bb2.png"
+    },
+    "language": "tamil",
+    "published_on": "2025-06-06T05:16:51.947970+00:00",
+    "status": "draft",
+    "n_listens": 52709,
+    "is_verified": false,
+    "dynamic_link": "https://links.kukufm.com/4BcRh3",
+    "uri": "app://kukufm/show/fall-into-sweet-trap-3/",
+    "web_uri": "/show/fall-into-sweet-trap-3",
+    "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/c031d39c954b4de2b8031eb19e365bb2.png",
+    "cover_type": null,
+    "is_premium": true,
+    "overall_rating": null,
+    "n_reviews": 0,
+    "is_fictional": true,
+    "duration_s": 0,
+    "n_episodes": 0,
+    "n_comments": 0,
+    "is_transcript_available": null,
+    "n_impressions": 0,
+    "recommendation_score": 0,
+    "users_completion_p": 0,
+    "daily_unlock_count": 0,
+    "thumbnail_color": "#335f442c",
+    "is_daily_unlock_enabled": false,
+    "n_seasons": 1,
+    "is_coin_based": false,
+    "monetization_type": "subscription",
+    "is_coin_premium": false,
+    "show_label_info": {},
+    "is_coming_soon": null,
+    "show_type": "reel",
+    "is_comments_exposure_enabled": false,
+    "is_adult_content": false,
+    "sharing_text": "हेलो! मैंने कुकू एफएम पर इस शो को सुना और मेरे ख्‍याल से आपको भी पसंद आएगा",
+    "sharing_text_v2": "हेलो! मैंने कुकू एफएम पर इस शो को सुना और मेरे ख्‍याल से आपको भी पसंद आएगा \nhttps://links.kukufm.com/4BcRh3",
+    "completion_status": 2,
+    "description": "A contract marriage, two hearts drawing closer. Caitlin, struggling to survive office politics and her ex-husband's betrayal. Simon, tasked with revitalizing his family's business. When fate leads them into a loveless marriage, will they continue to abide by the contract or bravely pursue their true feelings?",
+    "description_secondary": "A contract marriage, two hearts drawing closer. Caitlin, struggling to survive office politics and her ex-husband's betrayal. Simon, tasked with revitalizing his family's business. When fate leads them into a loveless marriage, will they continue to abide by the contract or bravely pursue their true feelings?",
+    "author": {
+      "id": 78402450,
+      "name": "Geetham Media Developers",
+      "avatar_cdn": "https://images.cdn.kukufm.com/https://kukufm.s3.amazonaws.com/avatars/53491068017b4498a7a817467dc3d104.png",
+      "original_avatar": "https://kukufm.s3.amazonaws.com/avatars/53491068017b4498a7a817467dc3d104.png",
+      "avatar": {
+        "32": "https://images.cdn.kukufm.com/w:32/f:jpg/q:90/https://kukufm.s3.amazonaws.com/avatars/53491068017b4498a7a817467dc3d104.png",
+        "64": "https://images.cdn.kukufm.com/w:64/f:jpg/q:90/https://kukufm.s3.amazonaws.com/avatars/53491068017b4498a7a817467dc3d104.png",
+        "128": "https://images.cdn.kukufm.com/w:128/f:jpg/q:90/https://kukufm.s3.amazonaws.com/avatars/53491068017b4498a7a817467dc3d104.png",
+        "256": "https://images.cdn.kukufm.com/w:256/f:jpg/q:90/https://kukufm.s3.amazonaws.com/avatars/53491068017b4498a7a817467dc3d104.png"
+      },
+      "bio": "Play What You Love",
+      "incognito_mode": false,
+      "is_profile_complete": true,
+      "dynamic_link": "https://applinks.kukufm.com/4x3Pkx96HSDCYthW9",
+      "gender": "M",
+      "has_premium": false,
+      "is_user_anonymous": false,
+      "is_suspended": false,
+      "is_phone_verified": true,
+      "is_email_verified": false,
+      "uuid": "6953432e975849068d98048d300d299f"
+    },
+    "lang": {
+      "id": 8,
+      "title": "தமிழ்",
+      "title_secondary": "Tamil",
+      "image": "https://images.cdn.kukufm.com/https://kukufm.s3.ap-south-1.amazonaws.com/icons/tamil_2.png",
+      "slug": "tamil",
+      "color": "#282E34",
+      "uri": "app://kukufm/home-lang/tamil",
+      "web_uri": "/home-lang/tamil",
+      "color_info": {
+        "bg_color": "#EBCEF5",
+        "text_color": "#671584"
+      },
+      "short_title": "த",
+      "svg_icon": "https://d1l07mcd18xic4.cloudfront.net/lang_icons/tamil.svg",
+      "icon_sizes": {
+        "16": "https://images.cdn.kukufm.com/w:16/q:85/https://kukufm.s3.ap-south-1.amazonaws.com/icons/tamil_2.png",
+        "64": "https://images.cdn.kukufm.com/w:64/q:85/https://kukufm.s3.ap-south-1.amazonaws.com/icons/tamil_2.png",
+        "256": "https://images.cdn.kukufm.com/w:256/q:85/https://kukufm.s3.ap-south-1.amazonaws.com/icons/tamil_2.png"
+      }
+    },
+    "content_type": {
+      "id": 8,
+      "title": "शृंखला",
+      "slug": "series",
+      "uri": "app://kukufm/content-types/series",
+      "web_uri": "/content-types/series",
+      "color_info": {
+        "title_color": "#FFFFFF",
+        "text_color": "#FFFFFF"
+      }
+    },
+    "other_images": {
+      "landscape_image": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/952f5d5415684826ab9c610b4869759c_landscape_205.png",
+      "landscape_image_sizes": {
+        "360": "https://images.cdn.kukufm.com/w:360/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/952f5d5415684826ab9c610b4869759c_landscape_205.png",
+        "480": "https://images.cdn.kukufm.com/w:480/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/952f5d5415684826ab9c610b4869759c_landscape_205.png",
+        "720": "https://images.cdn.kukufm.com/w:720/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/952f5d5415684826ab9c610b4869759c_landscape_205.png"
+      },
+      "title_image": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/952f5d5415684826ab9c610b4869759c_title_920.png",
+      "title_image_sizes": {
+        "360": "https://images.cdn.kukufm.com/w:360/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/952f5d5415684826ab9c610b4869759c_title_920.png",
+        "480": "https://images.cdn.kukufm.com/w:480/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/952f5d5415684826ab9c610b4869759c_title_920.png",
+        "720": "https://images.cdn.kukufm.com/w:720/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/952f5d5415684826ab9c610b4869759c_title_920.png"
+      },
+      "reel_image": "https://images.cdn.kukufm.com/h:400/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/952f5d5415684826ab9c610b4869759c_reel_278.png",
+      "reel_image_sizes": {
+        "360": "https://images.cdn.kukufm.com/w:360/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/952f5d5415684826ab9c610b4869759c_reel_278.png",
+        "480": "https://images.cdn.kukufm.com/w:480/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/952f5d5415684826ab9c610b4869759c_reel_278.png",
+        "720": "https://images.cdn.kukufm.com/w:720/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/952f5d5415684826ab9c610b4869759c_reel_278.png"
+      },
+      "vertical_thumbnail": "https://images.cdn.kukufm.com/h:400/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/952f5d5415684826ab9c610b4869759c_reel_278.png",
+      "vertical_thumbnail_image_sizes": {
+        "360": "https://images.cdn.kukufm.com/w:360/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/952f5d5415684826ab9c610b4869759c_reel_278.png",
+        "480": "https://images.cdn.kukufm.com/w:480/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/952f5d5415684826ab9c610b4869759c_reel_278.png",
+        "720": "https://images.cdn.kukufm.com/w:720/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/952f5d5415684826ab9c610b4869759c_reel_278.png"
+      }
+    },
+    "thumbnail_data": {
+      "dvd_portrait": "https://images.cdn.kukufm.com/w:400/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/952f5d5415684826ab9c610b4869759c_dvd_622.png",
+      "title_image": "https://images.cdn.kukufm.com/h:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/952f5d5415684826ab9c610b4869759c_title_920.png",
+      "key_art": "https://images.cdn.kukufm.com/h:720/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/952f5d5415684826ab9c610b4869759c_key_art_507.png"
+    },
+    "labels": [
+      "New Episode Daily",
+      "7+",
+      "video-clip-episode/hls/5c315a1f-9047-4d70-80d1-3e27621aecac.m3u8",
+      "1243062"
+    ],
+    "is_top_10": false,
+    "is_reel": true,
+    "ever_been_vip_show": false,
+    "is_show_page_skip": true,
+    "is_self": false,
+    "ad_enabled": false,
+    "can_download_all": true,
+    "is_added": false,
+    "genre": {
+      "id": 3,
+      "title": "प्यार",
+      "slug": "love",
+      "uri": "app://app/genres/love",
+      "web_uri": "/genres/love"
+    },
+    "credits": {
+      "dubbing_studios": [
+        {
+          "id": 78402450,
+          "full_name": "Geetham Media Developers",
+          "avatar": {
+            "16": "https://images.cdn.kukufm.com/w:16/q:85/https://kukufm.s3.amazonaws.com/avatars/53491068017b4498a7a817467dc3d104.png",
+            "64": "https://images.cdn.kukufm.com/w:64/q:85/https://kukufm.s3.amazonaws.com/avatars/53491068017b4498a7a817467dc3d104.png",
+            "256": "https://images.cdn.kukufm.com/w:256/q:85/https://kukufm.s3.amazonaws.com/avatars/53491068017b4498a7a817467dc3d104.png"
+          },
+          "n_followers": 57,
+          "contribution_type": "dubbing_studio",
+          "is_primary_creator": false,
+          "is_followed": false
+        }
+      ],
+      "production_managers": [
+        {
+          "id": 148927541,
+          "full_name": "Rithika",
+          "avatar": {
+            "16": "https://images.cdn.kukufm.com/w:16/q:85/https://kukufm.s3.amazonaws.com/avatars/794f975d746f4dc29dc128184f626c39.png",
+            "64": "https://images.cdn.kukufm.com/w:64/q:85/https://kukufm.s3.amazonaws.com/avatars/794f975d746f4dc29dc128184f626c39.png",
+            "256": "https://images.cdn.kukufm.com/w:256/q:85/https://kukufm.s3.amazonaws.com/avatars/794f975d746f4dc29dc128184f626c39.png"
+          },
+          "n_followers": 20,
+          "contribution_type": "production_manager",
+          "is_primary_creator": true,
+          "is_followed": false
+        }
+      ],
+      "directors": [
+        {
+          "id": 126010964,
+          "full_name": "Dharani P.M.",
+          "avatar": {
+            "16": "https://images.cdn.kukufm.com/w:16/q:85/https://kukufm.s3.amazonaws.com/avatars/0fa673f960814c758dabe4ed96dedb95.jpeg",
+            "64": "https://images.cdn.kukufm.com/w:64/q:85/https://kukufm.s3.amazonaws.com/avatars/0fa673f960814c758dabe4ed96dedb95.jpeg",
+            "256": "https://images.cdn.kukufm.com/w:256/q:85/https://kukufm.s3.amazonaws.com/avatars/0fa673f960814c758dabe4ed96dedb95.jpeg"
+          },
+          "n_followers": 116,
+          "contribution_type": "director",
+          "is_primary_creator": true,
+          "is_followed": false
+        }
+      ]
+    },
+    "is_play_locked": false,
+    "hide_download_all_icon": null,
+    "growth_engine_audio_cue_info": {},
+    "social_proofing": {
+      "review": null
+    },
+    "physical_book_data": {},
+    "show_unlocked_nudge_text": "Unlocked with Premium"
+  },
+  "episodes": [],
+  "has_more": false,
+  "n_episodes": 0,
+  "n_pages": 1,
+  "page": 1,
+  "support_sticker": "",
+  "is_skip_show_page": false,
+  "season_n_episodes": 0,
+  "last_unlocked_episode_index": null,
+  "first_locked_episode_title": "",
+  "seo_description": "",
+  "ads_info": {
+    "interstitial_unit_id": "/23081990290,23155115523/com.vlv.aravali.lovenasha.Interstitial2.1750061859",
+    "reward_unit_id": "/23081990290,23155115523/com.vlv.aravali.lovenasha.Rewarded2.1750061900"
+  }
+}
