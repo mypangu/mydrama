@@ -4,6 +4,286 @@
 	"title": "New Releases",
   "shows": [
     {
+      "id": "275181",
+      "title": "Chakravarthy",
+      "slug": "chakravarthy-1",
+      "language": "kannada",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 63,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/25422c5d-9bfc-4dc7-bc5f-51d956f45cdc.jpg",
+      "description": "Watch family entertaining show 'Chakravarthy'. Only on KukuTV",
+      "link": "/json/chakravarthy-1-Kannada.json"
+    },
+    {
+      "id": "274004",
+      "title": "Her Husband, Her Stranger",
+      "slug": "charmed-by-twin-billionaire",
+      "language": "kannada",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 49,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/f0aed251-8a9c-409c-ae85-2622ad0a660b.png",
+      "description": "Saanvi’s wedding shatters when her fiancé betrays her with her stepsister. Her stepmother forces her to marry Arun—a scarred, bitter billionaire—or lose her father forever. Thrust into a loveless marriage, Saanvi slowly uncovers Arun’s hidden depths, while secrets and revenge threaten to tear apart the fragile bond forming between them. As loyalty turns to unexpected love, dark motives and buried truths threaten to unravel everything. Watch \"Her Husband, Her Stranger\" only on KUKU TV!",
+      "link": "/json/charmed-by-twin-billionaire-Kannada.json"
+    },
+    {
+      "id": "275390",
+      "title": "College, Romance and Betrayal ",
+      "slug": "college-romance-and-betrayal",
+      "language": "kannada",
+      "genre": {
+        "id": 116,
+        "title": "एंटरटेनमेंट",
+        "slug": "entertainment",
+        "uri": "app://app/genres/entertainment",
+        "web_uri": "/genres/entertainment"
+      },
+      "n_episodes": 45,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/fcc3ec61-e420-4b98-a6c8-d53ed4c31af4.png",
+      "description": "College, Romance and Betrayal ",
+      "link": "/json/college-romance-and-betrayal-Kannada.json"
+    },
+    {
+      "id": "275405",
+      "title": "Eternal Love",
+      "slug": "eternal-love-3",
+      "language": "kannada",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 76,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/6d8426b9-3521-4593-97ac-e609eac93b08.png",
+      "description": "Vikram Rathod lies to his daughter that he has remarried and that her stepmother will soon come home. Meanwhile, Avni tries to convince everyone that she’s married too. At one point, Avni and Vikram cross paths. What happens next?",
+      "link": "/json/eternal-love-3-Kannada.json"
+    },
+    {
+      "id": "275386",
+      "title": "Final Bliss",
+      "slug": "final-bliss-2",
+      "language": "kannada",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 51,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/ee4a21fb-a598-44e6-9b43-c959dfcad0a6.png",
+      "description": "Final Bliss/Stand by me ",
+      "link": "/json/final-bliss-2-Kannada.json"
+    },
+    {
+      "id": "275082",
+      "title": "Missing Artist",
+      "slug": "missing-artist-1",
+      "language": "kannada",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 48,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/a85814c1-f017-405b-9554-22135d81e1aa.png",
+      "description": "Watch most entertaining show 'Missing Artist'. Only on KukuTV",
+      "link": "/json/missing-artist-1-Kannada.json"
+    },
+    {
+      "id": "275401",
+      "title": "Missing Master Chef",
+      "slug": "missing-master-chef",
+      "language": "kannada",
+      "genre": {
+        "id": 116,
+        "title": "एंटरटेनमेंट",
+        "slug": "entertainment",
+        "uri": "app://app/genres/entertainment",
+        "web_uri": "/genres/entertainment"
+      },
+      "n_episodes": 65,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/702904cb-f49f-4d37-a678-480d049b7865.png",
+      "description": "When Missing Master Chef goes incognito mode, he has to go through tough competition without revealing his Identity",
+      "link": "/json/missing-master-chef-Kannada.json"
+    },
+    {
+      "id": "274949",
+      "title": "Still Waiting for Love",
+      "slug": "still-waiting-for-love-2",
+      "language": "kannada",
+      "genre": {
+        "id": 116,
+        "title": "एंटरटेनमेंट",
+        "slug": "entertainment",
+        "uri": "app://app/genres/entertainment",
+        "web_uri": "/genres/entertainment"
+      },
+      "n_episodes": 45,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/6aa760cd-0c54-4eab-acdf-02ea61e09f74.png",
+      "description": "Still Waiting for Love",
+      "link": "/json/still-waiting-for-love-2-Kannada.json"
+    },
+    {
+      "id": "274003",
+      "title": "Stranger I Once Knew",
+      "slug": "stranger-i-once-knew",
+      "language": "kannada",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 45,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/22e7d032-2e43-494b-aa8b-4c3c524128ea.png",
+      "description": "A soldier and a doctor, once strangers bound by letters and love, are torn apart before ever meeting. Years later, pressured into marriage, they carry scars, resentments, and unspoken truths—unaware they are each other’s lost love. As fate binds them again, will revelation heal their past or destroy their future?",
+      "link": "/json/stranger-i-once-knew-Kannada.json"
+    },
+    {
+      "id": "273126",
+      "title": "Her Return",
+      "slug": "sweet-contract-with-the-mafia-boss",
+      "language": "kannada",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 44,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/d4b462d6-0954-47f9-b788-52dbb7de6f08.png",
+      "description": "Betrayed by her own blood… Shattered, yet unbroken.. Meera rises from the ashes.! In a world that tried to silence her,  she builds her own empire,  fighting every lie, every betrayal. when destiny brings Priya into her life, the battle between past and future begins.! Witness a woman’s powerful comeback. 'Her Return' - only on Kuku TV.",
+      "link": "/json/sweet-contract-with-the-mafia-boss-Kannada.json"
+    },
+    {
+      "id": "273125",
+      "title": "Love me If You Dare",
+      "slug": "taming-mr-black",
+      "language": "kannada",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 45,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/03133b6e-4217-4916-9087-b11374854201.png",
+      "description": "Love me If You Dare",
+      "link": "/json/taming-mr-black-Kannada.json"
+    },
+    {
+      "id": "275391",
+      "title": "The Contract Wedding",
+      "slug": "the-contract-wedding-1",
+      "language": "kannada",
+      "genre": {
+        "id": 116,
+        "title": "एंटरटेनमेंट",
+        "slug": "entertainment",
+        "uri": "app://app/genres/entertainment",
+        "web_uri": "/genres/entertainment"
+      },
+      "n_episodes": 49,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/b1a70268-fbb9-42ae-b343-f51c8b1ab766.png",
+      "description": "The Contract Wedding",
+      "link": "/json/the-contract-wedding-1-Kannada.json"
+    },
+    {
+      "id": "275179",
+      "title": "The Mistaken Child",
+      "slug": "the-mistaken-child-2",
+      "language": "kannada",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 45,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/25a09ee3-eb33-45ae-bc07-287378484cb9.png",
+      "description": "Watch family entertaining show 'The Mistaken Child' only on KukuTV",
+      "link": "/json/the-mistaken-child-2-Kannada.json"
+    },
+    {
+      "id": "275387",
+      "title": "Youngest Secret Billionaire",
+      "slug": "youngest-secret-billionaire-4",
+      "language": "kannada",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 48,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/51d797e0-812e-414f-b382-52f073696f48.png",
+      "description": "Watch family entertaining show 'Youngest Secret Billionaire'. Only on KukuTV",
+      "link": "/json/youngest-secret-billionaire-4-Kannada.json"
+    },  
+    {
       "id": "274876",
       "title": "Code War ",
       "slug": "code-war",

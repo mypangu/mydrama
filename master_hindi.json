@@ -4,6 +4,306 @@
 	"title": "New Releases",
   "shows": [
     {
+      "id": "274333",
+      "title": "Baap, Beti aur Black Money",
+      "slug": "beti-ka-boost",
+      "language": "hindi",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 52,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/14f278f0-d375-4b71-8612-9c06149b0c4a.png",
+      "description": "Baap, Beti aur Black Money tells the story of Suresh, a humble watchman whose life changes overnight when his daughter inherits her late husband’s drug empire and shares her fortune with him. Once humiliated and broken, Suresh rises to power, using his newfound wealth to take revenge on those who betrayed him — and to finally reclaim the dignity and love he was once denied.",
+      "link": "/json/beti-ka-boost-Hindi.json"
+    },
+    {
+      "id": "274136",
+      "title": "Loser Baccha Bana Billionaire",
+      "slug": "bullied-billionaire",
+      "language": "hindi",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 50,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/a1a6617b-c52b-4b67-b84e-a7c3e0840153.png",
+      "description": "From a bullied schoolboy to a self-made millionaire — Karan’s journey is raw, emotional, and deeply inspiring. Witness how pain, rejection, and grit shape him into something extraordinary. A story of resilience that proves: your past doesn’t define your future. Watch Now !",
+      "link": "/json/bullied-billionaire-Hindi.json"
+    },
+    {
+      "id": "274032",
+      "title": "Masoom Ka Badla",
+      "slug": "chhoti-si-ladki-tycoon-mamaon-ki-rani",
+      "language": "hindi",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 45,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/9de0c033-0f40-44d4-8224-c0dcd08c3ef0.png",
+      "description": "Chhoti Si Ladki, Tycoon Mamaon Ki Rani is a dramatic romantic saga about innocence, power, and destiny. A poor, small-town girl unexpectedly enters the world of her ruthless billionaire uncles, who try to control her life and wealth. But as she learns to fight back with courage and heart, she transforms from a vulnerable girl into the queen of their empire—while finding love in the most unlikely place.",
+      "link": "/json/chhoti-si-ladki-tycoon-mamaon-ki-rani-Hindi.json"
+    },
+    {
+      "id": "274031",
+      "title": "Delulu Dulha",
+      "slug": "cinderella-aur-andha-ceo",
+      "language": "hindi",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 50,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/8e43a263-e125-48c9-97fe-23930e5132cf.png",
+      "description": "When fiery small-town girl Naina accidentally crosses paths with arrogant business tycoon Arjun Mehta, a twist of fate forces them into a marriage neither wanted. Between clashing egos, hidden secrets, and unexpected sparks, their journey unfolds like a modern-day fairytale with a sharp twist, where love battles pride, and Cinderella isn’t waiting to be saved.",
+      "link": "/json/cinderella-aur-andha-ceo-Hindi.json"
+    },
+    {
+      "id": "274545",
+      "title": "Fake Wife",
+      "slug": "fake-wife",
+      "language": "hindi",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 45,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/a8b1bb26-27d0-4e9c-970f-18d93da9c935.png",
+      "description": "Dev Joshi, stuck in a contract marriage, devotes himself to Rati Kapoor, who never values him. Her heart remains with her first love, Avinash, aided by her scheming siblings Pooja and Prem. After Rati dismissively signs divorce papers, Dev leaves and rebuilds his life into a billionaire researcher. He finds true respect and affection with Shreya Rao, unlike the humiliation he endured with Rati. In the end, Dev rejects Rati’s late realization and chooses a dignified future with Shreya. Watch now.",
+      "link": "/json/fake-wife-Hindi.json"
+    },
+    {
+      "id": "274129",
+      "title": "Ultimate Sacrifice",
+      "slug": "ghar-wapsi-ki-yatra",
+      "language": "hindi",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 46,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/cc469da4-00e8-423c-bf57-bfb3f9f0f8d3.png",
+      "description": "As a desperate family fights to save their daughter, they are pulled into a dangerous ritual where sacrifice is the only way out. A child’s kidnapping uncovers a terrifying world of black magic, blind faith, and betrayal. Ultimate Sacrifice is a gripping story of fear, faith, family, and survival that will keep you hooked till the end.",
+      "link": "/json/ghar-wapsi-ki-yatra-Hindi.json"
+    },
+    {
+      "id": "272981",
+      "title": "Hidden Rockstar",
+      "slug": "hidden-rockstar",
+      "language": "hindi",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 45,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/e7e34f1e-fe80-49ca-bae7-562994a97ce5.png",
+      "description": "What happens when a broken artist returns stronger than ever? this is a gripping saga of passion, power, and payback, where hidden truths shake the very foundation of fame. Watch Now !",
+      "link": "/json/hidden-rockstar-Hindi.json"
+    },
+    {
+      "id": "273981",
+      "title": "Mr. Billionaire's heart is mine",
+      "slug": "mr-billionaires-heart-is-mine",
+      "language": "hindi",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 45,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/9d39a283-c90c-4091-b233-80c388cff4d4.png",
+      "description": "When fiery Maya Sinha crosses paths with ruthless billionaire lawyer Sameer Malhotra, sparks fly. Between betrayal by her ex Raj and her fight to save her father, Maya discovers that the cold-hearted tycoon’s guarded heart may just belong to her. Watch Now!",
+      "link": "/json/mr-billionaires-heart-is-mine-Hindi.json"
+    },
+    {
+      "id": "274026",
+      "title": "Ultimate Game of Love",
+      "slug": "no-time-for-caution",
+      "language": "hindi",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 48,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/f514df77-528b-4d90-b275-da648c022ec0.png",
+      "description": "In a world of greed, betrayal, and hidden identities, Natasha Nanda battles her stepsister Trisha and her manipulative father while secretly yearning for love from her bodyguard, Jai. Trapped in a web of lies, jealousy, and power struggles, Natasha is torn between sacrifice and survival. As truths unravel, dangerous rivalries push the family toward shocking consequences where love, revenge, and redemption collide. Watch now.",
+      "link": "/json/no-time-for-caution-Hindi.json"
+    },
+    {
+      "id": "275342",
+      "title": "Rose To me",
+      "slug": "rose-to-me",
+      "language": "hindi",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 100,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/ecd0d78e-0abb-4c96-abea-c42aef44c055.png",
+      "description": "Watch New Show Named \"Rose to me\" only On Kuku TV !",
+      "link": "/json/rose-to-me-Hindi.json"
+    },
+    {
+      "id": "275417",
+      "title": "The Missing Master Chef",
+      "slug": "the-missing-master-chef-3",
+      "language": "hindi",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 65,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/90decf25-6695-446a-9230-a1afb1ea21a4.png",
+      "description": "A fallen culinary legend walks away from fame to rediscover the true meaning of food and life. In a world chasing perfection, he finds greatness in simplicity. The Missing Master Chef — where every meal tells a story of heart, humility, and redemption",
+      "link": "/json/the-missing-master-chef-3-Hindi.json"
+    },
+    {
+      "id": "271326",
+      "title": "The Wife Behind the Empire",
+      "slug": "the-wife-behind-the-empire",
+      "language": "hindi",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 45,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/78953047-fae9-4fc9-9e1c-1b83d25625f2.png",
+      "description": "The Wife Behind the Empire tells the story of Janvi, a woman betrayed by her husband Veer and his family, who try to replace her with his ex, Soniya. But when Janvi reveals her hidden strength and true identity as the CEO of Acme Group, she shocks everyone, turning her heartbreak into power and reclaiming control over her life and destiny.",
+      "link": "/json/the-wife-behind-the-empire-Hindi.json"
+    },
+    {
+      "id": "274033",
+      "title": "Lady Nova",
+      "slug": "toxic-rich-baby",
+      "language": "hindi",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 42,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/93f55faa-2ee0-4cd0-925c-6a2018d661b0.png",
+      "description": "Toxic Rich Baby follows Ojal Mehra, a woman betrayed by her husband Arnav, mocked by his brother Rutvik, and humiliated by the powerful Ranjit and cunning Avani. But beneath her scars lies the secret identity of Lady Nova Vale a fearless warrior with power, dignity, and unbreakable spirit. With the loyal Jai by her side and the mysterious Vikram reentering her life, Ojal rises from heartbreak to reclaim her inheritance, her honor, and her destiny.",
+      "link": "/json/toxic-rich-baby-Hindi.json"
+    },
+    {
+      "id": "274912",
+      "title": "Ultimate Love",
+      "slug": "ultimate-love",
+      "language": "hindi",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 54,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/fd3d27dd-a158-49b2-a0fa-9d7239528120.png",
+      "description": "“Ultimate Love” is a passionate drama",
+      "link": "/json/ultimate-love-Hindi.json"
+    },
+    {
+      "id": "272410",
+      "title": "Wafa Aur Watan",
+      "slug": "wafa-aur-watan",
+      "language": "hindi",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 45,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/52949335-5402-4b50-90fe-fecc9d2184c1.png",
+      "description": "The show “Wafa Aur Watan” follows a fearless fighter who takes on overwhelming odds single-handedly, battling enemies with unmatched courage and strength. Packed with action and raw determination, it tells the story of a lone warrior who refuses to back down, no matter how impossible the fight.",
+      "link": "/json/wafa-aur-watan-Hindi.json"
+    },  
+    {
       "id": "274027",
       "title": "The Perfect Revenge",
       "slug": "badla-5",

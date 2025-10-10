@@ -4,6 +4,226 @@
 	  "title": "New Releases",
 	  "shows": [
     {
+      "id": "275331",
+      "title": "College, Romance Aur Dhokha",
+      "slug": "college-romance-aur-dhokha-1",
+      "language": "malayalam",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 45,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/b9a6ce11-6ab8-4f40-85f1-3f21c363c6ab.png",
+      "description": "College, Romance Aur Dhokha",
+      "link": "/json/college-romance-aur-dhokha-1-Malayalam.json"
+    },
+    {
+      "id": "275406",
+      "title": "Doctor vs Billionaire",
+      "slug": "doctor-vs-billionaire",
+      "language": "malayalam",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 42,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/0207cbc1-85d9-4636-94d7-bb7e7aa93958.png",
+      "description": "In a world of wealth, ego, and arrogance, little Aarya’s innocent prank spirals into a fight between life and death. While her heartbeat slips away in the hospital, the only doctor who can save her is trapped on the road, blackmailed, humiliated by a ruthless couple blinded by pride. As every second counts, shocking truths unfold, the child fighting for life may be their own daughter. Will redemption come in time… or will their cruelty cost them the one thing they can never replace? Watch Now!",
+      "link": "/json/doctor-vs-billionaire-Malayalam.json"
+    },
+    {
+      "id": "275329",
+      "title": "Final Bliss",
+      "slug": "final-bliss",
+      "language": "malayalam",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 51,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/c4253154-16d7-41d0-93e7-856e2e715322.png",
+      "description": "When a protective father becomes the target of his daughter’s matchmaking mission, love finds him in the most unexpected way.\r\nBut as a warm-hearted woman enters their lives, buried scars and a dangerous past resurface.\r\nThis is a heartfelt saga of family, resilience, and love tested against betrayal and fear.",
+      "link": "/json/final-bliss-Malayalam.json"
+    },
+    {
+      "id": "275338",
+      "title": "Homeless Billionaire",
+      "slug": "homeless-billionaire-1",
+      "language": "malayalam",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 46,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/ba641d83-ab8a-4bdb-bd2b-7bcbb67cd854.png",
+      "description": "A billionaire hiding as a beggar crosses paths with a simple girl bound by dreams, kindness, and fate.\r\nWhat begins as a contract marriage to fulfill a grandmother’s dying wish turns into a journey of love and betrayal.\r\nWill truth and destiny bring their hearts together—or tear them apart forever?",
+      "link": "/json/homeless-billionaire-1-Malayalam.json"
+    },
+    {
+      "id": "275183",
+      "title": "Love, Lies & Laughter",
+      "slug": "joru-ka-ghulam-1",
+      "language": "malayalam",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 63,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/3ab9802a-aca5-4b7f-999c-133c0571f6e9.png",
+      "description": "A hilarious tale of love, power, and submission inside a marriage where the rules are flipped.\r\nBetween family meddling, ego clashes, and laugh-out-loud twists, nothing is as it seems.\r\nLove, Lies & Laughter is a satirical roller-coaster of drama, betrayal, and comedy that hits home.",
+      "link": "/json/joru-ka-ghulam-1-Malayalam.json"
+    },
+    {
+      "id": "275219",
+      "title": "Meri Aashiqui Ab Tum Hi Ho",
+      "slug": "meri-aashiqui-ab-tum-hi-ho-1",
+      "language": "malayalam",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 45,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/d15449fa-f171-4124-855f-2c4e1305a7eb.png",
+      "description": "A love so deep, it dares to fight fate.\r\nWhen betrayal masks a hidden sacrifice, passion collides with tragedy in the most heartbreaking way.\r\nMeri Aashiqui Ab Tum Hi Ho is an unforgettable saga of eternal love, secrets, and destiny’s cruel twists.",
+      "link": "/json/meri-aashiqui-ab-tum-hi-ho-1-Malayalam.json"
+    },
+    {
+      "id": "275332",
+      "title": "Raja Rani: Secrets of the Beggar King",
+      "slug": "raja-rani-secrets-of-the-beggar-king-2",
+      "language": "malayalam",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 42,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/583bebc8-5682-47a7-b497-e39c650d30a5.png",
+      "description": "The beggar king found his bride… but the palace walls are closing in with lies, poison, and power. Who survives the final blow? Watch now!",
+      "link": "/json/raja-rani-secrets-of-the-beggar-king-2-Malayalam.json"
+    },
+    {
+      "id": "275335",
+      "title": "Secretary Rosie",
+      "slug": "secretary-rosie-3",
+      "language": "malayalam",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 45,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/64f8f42e-4f90-4264-a58c-cbb13a1ea61d.png",
+      "description": "She isn’t just a secretary—she’s temptation wrapped in cunning.\r\nWith every smile and every touch, she slowly poisons trust, turning love into a battlefield.\r\nHow far will she go—to claim his wealth, his empire, and even the wife’s place at his side?",
+      "link": "/json/secretary-rosie-3-Malayalam.json"
+    },
+    {
+      "id": "275119",
+      "title": "Still Waiting For Love",
+      "slug": "still-waiting-for-love-4",
+      "language": "malayalam",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 45,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/4ef8c498-9259-4736-abbb-3945e8bcaf2b.png",
+      "description": "He waited twenty years for his childhood love to return, holding on to the memory of one tragic day.\r\nShe moved on, weighed down by her own struggles, until fate brought them face-to-face again.\r\nFinding Us Again is a heart-touching tale of second chances, unfinished emotions, and love rediscovered—only on KUKU TV.",
+      "link": "/json/still-waiting-for-love-4-Malayalam.json"
+    },
+    {
+      "id": "275182",
+      "title": "The Mistaken Child",
+      "slug": "the-mistaken-child-4",
+      "language": "malayalam",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 45,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/11c71822-625b-4216-b88f-7e122736cb0e.png",
+      "description": "When a child vanishes without a trace, buried secrets erupt and lives are torn apart.\r\nEvery clue deepens the web of betrayal, love, and shocking revelations.\r\nThe Mistaken Child is a gripping mystery-thriller that keeps you guessing until the very end.",
+      "link": "/json/the-mistaken-child-4-Malayalam.json"
+    },
+    {
+      "id": "275327",
+      "title": "Ultimate Boxer",
+      "slug": "ultimate-boxer-3",
+      "language": "malayalam",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 45,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/2ec5df8b-8d9c-4616-880d-61341fc08eb0.png",
+      "description": "A boxing champion’s world collides with a struggling florist when fate traps them in a contract neither wanted.\r\nAs betrayal, humiliation, and hidden conspiracies rise, love sparks in the unlikeliest of places.\r\nBut when duty clashes with desire, the question remains—will sacrifice or survival win?",
+      "link": "/json/ultimate-boxer-3-Malayalam.json"
+    },	  
+    {
       "id": "275016",
       "title": "Billion Dollar Waiter",
       "slug": "billion-dollar-waiter-3",

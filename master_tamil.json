@@ -1,313 +1,308 @@
 {
   "sections": [  
     {
-      "title": "Top Shows",
-      "shows": [
-		{
-		  "id": "273703",
-		  "title": "Vishwaroopam : Father of 3 Bigshots",
-		  "slug": "moondru-natchathiram",
-		  "language": "tamil",
-		  "genre": {
-			"id": 80,
-			"title": "नाटक",
-			"slug": "drama_",
-			"uri": "app://app/genres/drama_",
-			"web_uri": "/genres/drama_"
-		  },
-		  "n_episodes": 47,
-		  "n_seasons": 1,
-		  "show_type": "reel",
-		  "is_adult_content": false,
-		  "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/066239d064dc41878b7b871aa8899ac1.png",
-		  "description": "For his father's birthday, Raghavan brought a box no one wanted to open. Inside it? A truth that shattered pride, price tags, and silence.",
-		  "link": "/json/Vishwaroopam _ Father of 3 Bigshots-Tamil.json"
-		},
-		{
-          "id": "273357",
-          "title": "The End of us",
-          "slug": "the-end-of-us-2",
-          "language": "tamil",
-          "genre": {
-            "id": 3,
-            "title": "प्यार",
-            "slug": "love",
-            "uri": "app://app/genres/love",
-            "web_uri": "/genres/love"
-          },
-          "n_episodes": 45,
-          "n_seasons": 1,
-          "show_type": "reel",
-          "is_adult_content": false,
-          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/d58956c1b5e94c169577e8c91dd6ab81.png",
-          "description": "\tWhen Dhruva has to end his 10 year marriage contract with his Wife Swapna, he has to end many things which had stopped him to be on his own, why did he get into this contract marriage in first place and what surprise awaits him for all the sacrifice he has done for the past 10 years.watch  \"The End of Us\" only on KUKU TV.",
-          "link": "/json/The End of us-Tamil.json"
-        },
-		{
-		  "id": "273699",
-		  "title": "Toxic Office",
-		  "slug": "veera-dheeran",
-		  "language": "tamil",
-		  "genre": {
-			"id": 80,
-			"title": "नाटक",
-			"slug": "drama_",
-			"uri": "app://app/genres/drama_",
-			"web_uri": "/genres/drama_"
-		  },
-		  "n_episodes": 41,
-		  "n_seasons": 1,
-		  "show_type": "reel",
-		  "is_adult_content": false,
-		  "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/2cf735d273214d328bfb517d34de6555.png",
-		  "description": "Mithran, A brilliant but underestimated tech genius faces betrayal from both his company and the woman he loves, leaving him framed and discarded. In the ruthless world of AI and corporate politics, he must outsmart powerful enemies to reclaim his place.",
-		  "link": "/json/Toxic Office-Tamil.json"
-		},
-        {
-          "id": "274180",
-          "title": "Billion Dollar Blunder",
-          "slug": "billion-dollar-blunder-1",
-          "language": "tamil",
-          "genre": {
-            "id": 80,
-            "title": "नाटक",
-            "slug": "drama_",
-            "uri": "app://app/genres/drama_",
-            "web_uri": "/genres/drama_"
-          },
-          "n_episodes": 45,
-          "n_seasons": 1,
-          "show_type": "reel",
-          "is_adult_content": false,
-          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/967daba1999f4c32bc4ea3d1cfb792bd.png",
-          "description": "A wealthy couple, Shalini and Mukesh Saxena, are mistaken for frauds during a resort getaway, triggering a storm of humiliation and cruelty by a power-hungry manager. But when the truth about their identity explodes, it sets off a dramatic reckoning proving that respect can’t be bought, and karma comes with interest. Watch Now!\r\n",
-          "link": "/json/Billion Dollar Blunder-Tamil.json"
-        },
-        {
-          "id": "271198",
-          "title": "My Crorepati Husband",
-          "slug": "my-crorepati-husband",
-          "language": "tamil",
-          "genre": {
-            "id": 116,
-            "title": "एंटरटेनमेंट",
-            "slug": "entertainment",
-            "uri": "app://app/genres/entertainment",
-            "web_uri": "/genres/entertainment"
-          },
-          "n_episodes": 72,
-          "n_seasons": 1,
-          "show_type": "reel",
-          "is_adult_content": false,
-          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/3fd527cd2a0f46d9b75f280b0b103ac6.jpeg",
-          "description": "Namma Hero Rich ilanu therinja udane avara divorce panna mudiva panra wife ku sema twist onnu wait pannitu iruku. My Crorepati Husband - Watch Now!",
-          "link": "/json/My Crorepati Husband-Tamil.json"
-        },
-        {
-          "id": "273697",
-          "title": "My Homeless Billionaire Husband",
-          "slug": "my-homeless-billionaire-husband-6",
-          "language": "tamil",
-          "genre": {
-            "id": 80,
-            "title": "नाटक",
-            "slug": "drama_",
-            "uri": "app://app/genres/drama_",
-            "web_uri": "/genres/drama_"
-          },
-          "n_episodes": 45,
-          "n_seasons": 1,
-          "show_type": "reel",
-          "is_adult_content": false,
-          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/e57f66c3e05643fdb475a66f1a9ddd65.png",
-          "description": "Amid Diwali’s chaos, Aditi meets Sameer, a quiet, mysterious man living on the streets. When her life spirals after a brutal betrayal, Sameer steps in with a shocking offer—one that feels both dangerous and inevitable. But behind his worn clothes lies a secret far bigger than she imagines. As their worlds collide, buried truths, hidden enemies, and a shadowed past begin to surface. In this high-stakes game, trust is a risk—and love might be the trap.",
-          "link": "/json/My Homeless Billionaire Husband-Tamil.json"
-        },
-        {
-          "id": "272531",
-          "title": "Ilamai Thirumbuthey",
-          "slug": "ilamai-thirumbuthey",
-          "language": "tamil",
-          "genre": {
-            "id": 80,
-            "title": "नाटक",
-            "slug": "drama_",
-            "uri": "app://app/genres/drama_",
-            "web_uri": "/genres/drama_"
-          },
-          "n_episodes": 43,
-          "n_seasons": 1,
-          "show_type": "reel",
-          "is_adult_content": false,
-          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/ed0db478210d4a759826b158929058c3.png",
-          "description": "Magala tholaicha oru amma vukkum, than magalukkaaga kalayanam panikura oru appavukkum idaiyila nadakura kaadhalum, emotions um dhaan - Ilamai thirumbuthey. Manasa thodura indha kadhaiya miss pannaama paarunga!",
-          "link": "/json/Ilamai Thirumbuthey-Tamil.json"
-        },
-        {
-          "id": "272272",
-          "title": "Nenjam Marappathillai",
-          "slug": "nenjam-marappathillai",
-          "language": "tamil",
-          "genre": {
-            "id": 80,
-            "title": "नाटक",
-            "slug": "drama_",
-            "uri": "app://app/genres/drama_",
-            "web_uri": "/genres/drama_"
-          },
-          "n_episodes": 43,
-          "n_seasons": 1,
-          "show_type": "reel",
-          "is_adult_content": false,
-          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/636ce551611a4474a2862e719fbdef7d.png",
-          "description": "Aksha arrives in the city from her village with her mother to stay with her sister Isha, but Isha, obsessed with status, refuses to acknowledge them as her own. Hiding her true identity, Aksha ends up becoming a rich heiress herself. An old pendant leads Aksha to her long-lost mother, Mrs. Patel. When an attack is made on her mother, secrets begin to unfold — a DNA test reveals the truth: Aksha is the real Shana Patel. Isha’s lies are exposed in front of the media, and Aksha reclaims her truth, her mother, and her dignity.",
-          "link": "/json/Nenjam Marappathillai-Tamil.json"
-        },
-        {
-          "id": "272530",
-          "title": "The Call Boy I Met in Chennai",
-          "slug": "the-call-boy-i-met-in-chennai",
-          "language": "tamil",
-          "genre": {
-            "id": 116,
-            "title": "एंटरटेनमेंट",
-            "slug": "entertainment",
-            "uri": "app://app/genres/entertainment",
-            "web_uri": "/genres/entertainment"
-          },
-          "n_episodes": 51,
-          "n_seasons": 1,
-          "show_type": "reel",
-          "is_adult_content": false,
-          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/74a5ad033ec34cdb9f51109266c15a1d.png",
-          "description": "Riya Srikanth’s life turns upside down after a one-night stand with Vishal Subramaniam, a man she believes is a call boy - leading to a fake marriage and unexpected emotions.",
-          "link": "/json/The Call Boy I Met in Chennai-Tamil.json"
-        },
-        {
-          "id": "273848",
-          "title": "Daughter of the secret tycoon",
-          "slug": "daughter-of-the-secret-tycoon-2",
-          "language": "tamil",
-          "genre": {
-            "id": 80,
-            "title": "नाटक",
-            "slug": "drama_",
-            "uri": "app://app/genres/drama_",
-            "web_uri": "/genres/drama_"
-          },
-          "n_episodes": 45,
-          "n_seasons": 1,
-          "show_type": "reel",
-          "is_adult_content": false,
-          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/051b6db1b02c41a3b66a66451409f9ae.png",
-          "description": "Ms.Rai  lived a quiet life—until a scandal forced her into the spotlight and the arms of powerful CEO Rishi. But when secrets about her true identity surface, everything changes. Daughter Of The Secret Tycoon is a tale of hidden legacies, unexpected romance, and a girl who went from overlooked to unstoppable. Watch Now!",
-          "link": "/json/Daughter of the secret tycoon-Tamil.json"
-        },
-		{
-		  "id": "273701",
-		  "title": "My Unknown Husband",
-		  "slug": "oru-kanavan-oru-kaadhalan",
-		  "language": "tamil",
-		  "genre": {
-			"id": 80,
-			"title": "नाटक",
-			"slug": "drama_",
-			"uri": "app://app/genres/drama_",
-			"web_uri": "/genres/drama_"
-		  },
-		  "n_episodes": 49,
-		  "n_seasons": 1,
-		  "show_type": "reel",
-		  "is_adult_content": false,
-		  "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/26f5754454f0458daa58a938b87f2b19.png",
-		  "description": "Kalyanam aana Meera, strict boss Karthik kitta PA’va velai paakura… oru pakkam avaloda divorce process nadaka, innoru pakkam boss mela pudhu feelings uruvaagudhu. Aana indha Karthik, neenga nenaikkura maadhiri boss mattum illa! Oru breezy romantic ride-ku ready-aa? Miss pannama paarunga!",
-		  "link": "/json/My Unknown Husband-Tamil.json"
-		},
-        {
-          "id": "272532",
-          "title": "My Toxic Kaadhali",
-          "slug": "my-toxic-kaadhali",
-          "language": "tamil",
-          "genre": {
-            "id": 80,
-            "title": "नाटक",
-            "slug": "drama_",
-            "uri": "app://app/genres/drama_",
-            "web_uri": "/genres/drama_"
-          },
-          "n_episodes": 46,
-          "n_seasons": 1,
-          "show_type": "reel",
-          "is_adult_content": false,
-          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/6180ab5fa1bb428e950bc5598ee22931.png",
-          "description": "Arjun, heir to a powerful business empire, falls for Divya, a glamorous social media influencer. But behind her charm lies obsession and a hunger for status. When his elegant and youthful-looking mother Mrs. Archana returns, Divya mistakes her for Arjun’s secret lover — and chaos begins.\r\nWhat starts as a love story turns into a fierce war between a possessive bride and a grieving mother. Lies are exposed, bonds are broken, and everything plays out under the ruthless spotlight of social media.\r\nIn a world where love turns toxic, who will win — the influencer chasing power, or the mother seeking justice?",
-          "link": "/json/My Toxic Kaadhali-Tamil.json"
-        },
-		{
-		  "id": "273137",
-		  "title": "The Man She Rejected ",
-		  "slug": "boss-is-my-lover",
-		  "language": "tamil",
-		  "genre": {
-			"id": 80,
-			"title": "नाटक",
-			"slug": "drama_",
-			"uri": "app://app/genres/drama_",
-			"web_uri": "/genres/drama_"
-		  },
-		  "n_episodes": 49,
-		  "n_seasons": 1,
-		  "show_type": "reel",
-		  "is_adult_content": false,
-		  "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/a1d896d4c7ad47eeb92fa3bc69104e67.png",
-		  "description": "Varun leaves the country for his studies and works day and night, sending money in secret to save his girlfriend Shreya’s startup. When he finally comes back, instead of love, she breaks up with him. The day she learns who Varun truly is, her pride cracks and her heart sinks. This is not just a love story, it is a clash of emotions where love turns into betrayal.\r\n\r\nWatch it now!",
-		  "link": "/json/The Man She Rejected-Tamil.json"
-		},
-		{
-          "id": "271196",
-          "title": "Mistaken Millionaire Husband",
-          "slug": "mistaken-millionaire-husband",
-          "language": "tamil",
-          "genre": {
-            "id": 116,
-            "title": "एंटरटेनमेंट",
-            "slug": "entertainment",
-            "uri": "app://app/genres/entertainment",
-            "web_uri": "/genres/entertainment"
-          },
-          "n_episodes": 70,
-          "n_seasons": 1,
-          "show_type": "reel",
-          "is_adult_content": false,
-          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/ca9d2f03362246d280d5f7df1ccbf5e0.jpeg",
-          "description": "Ms. Sriram oda boy friend Deepak senja betrayal ah vida Rohit Muralitharan oda love true aanathu. Intha Alagana love story ah paathu enjoy pannunga ",
-          "link": "/json/Mistaken Millionaire Husband-Tamil.json"
-        },		
-        {
-          "id": "271465",
-          "title": "The Final Boss",
-          "slug": "the-final-boss-2",
-          "language": "tamil",
-          "genre": {
-            "id": 80,
-            "title": "नाटक",
-            "slug": "drama_",
-            "uri": "app://app/genres/drama_",
-            "web_uri": "/genres/drama_"
-          },
-          "n_episodes": 45,
-          "n_seasons": 1,
-          "show_type": "reel",
-          "is_adult_content": false,
-          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/e461a14900d4490fad9804d6d78fddbe.png",
-          "description": "A secret Raja of the largest corporation and the richest man on Earth returns from the battlefield, only to be dumped by his childhood sweetheart, who thinks he's a clown. How will the King of all men make her regret it?",
-          "link": "/json/The Final Boss-Tamil.json"
-        }
-      ]
+  "title": "Updated Recently",
+  "shows": [
+    {
+      "id": "274864",
+      "title": "A Deal Signed in Love ",
+      "slug": "a-deal-signed-in-love-3",
+      "language": "tamil",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 45,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/34b376d7-6aaf-44d8-ad28-edfdcb827177.png",
+      "description": "Diya is not an ordinary girl. But her sister, wanting to keep her normal, ruined her marriage. For the sake of property, Diya made a big decision. What was it? Find out in \"A Deal Signed in Love\", only on your Kuku TV.",
+      "link": "/json/a-deal-signed-in-love-3-Tamil.json"
     },
     {
-  "title": "Updated Recently",
-  "shows": [ 
+      "id": "275190",
+      "title": "Battle of Billionaire ",
+      "slug": "battle-of-billionaire",
+      "language": "tamil",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 63,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/3d5562ec-33fb-4ccd-9506-08db801ca8b8.png",
+      "description": "Paarth Singh is the new MD of Singh Group but he has hidden his identity from everyone, even from his wife and in-laws. He visits them for his father in-law’s birthday celebration where they demean and insult him. Will he finally reveal his true identity during this crisis? Watch Now !",
+      "link": "/json/battle-of-billionaire-Tamil.json"
+    },
+    {
+      "id": "275243",
+      "title": "Beggar Billionaire",
+      "slug": "beggar-billionaire",
+      "language": "tamil",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 46,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/833a784a-d8b3-411a-9815-e27d5c47bb88.png",
+      "description": "Armaan Raheja, a billionaire disguised as a beggar, and Kashish, a kind-hearted girl with simple dreams, find themselves bound by fate, lies, and love. What starts as a contract marriage to fulfill a grandmother’s last wish soon turns into an emotional journey where truth, betrayal, and destiny test their hearts. Watch Now!",
+      "link": "/json/beggar-billionaire-Tamil.json"
+    },
+    {
+      "id": "274480",
+      "title": "Raja Rani: Secrets of the Beggar King",
+      "slug": "beggar-emperor",
+      "language": "tamil",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 42,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/c0bbf2d3-05dc-42f6-bc69-565264682e6b.png",
+      "description": "The beggar king found his bride… but the palace walls are closing in with lies, poison, and power. Who survives the final blow? Watch now!",
+      "link": "/json/beggar-emperor-Tamil.json"
+    },
+    {
+      "id": "275216",
+      "title": "Cursed by Love ",
+      "slug": "cursed-by-love-4",
+      "language": "tamil",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 45,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/154ba691-2573-4261-81cb-24503fc62a4c.png",
+      "description": "Vaishnavi, a devoted woman, faces heartbreak when her husband betrays and abandons her. But beneath her sorrow lies a shocking truth she is a wealthy heir and a genius ready to reclaim her power. As she rises from humiliation, fate brings her to Vikranth Desai, a commanding CEO who treats her with unmatched devotion. Unlike her cruel past, he showers her with love and respect, standing by her side as she exposes enemies and seeks justice.",
+      "link": "/json/cursed-by-love-4-Tamil.json"
+    },
+    {
+      "id": "275267",
+      "title": "Doctor Vs Billionaires",
+      "slug": "doctor-vs-billionaires",
+      "language": "tamil",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 42,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/d3b21b67-ad3d-4c60-becc-c7dce16c3e60.png",
+      "description": "In a world of wealth, ego, and arrogance, little Aarya’s innocent prank spirals into a fight between life and death. While her heartbeat slips away in the hospital, the only doctor who can save her is trapped on the road, blackmailed, humiliated by a ruthless couple blinded by pride. As every second counts, shocking truths unfold, the child fighting for life may be their own daughter. Will redemption come in time… or will their cruelty cost them the one thing they can never replace? Watch Now!",
+      "link": "/json/doctor-vs-billionaires-Tamil.json"
+    },
+    {
+      "id": "275420",
+      "title": "Eternal Love",
+      "slug": "eternal-love-4",
+      "language": "tamil",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 76,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/8ada8bbe-1cd5-4303-bf79-0ccffa690c9d.jpg",
+      "description": "Wealthy businessman Vikram escapes his daughter’s matchmaking by lying he’s married. Avni, also pretending for family pressure, crosses paths with him while seeking a fake marriage certificate. They agree to a no-strings union, unaware fate has other plans. After an accident, Avni reenters Vikram’s life as his office cleaner. Forced to pose as his wife, love grows amid secrets and chaos. When they move to divorce, they discover they had been truly married all along.",
+      "link": "/json/eternal-love-4-Tamil.json"
+    },
+    {
+      "id": "275353",
+      "title": "Final Bliss",
+      "slug": "final-bliss-3",
+      "language": "tamil",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 51,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/3ed1d467-1cc2-467e-b94d-49fb2ac6f928.png",
+      "description": "When billionaire industrialist Hardeep Singh Oberoi tries to shield his daughter Mahima from heartbreak, she launches “Mission Daddy Ki Dulhan” to find him a bride. Fate brings them to the warm-hearted Srikavita Nair, whose simple values clash yet connect with Hardeep’s guarded world. But as secrets of Srikavita’s past and her abusive ex-husband Rajeev Menon surface, relationships are tested, identities are shaken, and love, trust, and family bonds must stand the ultimate test. Watch Now!",
+      "link": "/json/final-bliss-3-Tamil.json"
+    },
+    {
+      "id": "275253",
+      "title": "Secretary Rosie",
+      "slug": "secretary-rosie-1",
+      "language": "tamil",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 45,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/370fc900-f4f1-425e-b022-78f0dbe55256.png",
+      "description": "அவள் சாதாரண Secretary இல்லை – பட்டு போர்வையில் மறைந்த கவர்ச்சி.\r\nஅலுவலகக் கூட்டங்களை ஆசையின் போர்க்களமாக்கினாள்.\r\nமனைவியின் இடத்தையும், அவனின் பேரரசையும் கைப்பற்ற திட்டமிட்டாள்.\r\nஅவள் எவ்வளவு தூரம் செல்வாள்? 🔥👑",
+      "link": "/json/secretary-rosie-1-Tamil.json"
+    },
+    {
+      "id": "275210",
+      "title": "Thavam vs Temptation",
+      "slug": "thavam-vs-temptation",
+      "language": "tamil",
+      "genre": {
+        "id": 3,
+        "title": "प्यार",
+        "slug": "love",
+        "uri": "app://app/genres/love",
+        "web_uri": "/genres/love"
+      },
+      "n_episodes": 36,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/b68cc9c7-a6af-4f6d-8318-cde282573699.png",
+      "description": "Vihaan, the billionaire heir who has turned away from wealth and desire, wants to embrace sanyas. His powerful family, desperate to bring him back on the path of business and legacy, brings Rhea into his life - a desirable and clever woman tasked with seducing him. As Vihaan struggles between tapasya and temptation, Rhea finds herself caught in the mansion’s web of conspiracies and hidden desires. Will Vihaan hold on to his vow of restraint, or will temptation claim him forever?",
+      "link": "/json/thavam-vs-temptation-Tamil.json"
+    },
+    {
+      "id": "274448",
+      "title": "Happy Ending?",
+      "slug": "the-broken-promise",
+      "language": "tamil",
+      "genre": {
+        "id": 116,
+        "title": "एंटरटेनमेंट",
+        "slug": "entertainment",
+        "uri": "app://app/genres/entertainment",
+        "web_uri": "/genres/entertainment"
+      },
+      "n_episodes": 46,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/4b87f037-0144-4f88-a449-936abd0c7602.png",
+      "description": "Happy Ending?",
+      "link": "/json/the-broken-promise-Tamil.json"
+    },
+    {
+      "id": "275398",
+      "title": "The Missing Master Chef",
+      "slug": "the-missing-master-chef-2",
+      "language": "tamil",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 65,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/0c93c86c-f6d1-46e5-a3d3-caf4944e3141.png",
+      "description": "A fallen culinary legend walks away from fame to rediscover the true meaning of food and life. In a world chasing perfection, he finds greatness in simplicity. The Missing Master Chef — where every meal tells a story of heart, humility, and redemption.",
+      "link": "/json/the-missing-master-chef-2-Tamil.json"
+    },
+    {
+      "id": "275143",
+      "title": "The Mistaken Child",
+      "slug": "the-mistaken-child-3",
+      "language": "tamil",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 45,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/66625c00-e74b-4a94-8352-95f7e802a055.png",
+      "description": "When a child goes missing, secrets unravel and lives collide. The Mistaken Child is a gripping tale of love, betrayal, and the desperate search for truth. Every moment pulls you deeper into the mystery. Watch Now !",
+      "link": "/json/the-mistaken-child-3-Tamil.json"
+    },
+    {
+      "id": "274449",
+      "title": "Thani Oruvan - Greatest of All Time",
+      "slug": "throne-of-the-end-game",
+      "language": "tamil",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 41,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/157ef6a0-7125-482a-a336-8e08e949b838.png",
+      "description": "Intha naatula 90% wealth intha oru CEO kitta thaan irukku. Appadi patta namma hero yaarunu theriyama avara oru kootam asinga paduthuthu. Aduthu varra twist ah therinjuka full show va paarunga.",
+      "link": "/json/throne-of-the-end-game-Tamil.json"
+    },
+    {
+      "id": "275399",
+      "title": "Ultimate Boxer",
+      "slug": "ultimate-boxer-4",
+      "language": "tamil",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 45,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/f936123d-203e-40ad-ae4c-52c662a70243.png",
+      "description": "A boxing champion’s world collides with a struggling florist when fate traps them in a contract neither wanted.\r\nAs betrayal, humiliation, and hidden conspiracies rise, love sparks in the unlikeliest of places.\r\nBut when duty clashes with desire, the question remains—will sacrifice or survival win?",
+      "link": "/json/ultimate-boxer-4-Tamil.json"
+    },  
     {
       "id": "273974",
       "title": "Mafia's Innocent Bride",
@@ -1810,6 +1805,311 @@
         }
       ]
     },
+    {
+      "title": "Top Shows",
+      "shows": [
+		{
+		  "id": "273703",
+		  "title": "Vishwaroopam : Father of 3 Bigshots",
+		  "slug": "moondru-natchathiram",
+		  "language": "tamil",
+		  "genre": {
+			"id": 80,
+			"title": "नाटक",
+			"slug": "drama_",
+			"uri": "app://app/genres/drama_",
+			"web_uri": "/genres/drama_"
+		  },
+		  "n_episodes": 47,
+		  "n_seasons": 1,
+		  "show_type": "reel",
+		  "is_adult_content": false,
+		  "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/066239d064dc41878b7b871aa8899ac1.png",
+		  "description": "For his father's birthday, Raghavan brought a box no one wanted to open. Inside it? A truth that shattered pride, price tags, and silence.",
+		  "link": "/json/Vishwaroopam _ Father of 3 Bigshots-Tamil.json"
+		},
+		{
+          "id": "273357",
+          "title": "The End of us",
+          "slug": "the-end-of-us-2",
+          "language": "tamil",
+          "genre": {
+            "id": 3,
+            "title": "प्यार",
+            "slug": "love",
+            "uri": "app://app/genres/love",
+            "web_uri": "/genres/love"
+          },
+          "n_episodes": 45,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/d58956c1b5e94c169577e8c91dd6ab81.png",
+          "description": "\tWhen Dhruva has to end his 10 year marriage contract with his Wife Swapna, he has to end many things which had stopped him to be on his own, why did he get into this contract marriage in first place and what surprise awaits him for all the sacrifice he has done for the past 10 years.watch  \"The End of Us\" only on KUKU TV.",
+          "link": "/json/The End of us-Tamil.json"
+        },
+		{
+		  "id": "273699",
+		  "title": "Toxic Office",
+		  "slug": "veera-dheeran",
+		  "language": "tamil",
+		  "genre": {
+			"id": 80,
+			"title": "नाटक",
+			"slug": "drama_",
+			"uri": "app://app/genres/drama_",
+			"web_uri": "/genres/drama_"
+		  },
+		  "n_episodes": 41,
+		  "n_seasons": 1,
+		  "show_type": "reel",
+		  "is_adult_content": false,
+		  "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/2cf735d273214d328bfb517d34de6555.png",
+		  "description": "Mithran, A brilliant but underestimated tech genius faces betrayal from both his company and the woman he loves, leaving him framed and discarded. In the ruthless world of AI and corporate politics, he must outsmart powerful enemies to reclaim his place.",
+		  "link": "/json/Toxic Office-Tamil.json"
+		},
+        {
+          "id": "274180",
+          "title": "Billion Dollar Blunder",
+          "slug": "billion-dollar-blunder-1",
+          "language": "tamil",
+          "genre": {
+            "id": 80,
+            "title": "नाटक",
+            "slug": "drama_",
+            "uri": "app://app/genres/drama_",
+            "web_uri": "/genres/drama_"
+          },
+          "n_episodes": 45,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/967daba1999f4c32bc4ea3d1cfb792bd.png",
+          "description": "A wealthy couple, Shalini and Mukesh Saxena, are mistaken for frauds during a resort getaway, triggering a storm of humiliation and cruelty by a power-hungry manager. But when the truth about their identity explodes, it sets off a dramatic reckoning proving that respect can’t be bought, and karma comes with interest. Watch Now!\r\n",
+          "link": "/json/Billion Dollar Blunder-Tamil.json"
+        },
+        {
+          "id": "271198",
+          "title": "My Crorepati Husband",
+          "slug": "my-crorepati-husband",
+          "language": "tamil",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 72,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/3fd527cd2a0f46d9b75f280b0b103ac6.jpeg",
+          "description": "Namma Hero Rich ilanu therinja udane avara divorce panna mudiva panra wife ku sema twist onnu wait pannitu iruku. My Crorepati Husband - Watch Now!",
+          "link": "/json/My Crorepati Husband-Tamil.json"
+        },
+        {
+          "id": "273697",
+          "title": "My Homeless Billionaire Husband",
+          "slug": "my-homeless-billionaire-husband-6",
+          "language": "tamil",
+          "genre": {
+            "id": 80,
+            "title": "नाटक",
+            "slug": "drama_",
+            "uri": "app://app/genres/drama_",
+            "web_uri": "/genres/drama_"
+          },
+          "n_episodes": 45,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/e57f66c3e05643fdb475a66f1a9ddd65.png",
+          "description": "Amid Diwali’s chaos, Aditi meets Sameer, a quiet, mysterious man living on the streets. When her life spirals after a brutal betrayal, Sameer steps in with a shocking offer—one that feels both dangerous and inevitable. But behind his worn clothes lies a secret far bigger than she imagines. As their worlds collide, buried truths, hidden enemies, and a shadowed past begin to surface. In this high-stakes game, trust is a risk—and love might be the trap.",
+          "link": "/json/My Homeless Billionaire Husband-Tamil.json"
+        },
+        {
+          "id": "272531",
+          "title": "Ilamai Thirumbuthey",
+          "slug": "ilamai-thirumbuthey",
+          "language": "tamil",
+          "genre": {
+            "id": 80,
+            "title": "नाटक",
+            "slug": "drama_",
+            "uri": "app://app/genres/drama_",
+            "web_uri": "/genres/drama_"
+          },
+          "n_episodes": 43,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/ed0db478210d4a759826b158929058c3.png",
+          "description": "Magala tholaicha oru amma vukkum, than magalukkaaga kalayanam panikura oru appavukkum idaiyila nadakura kaadhalum, emotions um dhaan - Ilamai thirumbuthey. Manasa thodura indha kadhaiya miss pannaama paarunga!",
+          "link": "/json/Ilamai Thirumbuthey-Tamil.json"
+        },
+        {
+          "id": "272272",
+          "title": "Nenjam Marappathillai",
+          "slug": "nenjam-marappathillai",
+          "language": "tamil",
+          "genre": {
+            "id": 80,
+            "title": "नाटक",
+            "slug": "drama_",
+            "uri": "app://app/genres/drama_",
+            "web_uri": "/genres/drama_"
+          },
+          "n_episodes": 43,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/636ce551611a4474a2862e719fbdef7d.png",
+          "description": "Aksha arrives in the city from her village with her mother to stay with her sister Isha, but Isha, obsessed with status, refuses to acknowledge them as her own. Hiding her true identity, Aksha ends up becoming a rich heiress herself. An old pendant leads Aksha to her long-lost mother, Mrs. Patel. When an attack is made on her mother, secrets begin to unfold — a DNA test reveals the truth: Aksha is the real Shana Patel. Isha’s lies are exposed in front of the media, and Aksha reclaims her truth, her mother, and her dignity.",
+          "link": "/json/Nenjam Marappathillai-Tamil.json"
+        },
+        {
+          "id": "272530",
+          "title": "The Call Boy I Met in Chennai",
+          "slug": "the-call-boy-i-met-in-chennai",
+          "language": "tamil",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 51,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/74a5ad033ec34cdb9f51109266c15a1d.png",
+          "description": "Riya Srikanth’s life turns upside down after a one-night stand with Vishal Subramaniam, a man she believes is a call boy - leading to a fake marriage and unexpected emotions.",
+          "link": "/json/The Call Boy I Met in Chennai-Tamil.json"
+        },
+        {
+          "id": "273848",
+          "title": "Daughter of the secret tycoon",
+          "slug": "daughter-of-the-secret-tycoon-2",
+          "language": "tamil",
+          "genre": {
+            "id": 80,
+            "title": "नाटक",
+            "slug": "drama_",
+            "uri": "app://app/genres/drama_",
+            "web_uri": "/genres/drama_"
+          },
+          "n_episodes": 45,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/051b6db1b02c41a3b66a66451409f9ae.png",
+          "description": "Ms.Rai  lived a quiet life—until a scandal forced her into the spotlight and the arms of powerful CEO Rishi. But when secrets about her true identity surface, everything changes. Daughter Of The Secret Tycoon is a tale of hidden legacies, unexpected romance, and a girl who went from overlooked to unstoppable. Watch Now!",
+          "link": "/json/Daughter of the secret tycoon-Tamil.json"
+        },
+		{
+		  "id": "273701",
+		  "title": "My Unknown Husband",
+		  "slug": "oru-kanavan-oru-kaadhalan",
+		  "language": "tamil",
+		  "genre": {
+			"id": 80,
+			"title": "नाटक",
+			"slug": "drama_",
+			"uri": "app://app/genres/drama_",
+			"web_uri": "/genres/drama_"
+		  },
+		  "n_episodes": 49,
+		  "n_seasons": 1,
+		  "show_type": "reel",
+		  "is_adult_content": false,
+		  "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/26f5754454f0458daa58a938b87f2b19.png",
+		  "description": "Kalyanam aana Meera, strict boss Karthik kitta PA’va velai paakura… oru pakkam avaloda divorce process nadaka, innoru pakkam boss mela pudhu feelings uruvaagudhu. Aana indha Karthik, neenga nenaikkura maadhiri boss mattum illa! Oru breezy romantic ride-ku ready-aa? Miss pannama paarunga!",
+		  "link": "/json/My Unknown Husband-Tamil.json"
+		},
+        {
+          "id": "272532",
+          "title": "My Toxic Kaadhali",
+          "slug": "my-toxic-kaadhali",
+          "language": "tamil",
+          "genre": {
+            "id": 80,
+            "title": "नाटक",
+            "slug": "drama_",
+            "uri": "app://app/genres/drama_",
+            "web_uri": "/genres/drama_"
+          },
+          "n_episodes": 46,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/6180ab5fa1bb428e950bc5598ee22931.png",
+          "description": "Arjun, heir to a powerful business empire, falls for Divya, a glamorous social media influencer. But behind her charm lies obsession and a hunger for status. When his elegant and youthful-looking mother Mrs. Archana returns, Divya mistakes her for Arjun’s secret lover — and chaos begins.\r\nWhat starts as a love story turns into a fierce war between a possessive bride and a grieving mother. Lies are exposed, bonds are broken, and everything plays out under the ruthless spotlight of social media.\r\nIn a world where love turns toxic, who will win — the influencer chasing power, or the mother seeking justice?",
+          "link": "/json/My Toxic Kaadhali-Tamil.json"
+        },
+		{
+		  "id": "273137",
+		  "title": "The Man She Rejected ",
+		  "slug": "boss-is-my-lover",
+		  "language": "tamil",
+		  "genre": {
+			"id": 80,
+			"title": "नाटक",
+			"slug": "drama_",
+			"uri": "app://app/genres/drama_",
+			"web_uri": "/genres/drama_"
+		  },
+		  "n_episodes": 49,
+		  "n_seasons": 1,
+		  "show_type": "reel",
+		  "is_adult_content": false,
+		  "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/a1d896d4c7ad47eeb92fa3bc69104e67.png",
+		  "description": "Varun leaves the country for his studies and works day and night, sending money in secret to save his girlfriend Shreya’s startup. When he finally comes back, instead of love, she breaks up with him. The day she learns who Varun truly is, her pride cracks and her heart sinks. This is not just a love story, it is a clash of emotions where love turns into betrayal.\r\n\r\nWatch it now!",
+		  "link": "/json/The Man She Rejected-Tamil.json"
+		},
+		{
+          "id": "271196",
+          "title": "Mistaken Millionaire Husband",
+          "slug": "mistaken-millionaire-husband",
+          "language": "tamil",
+          "genre": {
+            "id": 116,
+            "title": "एंटरटेनमेंट",
+            "slug": "entertainment",
+            "uri": "app://app/genres/entertainment",
+            "web_uri": "/genres/entertainment"
+          },
+          "n_episodes": 70,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/ca9d2f03362246d280d5f7df1ccbf5e0.jpeg",
+          "description": "Ms. Sriram oda boy friend Deepak senja betrayal ah vida Rohit Muralitharan oda love true aanathu. Intha Alagana love story ah paathu enjoy pannunga ",
+          "link": "/json/Mistaken Millionaire Husband-Tamil.json"
+        },		
+        {
+          "id": "271465",
+          "title": "The Final Boss",
+          "slug": "the-final-boss-2",
+          "language": "tamil",
+          "genre": {
+            "id": 80,
+            "title": "नाटक",
+            "slug": "drama_",
+            "uri": "app://app/genres/drama_",
+            "web_uri": "/genres/drama_"
+          },
+          "n_episodes": 45,
+          "n_seasons": 1,
+          "show_type": "reel",
+          "is_adult_content": false,
+          "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/e461a14900d4490fad9804d6d78fddbe.png",
+          "description": "A secret Raja of the largest corporation and the richest man on Earth returns from the battlefield, only to be dumped by his childhood sweetheart, who thinks he's a clown. How will the King of all men make her regret it?",
+          "link": "/json/The Final Boss-Tamil.json"
+        }
+      ]
+    },	
     {
       "title": "Newly & Hot",
       "shows": [

@@ -4,6 +4,26 @@
 	"title": "New Releases",
   "shows": [
     {
+      "id": "275222",
+      "title": "Tapasya vs Temptation",
+      "slug": "tapasya-vs-temptation-2",
+      "language": "bengali",
+      "genre": {
+        "id": 116,
+        "title": "एंटरटेनमेंट",
+        "slug": "entertainment",
+        "uri": "app://app/genres/entertainment",
+        "web_uri": "/genres/entertainment"
+      },
+      "n_episodes": 36,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/58942a3a-59f4-4f6c-850f-d8d80d82f610.png",
+      "description": "বিহান – এক ধনকুবের পরিবারের উত্তরাধিকারী। জন্মসূত্রে সব কিছু হাতে পেলেও সে সম্পদ আর ভোগলালসা থেকে মুখ ফিরিয়ে নিয়েছে। এখন তার একমাত্র আকাঙ্ক্ষা সন্ন্যাস গ্রহণ, তপস্যায় ডুবে থাকা।\r\nকিন্তু প্রভাবশালী পরিবার সহজে তাকে ছাড়তে রাজি নয়। উত্তরাধিকারীকে ফিরিয়ে আনতে তারা রিয়া-কে আনে—অভিজাত সৌন্দর্য ও বুদ্ধিমত্তায় ভরা এক নারী, যার গোপন দায়িত্ব বিহানকে প্রলুব্ধ করে ভোগজগতের পথে টেনে আনা।",
+      "link": "/json/tapasya-vs-temptation-2-Bengali.json"
+    },  
+    {
       "id": "274730",
       "title": "BABY ONBOARD",
       "slug": "baby-onboard",

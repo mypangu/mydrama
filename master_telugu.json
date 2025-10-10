@@ -1,32 +1,32 @@
 {
   "sections": [
-    {
-      "title": "Top Shows",
+  {
+      "title": "Updated Recently",
       "shows": [
     {
-      "id": "273836",
-      "title": "My Crorepati Husband",
-      "slug": "my-crorepati-husband-2",
+      "id": "275177",
+      "title": "Chakravarthy",
+      "slug": "chakravarthy",
       "language": "telugu",
       "genre": {
-        "id": 116,
-        "title": "एंटरटेनमेंट",
-        "slug": "entertainment",
-        "uri": "app://app/genres/entertainment",
-        "web_uri": "/genres/entertainment"
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
       },
-      "n_episodes": 72,
+      "n_episodes": 63,
       "n_seasons": 1,
       "show_type": "reel",
       "is_adult_content": false,
-      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/f20c814db6804969801a479b98ea4259.jpeg",
-      "description": "\"మన హీరో ధనవంతుడు కాదని తెలిసిన వెంటనే భార్య విడాకులు తీసుకోవాలని నిర్ణయిస్తుంది. కానీ ఆమె కోసం ఒక శాక్ ఇచ్చే ట్విస్ట్ వేచి ఉంది. My Crorepati Husband - ఇప్పుడే చూడండి!\"",
-      "link": "/json/My Crorepati Husband-Telugu.json"
-    },	  
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/d3550dc1-36df-4981-9dd4-1a0b4c75f5de.jpg",
+      "description": "పార్థ్ సింగ్, సింగ్ గ్రూప్‌కి కొత్త మేనేజింగ్ డైరెక్టర్. కానీ తన అసలు వ్యక్తిత్వాన్ని అందరి నుండి దాచిపెట్టాడు – తన భార్యకు, అత్తమామలకే కాదు. తన మామగారి పుట్టినరోజు వేడుకకు వెళ్లినప్పుడు, వారు అతన్ని తక్కువ చేసి అవమానిస్తారు. ఈ సంక్షోభ సమయంలో అతను తన అసలు వ్యక్తిత్వాన్ని బయటపెడతాడా? చూడండి ఇప్పుడే!",
+      "link": "/json/chakravarthy-Telugu.json"
+    },
     {
-      "id": "274106",
-      "title": "Billion Dollar Blunder",
-      "slug": "power-couple-tho-aatala",
+      "id": "275396",
+      "title": "College Romance Aur Dhoka",
+      "slug": "college-romance-aur-dhoka",
       "language": "telugu",
       "genre": {
         "id": 80,
@@ -39,14 +39,14 @@
       "n_seasons": 1,
       "show_type": "reel",
       "is_adult_content": false,
-      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/202ae5004dc44195ac330c7e0be9e390.png",
-      "description": "ఒక ధనవంతుల జంటను రిసార్ట్‌లో మోసగాళ్లుగా తప్పుడు అనుమానంతో చూడటం ప్రారంభమవుతుంది.\r\nఅధికారం కోసం వాడుకుంటున్న మేనేజర్ వాళ్లను అవమానించగా, నిజం వెలుగులోకి రాగానే ఘాటైన ప్రతీకారం ప్రారంభమవుతుంది.\r\nగౌరవం కొనలేని విషయం, ఖర్మ వడ్డీతో తిరిగి వస్తుందని చెప్పే కథ… వెంటనే చూడండి!",
-      "link": "/json/Billion Dollar Blunder-Telugu.json"
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/0c5e4208-6588-4000-9bba-c91b600abd42.png",
+      "description": "College Romance",
+      "link": "/json/college-romance-aur-dhoka-Telugu.json"
     },
     {
-      "id": "274526",
-      "title": "Vishwaroopam: Father of 3 bigshots",
-      "slug": "vishwaroopam-father-of-3-bigshots",
+      "id": "275394",
+      "title": "Doctor Vs Billionaires",
+      "slug": "doctor-vs-billionaires-1",
       "language": "telugu",
       "genre": {
         "id": 80,
@@ -55,18 +55,18 @@
         "uri": "app://app/genres/drama_",
         "web_uri": "/genres/drama_"
       },
-      "n_episodes": 47,
+      "n_episodes": 42,
       "n_seasons": 1,
       "show_type": "reel",
       "is_adult_content": false,
-      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/608ae59bace34c239e4068392d655b1a.png",
-      "description": "For his father's birthday, Raghavan brought a box no one wanted to open. Inside it? A truth that shattered pride, price tags, and silence.",
-      "link": "/json/Vishwaroopam_ Father of 3 bigshots-Telugu.json"
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/605e814f-67bc-4f94-bc0c-cba89c291d93.png",
+      "description": "సంపద, అహంకారం, అహంభావం నిండిన ప్రపంచంలో — చిన్నారి ఆర్య చేసిన ఓ అమాయకపు చిలిపితనం, ప్రాణపణంగా మారింది.\r\nఆమె గుండె మోగింపు ఆసుపత్రిలో నెమ్మదిగా ఆగిపోతుండగా, ఆమె ప్రాణాన్ని కాపాడగల ఏకైక వైద్యుడు రోడ్డుపై చిక్కుకున్నాడు — ఒక దంపతుల చేతిలో అవమానానికి, బ్లాక్‌మెయిల్‌కు బలి అయ్యాడు.\r\nప్రతి క్షణం విలువైన ఈ పోరాటంలో, భయంకరమైన నిజాలు బయటపడతాయి — ప్రాణం కోసం తపిస్తున్న ఆ బిడ్డ, వారికే పుట్టిన పిల్ల అయి ఉండవచ్చు!\r\nపశ్చాత్తాపానికి సమయం దొరుకుతుందా…? ",
+      "link": "/json/doctor-vs-billionaires-1-Telugu.json"
     },
     {
-      "id": "273154",
-      "title": "Kubeerudu",
-      "slug": "my-homeless-billionaire-husband-1",
+      "id": "275397",
+      "title": "Eternal Love",
+      "slug": "eternal-love-2",
       "language": "telugu",
       "genre": {
         "id": 80,
@@ -75,138 +75,18 @@
         "uri": "app://app/genres/drama_",
         "web_uri": "/genres/drama_"
       },
-      "n_episodes": 46,
+      "n_episodes": 76,
       "n_seasons": 1,
       "show_type": "reel",
       "is_adult_content": false,
-      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/189cf05606df4b5283080cf663f71f1b.png",
-      "description": "Disguised as a beggar, he lives a life of exile, determined to uncover the true culprit behind his father’s murder.\r\nOn this path, he meets a kind and gentle woman, and love begins to blossom.\r\nBut will this love bring him closer to the truth… or push him deeper into danger?",
-      "link": "/json/Kubeerudu-Telugu.json"
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/b2eff9e6-7667-45f5-8183-d077c2fa60b3.jpg",
+      "description": "తనకు రెండో పెళ్ళి అయ్యిందని, మీ పిన్ని తొందర్లో ఇంటికి వస్తుందని కూతురుకు అబద్ధం చెబుతాడు తండ్రి విక్రం రాథోడ్. మరోవైపు అవని కూడా తనకు పెళ్ళయిపోయిందని జనాలను నమ్మించాలని చూస్తుంది. ఒకానొక సమయంలో అవని, విక్రం ఒకరొకొకరు ఎదురుపడతారు. తర్వాత ఎం జరిగింది?",
+      "link": "/json/eternal-love-2-Telugu.json"
     },
     {
-      "id": "273639",
-      "title": "My Homeless Billionaire Husband",
-      "slug": "my-homeless-billionaire-husband-2",
-      "language": "telugu",
-      "genre": {
-        "id": 116,
-        "title": "एंटरटेनमेंट",
-        "slug": "entertainment",
-        "uri": "app://app/genres/entertainment",
-        "web_uri": "/genres/entertainment"
-      },
-      "n_episodes": 45,
-      "n_seasons": 1,
-      "show_type": "reel",
-      "is_adult_content": false,
-      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/2161cf10393143b3916eef7a78f7d88d.png",
-      "description": "దీపావళి సందడిలో అదితి ఓ విచిత్ర వ్యక్తిని కలుస్తుంది – అతని పేరు సమీర్. అతను వీధుల్లో జీవిస్తున్నాడు, చుట్టూ మౌనంగా తిరుగుతున్నాడు. అనుకోని ద్రోహం తరువాత, అదితి జీవితం అల్లకల్లోలమవుతుంది. ఆ సమయంలో సమీర్ ఒక ఆశ్చర్యకరమైన, ఏదో ప్రమాదకరమైన ఆఫర్‌తో ఆమెను ఆశ్చర్యపరుస్తాడు.\r\n\r\nఅయితే, సమీర్ అసలు ఎవరు? అతని చొక్కాల వెనక ఏ రహస్యాలు దాగున్నాయి? వీరి జీవితాలు కలిసినప్పుడు, పాత నిజాలు బయటపడతాయి. నిజంగా ప్రేమ నమ్మదగినదేనా, లేక అది ఒక మోసం అవుతుందా?",
-      "link": "/json/My Homeless Billionaire Husband-Telugu.json"
-    },
-    {
-      "id": "274293",
-      "title": "Love Refresh",
-      "slug": "36-1",
-      "language": "telugu",
-      "genre": {
-        "id": 80,
-        "title": "नाटक",
-        "slug": "drama_",
-        "uri": "app://app/genres/drama_",
-        "web_uri": "/genres/drama_"
-      },
-      "n_episodes": 43,
-      "n_seasons": 1,
-      "show_type": "reel",
-      "is_adult_content": false,
-      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/18c4e128ee0747cda248eaadee1aed65.png",
-      "description": "కూతురిని కోల్పోయిన ఒక తల్లికీ, తన కూతురి కోసం పెళ్లి చేసుకుంటున్న ఒక తండ్రికీ మధ్య జరిగే ప్రేమ, భావోద్వేగాల కథే – Love Refresh. మనసుకు హత్తుకునే ఈ కథను తప్పకుండా చూడండి!\r\n",
-      "link": "/json/Love Refresh-Telugu.json"
-    },
-    {
-      "id": "268870",
-      "title": " Crowned in Love - The mother of three big shots",
-      "slug": "crowned-in-love-the-mother-of-three-big-shots",
-      "language": "telugu",
-      "genre": {
-        "id": 80,
-        "title": "नाटक",
-        "slug": "drama_",
-        "uri": "app://app/genres/drama_",
-        "web_uri": "/genres/drama_"
-      },
-      "n_episodes": 91,
-      "n_seasons": 1,
-      "show_type": "reel",
-      "is_adult_content": false,
-      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/fefb1a59ac9c48d09d36403f02ce6200.png",
-      "description": "ముగ్గురు విజయవంతమైన కొడుకులను ఒంటరిగా పెంచిన ఓ తల్లి.\r\nఇరవై ఏళ్ల తర్వాత తండ్రి 70వ పుట్టినరోజు కోసం తాను మళ్లీ స్వగ్రామం చేరుతుంది.\r\nతల్లి పిలుపుతో నొప్పి, జ్ఞాపకాలు పక్కనబెట్టి ఆమె కొడుకులు కూడా ఆ వేడుకకు వస్తారు.",
-      "link": "/json/Crowned in Love - The mother of three big shots-Telugu.json"
-    },
-    {
-      "id": "272704",
-      "title": "Teen Patti",
-      "slug": "teen-patti",
-      "language": "telugu",
-      "genre": {
-        "id": 116,
-        "title": "एंटरटेनमेंट",
-        "slug": "entertainment",
-        "uri": "app://app/genres/entertainment",
-        "web_uri": "/genres/entertainment"
-      },
-      "n_episodes": 29,
-      "n_seasons": 1,
-      "show_type": "reel",
-      "is_adult_content": false,
-      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/11c9ecdd5f8d48ddb38c1a39f9a5eae0.png",
-      "description": "The game introduced by Shakuni in Bharat once led to the fall of empires.\r\nNow, it returns in the form of Teen Patti — seeking new victims.\r\nShuffle the cards… fortune or ruin — your destiny lies in your own hands.",
-      "link": "/json/Teen Patti-Telugu.json"
-    },
-    {
-      "id": "274070",
-      "title": "Srimathi Srivaru",
-      "slug": "srimathi-srivaru",
-      "language": "telugu",
-      "genre": {
-        "id": 116,
-        "title": "एंटरटेनमेंट",
-        "slug": "entertainment",
-        "uri": "app://app/genres/entertainment",
-        "web_uri": "/genres/entertainment"
-      },
-      "n_episodes": 40,
-      "n_seasons": 1,
-      "show_type": "reel",
-      "is_adult_content": false,
-      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/71e067044b6a48c0a841875ea43f14fd.png",
-      "description": "సాధారణమైన హోమ్ కిచెన్‌ను నడిపించే వినయవంతమైన మహిళ సునైనా, షశ్వత్‌ను వివాహం చేసుకుంటుంది. ఆమెకు తెలియదు – షశ్వత్ ఒక కోట్లాధిపతి అయిన షశ్వత్ అంబానీ అని, ఆమె ప్రేమ నిజమైనదేనా అని పరీక్షించేందుకు తాను తన అసలైన ఇమేజ్‌ను దాచి ఉండటం.\r\n\r\nసునైనా జీవితంలో శ్రమలు అప్పుడే మొదలవుతాయి – తన కుమారుడి ఇన్ లాజ్‌లు ఆమెను అమానుషంగా అవమానిస్తారు. ఆమె ప్రేమ, గౌరవం కోల్పోతుంది. ఈ క్రమంలో ఆమె మాయమైన తన కూతురు నిషిని వెతకడానికి ప్రారంభిస్తుంది.",
-      "link": "/json/Srimathi Srivaru-Telugu.json"
-    },	
-    {
-      "id": "270106",
-      "title": "Boss And The Sweet Wife",
-      "slug": "boss-and-the-sweet-wife-3",
-      "language": "telugu",
-      "genre": {
-        "id": 3,
-        "title": "प्यार",
-        "slug": "love",
-        "uri": "app://app/genres/love",
-        "web_uri": "/genres/love"
-      },
-      "n_episodes": 81,
-      "n_seasons": 1,
-      "show_type": "reel",
-      "is_adult_content": false,
-      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/79bcfd4d30544ef28d93c7b16e2e4c24.png",
-      "description": "శారా అనే యువతి సాధారణంగా ఒక క్లీనర్‌గా పనిచేస్తోంది. ఆమెకు ఉన్న విద్యాబ్యాఖ్యత కేవలం హై స్కూల్ వరకు మాత్రమే. కానీ ఆమెలో ఉన్న నిజాయితీ, శ్రమకోరిక ఆమెను ఎంతో ప్రత్యేకంగా నిలబెట్టాయి. ఒక రోజు ఊహించని రీతిలో ఆమెకు ఓ తప్పిదం జరుగుతుంది — ఆమె అపరిచితంగా, CEO అయిన మిస్టర్ లియోతో కలిసి నిద్రిస్తుంది.\r\n\r\nమిస్టర్ లియో ఈ సంఘటనను గుర్తు చేసుకున్నప్పుడు, తాను లెయ్లా గోస్‌లింగ్ అనే యువతితో నిద్రించానని అనుకుంటాడు. తన బాధ్యతగా భావించి, లెయ్లాను పెళ్లి చేసుకోవాలని నిర్ణయించుకుంటాడు. కానీ అంతవరకు అతని మదర్స్టెప్ తల్లి అతనికి పెళ్లి సంబంధం కుదిరించి, నిశ్చితార్థం ఏర్పాట్లు కూడా చేసేసింది. ఆశ్చర్యంగా, ఆ కొత్త కోడలు ఇంకెవరో కాదు — శారానే!",
-      "link": "/json/Boss And The Sweet Wife-Telugu.json"
-    },
-    {
-      "id": "271053",
-      "title": "True and False Dragon Commander",
-      "slug": "true-and-false-dragon-commander-3",
+      "id": "275395",
+      "title": "Final Bliss",
+      "slug": "final-bliss-1",
       "language": "telugu",
       "genre": {
         "id": 80,
@@ -219,54 +99,14 @@
       "n_seasons": 1,
       "show_type": "reel",
       "is_adult_content": false,
-      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/606a165ccb474448940d72b54b0cba6e.png",
-      "description": "రాజు ఆతిత్యుడు తన స్నేహితుడి ద్రోహానికి గురై, పర్వతం మీద నుంచి పడిపోయి చనిపోయాడు. కానీ కళ్ళు తెరిచినప్పుడు, తాను చనిపోలేదని, ఏదో విధంగా మళ్లీ జీవించే అవకాశం దక్కిందని గ్రహించాడు. అయితే, అన్ని ద్రోహులను కనుగొనడానికి తన అసలు గుర్తింపును రహస్యంగా ఉంచుకోవాలి.",
-      "link": "/json/True and False Dragon Commander-Telugu.json"
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/543ff94a-7b8d-401d-8383-5887a47513b4.png",
+      "description": "ఒంటరి జీవితాన్ని గడుపుతున్న నాన్నకు పెళ్ళి చేయాలని అనుకుంటుంది కూతురు. ఆమె అనుకున్నట్టుగానే ఒక మహిళ అతని జీవితంలోకి వస్తుంది. ఐదు పదుల వయసులో పెళ్ళితో అతను ఎదుర్కొన్న సమస్యలేంటి? చూడండి మీ కుకు టీవీలో.",
+      "link": "/json/final-bliss-1-Telugu.json"
     },
     {
-      "id": "273453",
-      "title": "Malli Raava",
-      "slug": "malli-rava",
-      "language": "telugu",
-      "genre": {
-        "id": 80,
-        "title": "नाटक",
-        "slug": "drama_",
-        "uri": "app://app/genres/drama_",
-        "web_uri": "/genres/drama_"
-      },
-      "n_episodes": 43,
-      "n_seasons": 1,
-      "show_type": "reel",
-      "is_adult_content": false,
-      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/80b39cd4a84b4e4fa1ace2c10c1985d3.png",
-      "description": "మహేష్ ఒక బిజినెస్ మేన్. తన భార్య సౌమ్య తప్పు చేసిందని  ఆమెకు దూరమయ్యాడు. అప్పుడే అతనికి అనిత దగ్గరైంది. ఆ సమయంలో భయంకరమైన నిజం తెలిసింది. తనకు కూతురు ఉందని తెలిసి షాకయ్యాడు. ఆ కూతురు నిజంగా మహేష్ కూతురేనా..? సౌమ్యను మహేష్ ఎందుకు దూరం చేసుకున్నాడు? తెలియాలంటే చూడండి.. ఎమొషనల్ రోలర్ కోస్టర్ \" మళ్ళీ రావా\". మీ కుకు టీవీలో.   ",
-      "link": "/json/Malli Raava-Telugu.json"
-    },
-    {
-      "id": "272268",
-      "title": "Rowdy Ramulamma",
-      "slug": "rowdy-ramulamma",
-      "language": "telugu",
-      "genre": {
-        "id": 80,
-        "title": "नाटक",
-        "slug": "drama_",
-        "uri": "app://app/genres/drama_",
-        "web_uri": "/genres/drama_"
-      },
-      "n_episodes": 43,
-      "n_seasons": 1,
-      "show_type": "reel",
-      "is_adult_content": false,
-      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/3607e909e33b45a79eb3170e624f1e75.png",
-      "description": "ఆకర్షణీయమైన పల్లెటూరి నుండి వచ్చిన అక్షా, తన తల్లి తో కలిసి నగరానికి వస్తుంది, అక్కడ తన సోదరి ఇషా ఉంటోంది. కానీ నగరంలో స్థాయి కోసం ఇషా, అక్షా మరియు ఆమె తల్లిని తాను తెలిసినవారిగా చెప్పడానికి నిరాకరిస్తుంది.\r\n\r\nఅక్షా తన నిజమైన గుర్తింపును దాచేసి, తాను ధనిక వారసురాలిగా మారిపోతుంది. అప్పుడే ఒక పాత పెండెంట్ ఆమెను తన విడిపోయిన తల్లి అయిన మిసెస్ పటేల్ వద్దకు తీసుకెళ్తుంది.\r\n\r\nతల్లి మీద హత్యాయత్నం జరిగాక, కొన్ని పెద్ద రహస్యాలు బయటపడతాయి. డిఎన్‌ఏ పరీక్ష ద్వారా అసలైన విషయం వెలుగులోకి వస్తుంది — అక్షానే అసలైన షానా పటేల్ అని తెలిసిపోతుంది.\r\n\r\nమీడియా ముందు ఇషా చెప్పిన అబద్ధం బహిరంగమవుతుంది. చివరికి, అక్షా తన నిజాన్ని, తల్లిని, మరియు గౌరవాన్ని తిరిగి సంపాదించుకుంటుంది.",
-      "link": "/json/Rowdy Ramulamma-Telugu.json"
-    },
-    {
-      "id": "273361",
-      "title": "The End of Us",
-      "slug": "the-end-of-us-1",
+      "id": "273151",
+      "title": "Love Trail",
+      "slug": "final-call-for-love",
       "language": "telugu",
       "genre": {
         "id": 80,
@@ -279,14 +119,14 @@
       "n_seasons": 1,
       "show_type": "reel",
       "is_adult_content": false,
-      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/be497373059a44cb9fe871c40199ac08.png",
-      "description": "ధ్రువ తన భార్య స్వప్నతో చేసిన 10 ఏళ్ల ఒప్పంద వివాహాన్ని ముగించాల్సిన సమయంలో,\r\nతన వ్యక్తిత్వాన్ని అడ్డుకున్న అనేక బంధాల్నీ తెంచుకోవాల్సి వస్తుంది.\r\nఈ వివాహ ఒప్పందం వెనుక ఉన్న నిజం ఏమిటి? గత 10 ఏళ్ల త్యాగానికి అతడిని ఎదురు చూస్తున్న ఆశ్చర్యం ఏంటి?",
-      "link": "/json/The End of Us-Telugu.json"
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/323b32b6-0f52-49ee-ac45-3679e7b4539e.png",
+      "description": "వినయ – అందమైనా, ఆత్మవిశ్వాసంతో నిలిచే ఒక స్త్రీ. ఒక రాత్రి చేసిన తప్పు ఆమెకు ఒక అమూల్యమైన కానుకను ఇచ్చింది – కుమారుడు. కానీ ఆ బిడ్డకు తండ్రి ఎవరో తెలియక, అక్రమ సంతానం ముద్రతో వినయ అవమానాన్ని, సమాజపు చేదు మాటలను ఎదుర్కొంటూ జీవిస్తుంది. తన కుమారుడే ఆమె ప్రపంచం.\r\n\r\nకానీ ఆ రహస్య తండ్రి మరెవరో కాదు – బిలియనీర్ సీఈఓ చైతన్య. ఏళ్ల తర్వాత అతను అనుకోకుండా ఆమె జీవితంలోకి రక్షకుడిలా అడుగుపెడతాడు. ప్రేమ, మాయ, నిజం కలిసిన ఈ ప్రయాణంలో – గతం ఎప్పుడు బయటపడుతుందో, భవిష్యత్తు ఎటు మలుపుతిప్పుతుందో",
+      "link": "/json/final-call-for-love-Telugu.json"
     },
     {
-      "id": "269926",
-      "title": "Happily Never After",
-      "slug": "happily-never-after-1",
+      "id": "274743",
+      "title": "Gopika Madhav",
+      "slug": "gopika-madhav",
       "language": "telugu",
       "genre": {
         "id": 80,
@@ -295,19 +135,194 @@
         "uri": "app://app/genres/drama_",
         "web_uri": "/genres/drama_"
       },
-      "n_episodes": 35,
+      "n_episodes": 48,
       "n_seasons": 1,
       "show_type": "reel",
       "is_adult_content": false,
-      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/5ff574acb84e4f689c139aba75c41623.png",
-      "description": "Happily Never After follows Rajveer Singhania, whose life spirals into chaos when his fiancée Veda Mehta mistakes his pregnant sister-in-law Shanaya Birla for his mistress. What starts as a misunderstanding at an engagement turns into a dark, twisted tale of betrayal, violence, and shocking truths.",
-      "link": "/json/Happily Never After-Telugu.json"
-    }		
-   ]
-  },
-  {
-      "title": "Updated Recently",
-      "shows": [
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/38913af6-d402-473f-aa99-11f47f013a85.png",
+      "description": "మాధవ్‌ జీవితమే ఒక్కసారిగా కూలిపోతుంది — ఉద్యోగం పోయింది, గౌరవం పోయింది, పెళ్లి కూడా రద్దయింది. కొత్తగా జీవితం మొదలుపెట్టే ప్రయత్నంలో అతను ముగ్గురు మహిళలను కలుస్తాడు — ఒక ఇన్‌ఫ్లుయెన్సర్‌, ఒక కార్పొరేట్‌ అమ్మాయి, చివరగా గోపిక. ఆమె సాదాసీదా, కానీ లోతైన మహిళ. మొదట సాధారణ పరిచయంగా మొదలైనది, నెమ్మదిగా మాధవ్‌ మనసును తాకుతుంది. గోపికలో అతను గ్లామర్‌ లేదా విజయాన్ని కాదు — నిజమైన ప్రేమను, శాంతిని, ఆత్మీయతను కనుగొంటాడు.",
+      "link": "/json/gopika-madhav-Telugu.json"
+    },
+    {
+      "id": "275160",
+      "title": "Happy Ending",
+      "slug": "happy-ending-1",
+      "language": "telugu",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 46,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/06344618-da77-4f9d-81cf-df8f815ede2e.png",
+      "description": "అనుమానం దెయ్యం లాంటిది. అది ఎంత పనైనా చేస్తుంది. కొత్త జీవితాన్ని మొదలు పెట్టబోతున్న అనిక జీవితం అనుమానంతో తల్లకిందులైంది. అసలేం జరిగింది? చూడండి హ్యాపీ ఎండింగ్.. మీ కుకు టీవీలో. ",
+      "link": "/json/happy-ending-1-Telugu.json"
+    },
+    {
+      "id": "275099",
+      "title": "My Toxic Love",
+      "slug": "my-toxic-love",
+      "language": "telugu",
+      "genre": {
+        "id": 3,
+        "title": "प्यार",
+        "slug": "love",
+        "uri": "app://app/genres/love",
+        "web_uri": "/genres/love"
+      },
+      "n_episodes": 46,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/5c6dff22-cb24-42cb-839d-9eb8e305710e.png",
+      "description": "ఏది ఎక్కువైనా కష్టమే. ప్రేమ కూడా. దివ్య ప్రేమ అర్జున్ ని ఎలాంటి పరిస్థితుల్లో పడేసింది? అర్జున్ ఎలాంటి ఇబ్బందులు పడ్డాడో తెలియాలంటే చూడండి \" My Toxic Love\"  మీ కుకు టీవీలో.  ",
+      "link": "/json/my-toxic-love-Telugu.json"
+    },
+    {
+      "id": "270770",
+      "title": "Romantic Reddy",
+      "slug": "romantic-reddy",
+      "language": "telugu",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 37,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/8a1878db-c98a-4ea3-a5da-6ff7931787bf.png",
+      "description": "రాజకీయ సామ్రాజ్యానికి వారసుడు, కానీ నిర్లక్ష్య హృదయానికి బందీ — అర్జున్ రెడ్డి తన వారసత్వాన్ని ఎదిరించి, అధికారం పీఠాన్ని గెలుచుకోవాలి… అలాగే తన జీవితపు ప్రేమను కూడా.”",
+      "link": "/json/romantic-reddy-Telugu.json"
+    },
+    {
+      "id": "275194",
+      "title": "Tapasya vs Temptation",
+      "slug": "tapasya-vs-temptation",
+      "language": "telugu",
+      "genre": {
+        "id": 3,
+        "title": "प्यार",
+        "slug": "love",
+        "uri": "app://app/genres/love",
+        "web_uri": "/genres/love"
+      },
+      "n_episodes": 36,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/9a8ffd20-9495-4ba5-ad4e-74065558c818.png",
+      "description": "Vihaan, the billionaire heir who has turned away from wealth and desire, wants to embrace sanyas. His powerful family, desperate to bring him back on the path of business and legacy, brings Rhea into his life - a desirable and clever woman tasked with seducing him. As Vihaan struggles between tapasya and temptation, Rhea finds herself caught in the mansion’s web of conspiracies and hidden desires. Will Vihaan hold on to his vow of restraint, or will temptation claim him forever?",
+      "link": "/json/tapasya-vs-temptation-Telugu.json"
+    },
+    {
+      "id": "275081",
+      "title": "The Call Boy I Met in Hyderabad",
+      "slug": "the-call-boy-i-met-in-chennai-1",
+      "language": "telugu",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 51,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/90e19d51-ae46-4930-b121-2b70720d3870.png",
+      "description": "అనుకోకుండా కాల్ బాయ్ విశాల్ ని కలిసిన ఆ అమ్మాయి, అతన్నే పెళ్ళి చేసుకుంటుంది. కోట్లకు వారసురాలయిన ఆ అమ్మాయి, కాల్ బాయ్ ని ఎందుకు పెళ్ళి చేసుకుంది? చూడండి \"The Call Boy I Met in Hyderabad\" మీ కుకు టీవీలో. ",
+      "link": "/json/the-call-boy-i-met-in-chennai-1-Telugu.json"
+    },
+    {
+      "id": "275383",
+      "title": "The Missing Master Chef",
+      "slug": "the-missing-master-chef-1",
+      "language": "telugu",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 65,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/ca66c0f2-7879-42e4-b267-736ddb25ee69.png",
+      "description": "A fallen culinary legend walks away from fame to rediscover the true meaning of food and life. In a world chasing perfection, he finds greatness in simplicity. The Missing Master Chef — where every meal tells a story of heart, humility, and redemption.",
+      "link": "/json/the-missing-master-chef-1-Telugu.json"
+    },
+    {
+      "id": "275131",
+      "title": "The Mistaken Child",
+      "slug": "the-mistaken-child-1",
+      "language": "telugu",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 45,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/16caf692-2447-479b-9f71-2fc074d246b2.png",
+      "description": "ఒక చిన్నారి అదృశ్యమైనప్పుడు, రహస్యాలు బయలుదేరుతాయి… జీవితాలు ఢీకొంటాయి. ది మిస్టేకెన్ చైల్డ్ — ప్రేమ, ద్రోహం, నిజం కోసం జరిగే ఆతురమైన వెతుకులాటను చూపించే హృదయాన్ని కదిలించే కథ. ప్రతి క్షణం మిమ్మల్ని మిస్టరీ లోకంలోకి మరింతగా లాక్కెళ్తుంది. వెంటనే చూడండి!",
+      "link": "/json/the-mistaken-child-1-Telugu.json"
+    },
+    {
+      "id": "275389",
+      "title": "Ultimate Boxer",
+      "slug": "ultimate-boxer-2",
+      "language": "telugu",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 45,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/32125018-4130-41fd-82bf-67340ef74de6.png",
+      "description": "The Boxer Wants Me",
+      "link": "/json/ultimate-boxer-2-Telugu.json"
+    },
+    {
+      "id": "275384",
+      "title": "Youngest Secret Billionaire",
+      "slug": "youngest-secret-billionaire-3",
+      "language": "telugu",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 48,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/bcae89c4-4193-44a9-b968-c483b205b0f8.png",
+      "description": "కాలేజీలో చదువుకునే రాహుల్, చెత్త ఏరుకుంటూ డబ్బులు సంపాదిస్తున్నాడు. అతను పారూ అనే అమ్మాయితో క్లోజ్ గా ఉండేవాడు. ఒకరోజు అతనికి షాకింగ్ న్యూస్ తెలిసింది. అప్పటి నుండి అతని వెనుక వైశాలి తిరగడం మొదలుపెట్టింది? అసలేం జరిగింది? తెలియాలంటే చూడండి \"Youngest Secret Billionaire\" మీ కుకు టీవీలో",
+      "link": "/json/youngest-secret-billionaire-3-Telugu.json"
+    },	  
     {
       "id": "274872",
       "title": "Billion Dollar Mess",
@@ -688,6 +703,311 @@
       "description": "Vishal Sheth, a fearless undercover cop, is chosen for his most dangerous mission yet. Disguised as a hardened prisoner, he must infiltrate the criminal underworld from within, gain the trust of ruthless gang lords, and uncover the powerful masterminds pulling the strings behind bars. One wrong move could blow his cover—and cost him his life.",
       "link": "/json/under-cover-prison-king-Telugu.json"
     }  
+   ]
+  },
+    {
+      "title": "Top Shows",
+      "shows": [
+    {
+      "id": "273836",
+      "title": "My Crorepati Husband",
+      "slug": "my-crorepati-husband-2",
+      "language": "telugu",
+      "genre": {
+        "id": 116,
+        "title": "एंटरटेनमेंट",
+        "slug": "entertainment",
+        "uri": "app://app/genres/entertainment",
+        "web_uri": "/genres/entertainment"
+      },
+      "n_episodes": 72,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/f20c814db6804969801a479b98ea4259.jpeg",
+      "description": "\"మన హీరో ధనవంతుడు కాదని తెలిసిన వెంటనే భార్య విడాకులు తీసుకోవాలని నిర్ణయిస్తుంది. కానీ ఆమె కోసం ఒక శాక్ ఇచ్చే ట్విస్ట్ వేచి ఉంది. My Crorepati Husband - ఇప్పుడే చూడండి!\"",
+      "link": "/json/My Crorepati Husband-Telugu.json"
+    },	  
+    {
+      "id": "274106",
+      "title": "Billion Dollar Blunder",
+      "slug": "power-couple-tho-aatala",
+      "language": "telugu",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 45,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/202ae5004dc44195ac330c7e0be9e390.png",
+      "description": "ఒక ధనవంతుల జంటను రిసార్ట్‌లో మోసగాళ్లుగా తప్పుడు అనుమానంతో చూడటం ప్రారంభమవుతుంది.\r\nఅధికారం కోసం వాడుకుంటున్న మేనేజర్ వాళ్లను అవమానించగా, నిజం వెలుగులోకి రాగానే ఘాటైన ప్రతీకారం ప్రారంభమవుతుంది.\r\nగౌరవం కొనలేని విషయం, ఖర్మ వడ్డీతో తిరిగి వస్తుందని చెప్పే కథ… వెంటనే చూడండి!",
+      "link": "/json/Billion Dollar Blunder-Telugu.json"
+    },
+    {
+      "id": "274526",
+      "title": "Vishwaroopam: Father of 3 bigshots",
+      "slug": "vishwaroopam-father-of-3-bigshots",
+      "language": "telugu",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 47,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/608ae59bace34c239e4068392d655b1a.png",
+      "description": "For his father's birthday, Raghavan brought a box no one wanted to open. Inside it? A truth that shattered pride, price tags, and silence.",
+      "link": "/json/Vishwaroopam_ Father of 3 bigshots-Telugu.json"
+    },
+    {
+      "id": "273154",
+      "title": "Kubeerudu",
+      "slug": "my-homeless-billionaire-husband-1",
+      "language": "telugu",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 46,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/189cf05606df4b5283080cf663f71f1b.png",
+      "description": "Disguised as a beggar, he lives a life of exile, determined to uncover the true culprit behind his father’s murder.\r\nOn this path, he meets a kind and gentle woman, and love begins to blossom.\r\nBut will this love bring him closer to the truth… or push him deeper into danger?",
+      "link": "/json/Kubeerudu-Telugu.json"
+    },
+    {
+      "id": "273639",
+      "title": "My Homeless Billionaire Husband",
+      "slug": "my-homeless-billionaire-husband-2",
+      "language": "telugu",
+      "genre": {
+        "id": 116,
+        "title": "एंटरटेनमेंट",
+        "slug": "entertainment",
+        "uri": "app://app/genres/entertainment",
+        "web_uri": "/genres/entertainment"
+      },
+      "n_episodes": 45,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/2161cf10393143b3916eef7a78f7d88d.png",
+      "description": "దీపావళి సందడిలో అదితి ఓ విచిత్ర వ్యక్తిని కలుస్తుంది – అతని పేరు సమీర్. అతను వీధుల్లో జీవిస్తున్నాడు, చుట్టూ మౌనంగా తిరుగుతున్నాడు. అనుకోని ద్రోహం తరువాత, అదితి జీవితం అల్లకల్లోలమవుతుంది. ఆ సమయంలో సమీర్ ఒక ఆశ్చర్యకరమైన, ఏదో ప్రమాదకరమైన ఆఫర్‌తో ఆమెను ఆశ్చర్యపరుస్తాడు.\r\n\r\nఅయితే, సమీర్ అసలు ఎవరు? అతని చొక్కాల వెనక ఏ రహస్యాలు దాగున్నాయి? వీరి జీవితాలు కలిసినప్పుడు, పాత నిజాలు బయటపడతాయి. నిజంగా ప్రేమ నమ్మదగినదేనా, లేక అది ఒక మోసం అవుతుందా?",
+      "link": "/json/My Homeless Billionaire Husband-Telugu.json"
+    },
+    {
+      "id": "274293",
+      "title": "Love Refresh",
+      "slug": "36-1",
+      "language": "telugu",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 43,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/18c4e128ee0747cda248eaadee1aed65.png",
+      "description": "కూతురిని కోల్పోయిన ఒక తల్లికీ, తన కూతురి కోసం పెళ్లి చేసుకుంటున్న ఒక తండ్రికీ మధ్య జరిగే ప్రేమ, భావోద్వేగాల కథే – Love Refresh. మనసుకు హత్తుకునే ఈ కథను తప్పకుండా చూడండి!\r\n",
+      "link": "/json/Love Refresh-Telugu.json"
+    },
+    {
+      "id": "268870",
+      "title": " Crowned in Love - The mother of three big shots",
+      "slug": "crowned-in-love-the-mother-of-three-big-shots",
+      "language": "telugu",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 91,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/fefb1a59ac9c48d09d36403f02ce6200.png",
+      "description": "ముగ్గురు విజయవంతమైన కొడుకులను ఒంటరిగా పెంచిన ఓ తల్లి.\r\nఇరవై ఏళ్ల తర్వాత తండ్రి 70వ పుట్టినరోజు కోసం తాను మళ్లీ స్వగ్రామం చేరుతుంది.\r\nతల్లి పిలుపుతో నొప్పి, జ్ఞాపకాలు పక్కనబెట్టి ఆమె కొడుకులు కూడా ఆ వేడుకకు వస్తారు.",
+      "link": "/json/Crowned in Love - The mother of three big shots-Telugu.json"
+    },
+    {
+      "id": "272704",
+      "title": "Teen Patti",
+      "slug": "teen-patti",
+      "language": "telugu",
+      "genre": {
+        "id": 116,
+        "title": "एंटरटेनमेंट",
+        "slug": "entertainment",
+        "uri": "app://app/genres/entertainment",
+        "web_uri": "/genres/entertainment"
+      },
+      "n_episodes": 29,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/11c9ecdd5f8d48ddb38c1a39f9a5eae0.png",
+      "description": "The game introduced by Shakuni in Bharat once led to the fall of empires.\r\nNow, it returns in the form of Teen Patti — seeking new victims.\r\nShuffle the cards… fortune or ruin — your destiny lies in your own hands.",
+      "link": "/json/Teen Patti-Telugu.json"
+    },
+    {
+      "id": "274070",
+      "title": "Srimathi Srivaru",
+      "slug": "srimathi-srivaru",
+      "language": "telugu",
+      "genre": {
+        "id": 116,
+        "title": "एंटरटेनमेंट",
+        "slug": "entertainment",
+        "uri": "app://app/genres/entertainment",
+        "web_uri": "/genres/entertainment"
+      },
+      "n_episodes": 40,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/71e067044b6a48c0a841875ea43f14fd.png",
+      "description": "సాధారణమైన హోమ్ కిచెన్‌ను నడిపించే వినయవంతమైన మహిళ సునైనా, షశ్వత్‌ను వివాహం చేసుకుంటుంది. ఆమెకు తెలియదు – షశ్వత్ ఒక కోట్లాధిపతి అయిన షశ్వత్ అంబానీ అని, ఆమె ప్రేమ నిజమైనదేనా అని పరీక్షించేందుకు తాను తన అసలైన ఇమేజ్‌ను దాచి ఉండటం.\r\n\r\nసునైనా జీవితంలో శ్రమలు అప్పుడే మొదలవుతాయి – తన కుమారుడి ఇన్ లాజ్‌లు ఆమెను అమానుషంగా అవమానిస్తారు. ఆమె ప్రేమ, గౌరవం కోల్పోతుంది. ఈ క్రమంలో ఆమె మాయమైన తన కూతురు నిషిని వెతకడానికి ప్రారంభిస్తుంది.",
+      "link": "/json/Srimathi Srivaru-Telugu.json"
+    },	
+    {
+      "id": "270106",
+      "title": "Boss And The Sweet Wife",
+      "slug": "boss-and-the-sweet-wife-3",
+      "language": "telugu",
+      "genre": {
+        "id": 3,
+        "title": "प्यार",
+        "slug": "love",
+        "uri": "app://app/genres/love",
+        "web_uri": "/genres/love"
+      },
+      "n_episodes": 81,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/79bcfd4d30544ef28d93c7b16e2e4c24.png",
+      "description": "శారా అనే యువతి సాధారణంగా ఒక క్లీనర్‌గా పనిచేస్తోంది. ఆమెకు ఉన్న విద్యాబ్యాఖ్యత కేవలం హై స్కూల్ వరకు మాత్రమే. కానీ ఆమెలో ఉన్న నిజాయితీ, శ్రమకోరిక ఆమెను ఎంతో ప్రత్యేకంగా నిలబెట్టాయి. ఒక రోజు ఊహించని రీతిలో ఆమెకు ఓ తప్పిదం జరుగుతుంది — ఆమె అపరిచితంగా, CEO అయిన మిస్టర్ లియోతో కలిసి నిద్రిస్తుంది.\r\n\r\nమిస్టర్ లియో ఈ సంఘటనను గుర్తు చేసుకున్నప్పుడు, తాను లెయ్లా గోస్‌లింగ్ అనే యువతితో నిద్రించానని అనుకుంటాడు. తన బాధ్యతగా భావించి, లెయ్లాను పెళ్లి చేసుకోవాలని నిర్ణయించుకుంటాడు. కానీ అంతవరకు అతని మదర్స్టెప్ తల్లి అతనికి పెళ్లి సంబంధం కుదిరించి, నిశ్చితార్థం ఏర్పాట్లు కూడా చేసేసింది. ఆశ్చర్యంగా, ఆ కొత్త కోడలు ఇంకెవరో కాదు — శారానే!",
+      "link": "/json/Boss And The Sweet Wife-Telugu.json"
+    },
+    {
+      "id": "271053",
+      "title": "True and False Dragon Commander",
+      "slug": "true-and-false-dragon-commander-3",
+      "language": "telugu",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 50,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/606a165ccb474448940d72b54b0cba6e.png",
+      "description": "రాజు ఆతిత్యుడు తన స్నేహితుడి ద్రోహానికి గురై, పర్వతం మీద నుంచి పడిపోయి చనిపోయాడు. కానీ కళ్ళు తెరిచినప్పుడు, తాను చనిపోలేదని, ఏదో విధంగా మళ్లీ జీవించే అవకాశం దక్కిందని గ్రహించాడు. అయితే, అన్ని ద్రోహులను కనుగొనడానికి తన అసలు గుర్తింపును రహస్యంగా ఉంచుకోవాలి.",
+      "link": "/json/True and False Dragon Commander-Telugu.json"
+    },
+    {
+      "id": "273453",
+      "title": "Malli Raava",
+      "slug": "malli-rava",
+      "language": "telugu",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 43,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/80b39cd4a84b4e4fa1ace2c10c1985d3.png",
+      "description": "మహేష్ ఒక బిజినెస్ మేన్. తన భార్య సౌమ్య తప్పు చేసిందని  ఆమెకు దూరమయ్యాడు. అప్పుడే అతనికి అనిత దగ్గరైంది. ఆ సమయంలో భయంకరమైన నిజం తెలిసింది. తనకు కూతురు ఉందని తెలిసి షాకయ్యాడు. ఆ కూతురు నిజంగా మహేష్ కూతురేనా..? సౌమ్యను మహేష్ ఎందుకు దూరం చేసుకున్నాడు? తెలియాలంటే చూడండి.. ఎమొషనల్ రోలర్ కోస్టర్ \" మళ్ళీ రావా\". మీ కుకు టీవీలో.   ",
+      "link": "/json/Malli Raava-Telugu.json"
+    },
+    {
+      "id": "272268",
+      "title": "Rowdy Ramulamma",
+      "slug": "rowdy-ramulamma",
+      "language": "telugu",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 43,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/3607e909e33b45a79eb3170e624f1e75.png",
+      "description": "ఆకర్షణీయమైన పల్లెటూరి నుండి వచ్చిన అక్షా, తన తల్లి తో కలిసి నగరానికి వస్తుంది, అక్కడ తన సోదరి ఇషా ఉంటోంది. కానీ నగరంలో స్థాయి కోసం ఇషా, అక్షా మరియు ఆమె తల్లిని తాను తెలిసినవారిగా చెప్పడానికి నిరాకరిస్తుంది.\r\n\r\nఅక్షా తన నిజమైన గుర్తింపును దాచేసి, తాను ధనిక వారసురాలిగా మారిపోతుంది. అప్పుడే ఒక పాత పెండెంట్ ఆమెను తన విడిపోయిన తల్లి అయిన మిసెస్ పటేల్ వద్దకు తీసుకెళ్తుంది.\r\n\r\nతల్లి మీద హత్యాయత్నం జరిగాక, కొన్ని పెద్ద రహస్యాలు బయటపడతాయి. డిఎన్‌ఏ పరీక్ష ద్వారా అసలైన విషయం వెలుగులోకి వస్తుంది — అక్షానే అసలైన షానా పటేల్ అని తెలిసిపోతుంది.\r\n\r\nమీడియా ముందు ఇషా చెప్పిన అబద్ధం బహిరంగమవుతుంది. చివరికి, అక్షా తన నిజాన్ని, తల్లిని, మరియు గౌరవాన్ని తిరిగి సంపాదించుకుంటుంది.",
+      "link": "/json/Rowdy Ramulamma-Telugu.json"
+    },
+    {
+      "id": "273361",
+      "title": "The End of Us",
+      "slug": "the-end-of-us-1",
+      "language": "telugu",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 45,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/be497373059a44cb9fe871c40199ac08.png",
+      "description": "ధ్రువ తన భార్య స్వప్నతో చేసిన 10 ఏళ్ల ఒప్పంద వివాహాన్ని ముగించాల్సిన సమయంలో,\r\nతన వ్యక్తిత్వాన్ని అడ్డుకున్న అనేక బంధాల్నీ తెంచుకోవాల్సి వస్తుంది.\r\nఈ వివాహ ఒప్పందం వెనుక ఉన్న నిజం ఏమిటి? గత 10 ఏళ్ల త్యాగానికి అతడిని ఎదురు చూస్తున్న ఆశ్చర్యం ఏంటి?",
+      "link": "/json/The End of Us-Telugu.json"
+    },
+    {
+      "id": "269926",
+      "title": "Happily Never After",
+      "slug": "happily-never-after-1",
+      "language": "telugu",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 35,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/5ff574acb84e4f689c139aba75c41623.png",
+      "description": "Happily Never After follows Rajveer Singhania, whose life spirals into chaos when his fiancée Veda Mehta mistakes his pregnant sister-in-law Shanaya Birla for his mistress. What starts as a misunderstanding at an engagement turns into a dark, twisted tale of betrayal, violence, and shocking truths.",
+      "link": "/json/Happily Never After-Telugu.json"
+    }		
    ]
   },  
     {
