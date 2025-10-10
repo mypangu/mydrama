@@ -2055,12 +2055,12 @@ input:checked + .toggle-slider:before {
 					const deltaTime = endTime - startTime;
 
 					// ---- Swipe detection (Episode navigation) ----
-					if (deltaTime < 300 && Math.abs(deltaX) > 50 && Math.abs(deltaY) < 100) {
-						if (deltaX > 0) {
-							this.previousEpisode(); // Swipe right
+					if (deltaTime < 300 && Math.abs(deltaY) > 50 && Math.abs(deltaX) < 100) {
+						if (deltaY > 0) {
+							this.previousEpisode(); // Swipe down
 							this.showToast('Previous Episode');
 						} else {
-							this.nextEpisode(); // Swipe left
+							this.nextEpisode(); // Swipe up
 							this.showToast('Next Episode');
 						}
 						return;
