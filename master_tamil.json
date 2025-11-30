@@ -4,6 +4,426 @@
   "title": "Updated Recently",
   "shows": [
     {
+      "id": "274814",
+      "title": "After I Sold My Sperm to a Common Girl",
+      "slug": "after-i-sold-my-sperm-to-a-common-girl",
+      "language": "tamil",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 66,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/871d1161-edd8-4a64-b4bc-fa3d82d53480.png",
+      "description": "After I Sold My Sperm to a Common Girl\r\n",
+      "link": "/json/after-i-sold-my-sperm-to-a-common-girl-Tamil.json"
+    },
+    {
+      "id": "274819",
+      "title": "Billionaire Baasha",
+      "slug": "billionaire-baasha",
+      "language": "tamil",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 41,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/10a821fc-e6bc-40d0-87a4-d79256d1f934.png",
+      "description": "Is this time travel worth for Love?",
+      "link": "/json/billionaire-baasha-Tamil.json"
+    },
+    {
+      "id": "275726",
+      "title": "Billionaire Groom is my new husband",
+      "slug": "billionaire-groom-is-my-new-husband",
+      "language": "tamil",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 47,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/7d6bdb50-7750-47cd-be47-715fbd79c481.png",
+      "description": "Billionaire Groom is my new husband",
+      "link": "/json/billionaire-groom-is-my-new-husband-Tamil.json"
+    },
+    {
+      "id": "275703",
+      "title": "Cricket Champion",
+      "slug": "cricket-champion-1",
+      "language": "tamil",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 38,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/0e52b28d-d88c-46fe-ae73-03a0ef7e202a.png",
+      "description": "A humble Mumbai groundskeeper, Sourav, secretly wields the legendary Phantom Shot, a mythical cricket strike that defies physics. When his hidden talent is discovered, greed, rivalry, and power-hungry ambition ignite around him. Betrayal, stolen magic, and a fallen hero’s rise culminate as Sourav proves that divinity lies not in a bat, but in the man who holds it. Ultimately, the true Cricket Champion reclaims his destiny with quiet, unstoppable grace. Watch now.",
+      "link": "/json/cricket-champion-1-Tamil.json"
+    },
+    {
+      "id": "275792",
+      "title": "Fake Wife",
+      "slug": "fake-wife-3",
+      "language": "tamil",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 45,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/71c6cf30-7d4b-4e06-863a-e837350c6677.png",
+      "description": "Dev Joshi, stuck in a contract marriage, devotes himself to Rati Kapoor, who never values him. Her heart remains with her first love, Avinash, aided by her scheming siblings Pooja and Prem. After Rati dismissively signs divorce papers, Dev leaves and rebuilds his life into a billionaire researcher. He finds true respect and affection with Shreya Rao, unlike the humiliation he endured with Rati. In the end, Dev rejects Rati’s late realization and chooses a dignified future with Shreya. Watch now.",
+      "link": "/json/fake-wife-3-Tamil.json"
+    },
+    {
+      "id": "275704",
+      "title": "Fate connection",
+      "slug": "fate-connection-2",
+      "language": "tamil",
+      "genre": {
+        "id": 3,
+        "title": "प्यार",
+        "slug": "love",
+        "uri": "app://app/genres/love",
+        "web_uri": "/genres/love"
+      },
+      "n_episodes": 47,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/8b8ec5ce-7d49-4b51-83ba-d9e804af6dd5.png",
+      "description": "A marriage no one remembers, a love neither expected. Two strangers wed for a dying wish, then meet again as boss and employee, unaware they’re already husband and wife. When love returns in disguise, how long can destiny keep its secret?",
+      "link": "/json/fate-connection-2-Tamil.json"
+    },
+    {
+      "id": "275689",
+      "title": "Final Breath",
+      "slug": "final-breath-1",
+      "language": "tamil",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 83,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/5e0659e8-d4e0-4bbc-83df-cf5909c40eac.png",
+      "description": "A love that dared to defy fate…Avni, a simple girl whose anklet carries the sound of destiny. Kartik, a powerful yet broken CEO haunted by his past. When love turns into a game of lies, every smile hides a secret, and every promise comes with a price. Betrayal, poison, and only 48 hours to survive! Will love save them, or has destiny already written their end? Watch now!",
+      "link": "/json/final-breath-1-Tamil.json"
+    },
+    {
+      "id": "274472",
+      "title": "Good Bad Ugly",
+      "slug": "good-bad-ugly",
+      "language": "tamil",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 48,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/d4f089dc-a5eb-4e13-a14b-ad1650406f85.png",
+      "description": "அர்ஜுன் ஒரு பிரபல பிளாஸ்டிக் சர்ஜன். அவன் தரை துடிக்கிறவளா இருக்க ஜோதிகாவ காதலிச்சு கல்யாணம் பண்ணுறான். ஆனா ஜோதிகாக்கு, புதுசா வந்த ஹேண்ட்சம் டாக்டர் ராஜ் மேல கள்ள காதல் வருது.  அதுக்கு தடையா இருக்க அர்ஜுன கார் ஏத்தி கொலையும் பண்ணுறா.... அர்ஜுன் செத்துட்டான்னு ஜோதிகா சந்தோசமா இருக்குறப்போ, அவள பழிவாங்க ஒருத்தன் புதுசா வரான். யார் இவன்? அர்ஜுனுக்கு நடந்த அநியாயம் வெளிய வருமா? ஜோதிகா மாட்டுவாளா? ",
+      "link": "/json/good-bad-ugly-Tamil.json"
+    },
+    {
+      "id": "274479",
+      "title": "Bodhi Varma: Return of the Beggar Dragon",
+      "slug": "hidden-talent-6",
+      "language": "tamil",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 50,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/1d9cac40-d1bb-4a1d-805c-99a7812dd53b.png",
+      "description": "அவன் யாருமில்லாதவனாய் வந்தான்... ஆனால் டிராகன் சிம்மாசனத்தில் அமர்ந்தான். இப்போது ஒட்டுமொத்த உலகமும் அறியத் துடிக்கும் ஒரே கேள்வி - யார் இந்த வர்மன்? உண்மை காத்திருக்கிறது - இப்போதே பாருங்கள்!",
+      "link": "/json/hidden-talent-6-Tamil.json"
+    },
+    {
+      "id": "274304",
+      "title": "Iruvar",
+      "slug": "iruvar-1",
+      "language": "tamil",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 45,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/743bfeec-3415-4185-abce-9b406f4c75e6.png",
+      "description": "இரட்டையர்களாகப் பிறந்த விக்ரம் மற்றும் மனோஜ்... ஆனா விதி அவர்கள் வாழ்க்கையை இரண்டு திசைகளில் தள்ளுகிறது.\r\nபெரிய Business Man ஆக இருக்கும் பணக்கார விக்ரம், College-ல் Bullying-ல் மாட்டிக்கொண்ட பாவமான மனோஜ்.\r\nகல்லூரியை தனது Control-ல் வைத்திருக்கும் Bully Gang-ன் தலைவி பிரியா, மனோஜ்-ஐ தாக்கியதால் அவன் உயிருக்கே போராடி கொண்டிருக்கிறான்.\r\nதனது தம்பிக்காக பழிவாங்க மனோஜ்-ஐ போலவே காலேஜ்-ற்கு வரும் விக்ரம்......\r\nஅதிரடி, திருப்பம், திகில் நிறைந்த இந்த Revenge தொடரை இப்போதே பாருங்கள்!",
+      "link": "/json/iruvar-1-Tamil.json"
+    },
+    {
+      "id": "275758",
+      "title": "Law of Love",
+      "slug": "law-of-love-1",
+      "language": "tamil",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 45,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/4292af9a-d8ef-400e-9d60-3b8189ad4bc2.png",
+      "description": "A determined young woman battles betrayal, love, and family chaos while seeking justice for her imprisoned father. As her world collides with her legal aid’s ambition and deceit, buried secrets begin to surface. In a web of lies and emotions, every choice draws her closer to redemption—or ruin.",
+      "link": "/json/law-of-love-1-Tamil.json"
+    },
+    {
+      "id": "275784",
+      "title": "Love Me If You Dare",
+      "slug": "love-me-if-you-dare-1",
+      "language": "tamil",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 45,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/22cc95a6-c3bb-4c9d-aa88-ad9bee2c4556.png",
+      "description": "Love me If You Dare is a powerful psychological drama that follows Navami, a young woman trapped between ambition and exploitation. Working in a resto pub, her life takes a dark turn when she encounters Abhinav, a charming yet controlling man whose obsession blurs the line between desire and dominance. As Navami faces harassment, betrayal, she struggles to reclaim her dignity and identity. Through pain and resilience, she transforms from a victim into a voice of strength.",
+      "link": "/json/love-me-if-you-dare-1-Tamil.json"
+    },
+    {
+      "id": "275896",
+      "title": "Marriage Drama",
+      "slug": "marriage-drama",
+      "language": "tamil",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 47,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/f802f074-b6a6-49b1-900d-b60b764c47ce.png",
+      "description": "A kind-hearted girl on her way to her brother’s wedding gets trapped in a nightmarish flight with a cruel woman and her spoiled son, leading to chaos that unravels shocking secrets of power, betrayal, and mistaken identity. When love, lies, and family honor collide, a storm of revenge and revelation erupts midair and beyond.",
+      "link": "/json/marriage-drama-Tamil.json"
+    },
+    {
+      "id": "275566",
+      "title": "Ruthra Thandavam",
+      "slug": "ruthra-thandavam",
+      "language": "tamil",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 47,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/dcbce0e2-fb57-457c-90b4-2170d6405364.png",
+      "description": "Rudraroop - Revenge of Richierich Sons",
+      "link": "/json/ruthra-thandavam-Tamil.json"
+    },
+    {
+      "id": "274481",
+      "title": "Por Veeran: The Last War",
+      "slug": "secret-billionaire-parents",
+      "language": "tamil",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 52,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/87e45349-804a-421f-b62e-20eb043d0e27.png",
+      "description": "What began as a romantic getaway turns into a nightmare of humiliation, betrayal, and hidden power. But when the tables turn, justice comes with a price - Watch now to find out!",
+      "link": "/json/secret-billionaire-parents-Tamil.json"
+    },
+    {
+      "id": "275513",
+      "title": "Secret Prince",
+      "slug": "secret-prince-1",
+      "language": "tamil",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 45,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/954c6de8-1d1c-4cf8-8170-6feaf9828ddb.png",
+      "description": "பெரிய பணக்கார குடும்ப வாரிசு நம்ம ஹீரோ. பதவி ஏற்க, 3 மாசம் அடையாளத்தை மறைச்சு, ஒரு பிசினஸ் குடும்பத்துல வேலை செய்யணும்ங்கிறது வழக்கம். அங்க, நிச்சயமான ஹீரோயினை சந்திச்சு காதலில் விழுறாரு. இப்போ, குடும்ப வழக்கத்தை மதிச்சு வாரிசா ஆவாரா, இல்லை காதலிக்காக வழக்கத்தை விடுவாரா?",
+      "link": "/json/secret-prince-1-Tamil.json"
+    },
+    {
+      "id": "274822",
+      "title": "Silent King",
+      "slug": "silent-king",
+      "language": "tamil",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 59,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/4e739dbd-132b-4903-b427-a1dc3349f3ec.png",
+      "description": "Will the Hero reveal his Hidden Empire to his family? ",
+      "link": "/json/silent-king-Tamil.json"
+    },
+    {
+      "id": "275537",
+      "title": "Sorry! Not a Gold Digger",
+      "slug": "sorry-not-a-gold-digger-3",
+      "language": "tamil",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 45,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/7e407f74-6557-4355-8f5c-2fb71fefaf81.png",
+      "description": "When hardworking delivery girl Tara crosses paths with billionaire heir Rohan Mehta through a twist of fate, their unexpected flash marriage sparks a journey filled with secrets, clashes, and unspoken love. As Tara struggles to protect her dignity and dreams, and Rohan hides his true identity, will this unlikely union blossom into real love or collapse under lies and pride? Watch Now!",
+      "link": "/json/sorry-not-a-gold-digger-3-Tamil.json"
+    },
+    {
+      "id": "275464",
+      "title": "The Price Of Pride",
+      "slug": "the-price-of-pride",
+      "language": "tamil",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 52,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/687e4b43-32d6-44cd-91f2-e2f1fba67f45.png",
+      "description": "Once mocked as a poor mechanic, humiliated by in-laws, and abandoned by his own family—he vanished without a trace.\r\nYears later, he returns—not as the man they scorned, but as the billionaire who’ll bring their empire to its knees. When power shifts, who will bow first—the tycoons blinded by pride or the man they once called worthless? Watch now.",
+      "link": "/json/the-price-of-pride-Tamil.json"
+    },
+    {
+      "id": "275756",
+      "title": "Ultimate Love",
+      "slug": "ultimate-love-2",
+      "language": "tamil",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 54,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/44610b87-d85b-4bce-b121-bf846fc43c3b.png",
+      "description": "Ultimate Love",
+      "link": "/json/ultimate-love-2-Tamil.json"
+    },
+    {
+      "id": "274473",
+      "title": "Velaikaran ",
+      "slug": "velaikkaran",
+      "language": "tamil",
+      "genre": {
+        "id": 80,
+        "title": "नाटक",
+        "slug": "drama_",
+        "uri": "app://app/genres/drama_",
+        "web_uri": "/genres/drama_"
+      },
+      "n_episodes": 45,
+      "n_seasons": 1,
+      "show_type": "reel",
+      "is_adult_content": false,
+      "share_image_url": "https://images.cdn.kukufm.com/w:300/f:webp/q:85/https://kukufm.s3.amazonaws.com/banners/7ebbde4b-8fe2-4417-8194-63fb5a6f4408.jpg",
+      "description": "அப்பாவின் சத்தியத்துக்காக தான் பணக்காரன் என்பதை மறைத்து சாதாரண மிடில் கிளாஸ்காரனாக தன் தங்கையை வளர்க்கிறான் அர்ஜுன். தங்கைக்காக தன் மானம், மரியாதை விட்டுக்கொடுத்து வேலைக்காரனாக தங்கையின் கணவர் வீட்டில் வேலை செய்யும் நிர்பந்தம் ஏற்படுகிறது. ஒருகட்டத்தில் தங்கையும், கணவரும் தான் வளர்த்த கம்பெனியிலேயே பித்தலாட்டம் செய்ய, என்ன முடிவெடுக்கிறான் அர்ஜுன் என்பதுதான் கதை. ",
+      "link": "/json/velaikkaran-Tamil.json"
+    },  
+    {
       "id": "274864",
       "title": "A Deal Signed in Love ",
       "slug": "a-deal-signed-in-love-3",
