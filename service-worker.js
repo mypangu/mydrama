@@ -1,7 +1,7 @@
 // Optimized Service Worker for Meow Streaming Site
 // service-worker.js
 
-const CACHE_VERSION = '1106261836';
+const CACHE_VERSION = '1206261236';
 const CACHE_NAMES = {
   STATIC: `meow-static-${CACHE_VERSION}`,
   DYNAMIC: `meow-dynamic-${CACHE_VERSION}`,
@@ -21,6 +21,7 @@ const STATIC_CACHE_URLS = [
   '/bengali.html',
   '/english.html',
   '/tamilaudio.html',
+  '/404.html',
   '/sw-register.js',
   '/manifest.json',
   '/favicon.ico'
